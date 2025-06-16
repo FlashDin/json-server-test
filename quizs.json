@@ -1,0 +1,1450 @@
+[
+  {
+    "id": 1,
+    "sentenceIds": [],
+    "key": "Latihan1",
+    "question": "تَمَنَّى أَنْ يَتَعَلَّمَ اللُّغَةَ الْعَرَبِيَّةَ، لِيَفْهَمَ الْقُرْآنَ الْكَرِيْمَ.",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "تَمَنَّى berharap ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "أَنْ  bahwa",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "يَتَعَلَّمَ mempelajari",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "اللُّغَةَ bahasa",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "الْعَرَبِيَّةَ Arab",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "لِيَفْهَمَ untuk memahami",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "الْقُرْآنَ Al-Qur’an",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 8,
+        "answer": "الْكَرِيْمَ yang mulia",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 2,
+    "sentenceIds": [],
+    "key": "Latihan1",
+    "question": "عَلِمَ سُلَيْمَانُ مِنْ أَحَدِ أَصْدِقَائِهِ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "عَلِمَ Mengetahui",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "سُلَيْمَانُ Sulaiman",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "مِنْ dari",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "أَحَدِ salah satu",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "أَصْدِقَائِهِ teman-temannya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 3,
+    "sentenceIds": [],
+    "key": "Latihan1",
+    "question": "يُقَدِّمُ مِنَحًا لِلدِّرَاسَةِ لِأَبْنَاءِ الْأُمَّةِ الْإِسْلَامِيَّةِ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "يُقَدِّمُ memberikan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "مِنَحًا beasiswa",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "لِلدِّرَاسَةِ untuk belajar",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "لِأَبْنَاءِ untuk anak-anak",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "الْأُمَّةِ Umat",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "الْإِسْلَامِيَّةِ Islam",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 4,
+    "sentenceIds": [],
+    "key": "Latihan2",
+    "question": ".... (1) .... الرَّجُلُ الْكَلَامَ\nأَخَدَ سُلَيْمَانُ .... (2).... فَمَلَأَهَا ثُمَّ .... (3) .... لِلْمُوَظَّفِ.\nهَلْ عِنْدَكَ .... (4) ....؟\nقَدَّمْتُ لِلاِلْتِحَاقِ بِالْمَعْهَدِ، وَانْتَظَرْتُ ....(5).... الْجَامِعَةِ.\nقَدَّمَتْ جَامِعَةُ الْإِمَامِ مُحَمَّدِ بْنِ سُعُوْدٍ الإِسْلَامِيَّةُ .... (6) .... دِرَاسِيَّةً لِأَبْنَاءِ ....(7).... الإِسْلَامِيَّةِ.\n",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "مُوَافَقَةَ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 4
+      },
+      {
+        "id": 2,
+        "answer": "اِسْتِبَانَةً",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 1
+      },
+      {
+        "id": 3,
+        "answer": "مِنَحًا",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 5
+      },
+      {
+        "id": 4,
+        "answer": "أَبْنَاءٌ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 3
+      },
+      {
+        "id": 5,
+        "answer": "قَدَّمَهَا",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 2
+      },
+      {
+        "id": 6,
+        "answer": "فَهِمَ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "الأُمَّةِ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 6
+      }
+    ],
+    "type": "ARRANGE",
+    "qType": "ar"
+  },
+  {
+    "id": 5,
+    "sentenceIds": [],
+    "key": "Latihan3",
+    "question": "وَأَيْقَظَ زَمِيْلَهُ عَبْدَ الرَّحْمٰنِ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "وَأَيْقَظَ dan dia membangunkan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "زَمِيْلَهُ temannya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "عَبْدَالرَّحْمٰنِ Abdurrahman",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 6,
+    "sentenceIds": [],
+    "key": "Latihan3",
+    "question": "دَخَلَ أَحْمَدُ عَلَى الطَّبِيْبِ وَ قَالَ لَهُ: أَشْعُرُ بِأَلَمٍ فِيْ بَطْنِيْ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "دَخَلَ masuk",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "أَحْمَدُ Ahmad",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "عَلَى di atas",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "الطَّبِيْبِ dokter",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "وَ  dan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "قَالَ berkata",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "لَهُ kepadanya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 8,
+        "answer": "أَشْعُرُ saya merasakan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 9,
+        "answer": "بِأَلَمٍ  sakit",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 10,
+        "answer": "فِيْ di dalam",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 11,
+        "answer": "بَطْنِيْ perutku",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 7,
+    "sentenceIds": [],
+    "key": "Latihan3",
+    "question": "شَكَرَ أَحْمَدُ الطَّبِيْبَ، ثُمَّ ذَهَبَ إِلَى الصَّيْدَلِيَّةِ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "شَكَرَ  berterima kasih",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "أَحْمَدُ Ahmad",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "الطَّبِيْبَ dokter",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "ثُمَّ kemudian",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "ذَهَبَ pergi",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "إِلَى ke",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "الصَّيْدَلِيَّةِ apotek",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 8,
+    "sentenceIds": [],
+    "key": "Latihan4",
+    "question": "لَا أَشْعُرُ بِالْأَلَمِ فِيْ هٰذِهِ ...(1)...\nكُنْتُ مَعَ أَحْمَدَ عِنْدَمَا ...(2)... بِالْأَلَمِ\nمَا ...(3)... الأَلَمِ الَّذِيْ أَشْعُرُ بِهِ؟\n...(4)... الأَلَمُ شَدِيْدًا\nلَا ...(5)... أَحْمَدَ مِنْ نَوْمِهِ\nشَاهَدْتُ مَرِيْضًا ...(6)... عَلَى الْأَرْضِ\nكَيْفَ ...(7)... مَنْصُوْرٍ الآنَ؟",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "حَالٌ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 6
+      },
+      {
+        "id": 2,
+        "answer": "يَسْتَلْقِي",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 5
+      },
+      {
+        "id": 3,
+        "answer": "أَحَسَّ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 1
+      },
+      {
+        "id": 4,
+        "answer": "تُوْقِظُ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 4
+      },
+      {
+        "id": 5,
+        "answer": "مَازَالَ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 3
+      },
+      {
+        "id": 6,
+        "answer": "اللَّحْظَةِ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "سَبَبُ",
+        "status": true,
+        "type": "ar",
+        "point": 14.285714286,
+        "arrange": 2
+      }
+    ],
+    "type": "ARRANGE",
+    "qType": "ar"
+  },
+  {
+    "id": 9,
+    "sentenceIds": [],
+    "key": "Latihan5",
+    "question": "ذَهَبَ مُصْطَفَى وَأَصْدِقَاؤُهُ اِلٰى السُّوْقِ يَوْمَ الْخَمِيسِ ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "ذَهَبَ pergi",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "مُصْطَفَى Mustofa",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "وَأَصْدِقَاؤُهُ dan teman-temannya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "اِلٰى ke",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "السُّوْقِ pasar",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "يَوْمَ hari",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "الْخَمِيسِ Kamis",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 10,
+    "sentenceIds": [],
+    "key": "Latihan5",
+    "question": "مِنْ مَلَابِسَ، وَأَحْذِيَةٍ، وَمَوَادَّ غِدَائِيَّةٍ، وَغَيْرِ ذٰلِكَ ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "مِنْ dari",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "مَلَابِسَ pakaian-pakaian",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "وَأَحْذِيَةٍ sepatu-sepatu",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "وَمَوَادَّ bahan-bahan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "غِدَائِيَّةٍ makanan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "وَغَيْرِ ذٰلِكَ dan lain sebagainya ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 11,
+    "sentenceIds": [],
+    "key": "Latihan5",
+    "question": "دَخَلَ مُصْطَفٰى وَأَصْدِقَاؤُهُ مَتْجَرًا فِيْهِ أَنْوَاعٌ كَثِيْرَةٌ مِنَ الْمَلَابِسِ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "دَخَلَ masuk",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "مُصْطَفٰى Mustofa",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "وَأَصْدِقَاؤُهُ dan teman-temannya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "مَتْجَرًا toko",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "فِيْهِ di dalamnya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "أَنْوَاعٌ macam-macam",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "كَثِيْرَةٌ banyak",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 8,
+        "answer": "مِنَ dari",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 9,
+        "answer": "الْمَلَابِسِ pakaian-pakaian",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 12,
+    "sentenceIds": [],
+    "key": "Latihan6",
+    "question": "دَخَلْنَا ...(1)... فِيْهِ ...(2)... كَثِيْرَةٌ مِنَ الْمَلَابِسِ.\nاِشْتَرَيْتُ قَمِيْصًا مِنَ ...(3)...\nبَعْضَ النَّاسِ يُحِبُّ أَنْ يَسْكُنَ فِيْ ...(4)...\nفِيْ الْمَدِيْنَةِ ...(5)... مِنَ الْحِجَارَةِ.",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "الضَّوَاحِيُ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 4
+      },
+      {
+        "id": 2,
+        "answer": "أَنْوَاعٌ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 1
+      },
+      {
+        "id": 3,
+        "answer": "مَتْجَرًا",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "الصُّوْفِ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 2
+      },
+      {
+        "id": 5,
+        "answer": "مَنَازِلُ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 3
+      }
+    ],
+    "type": "ARRANGE",
+    "qType": "ar"
+  },
+  {
+    "id": 13,
+    "sentenceIds": [],
+    "key": "Latihan7",
+    "question": "يَحُدُّهَا مِنَ الغَرْبِ البَحْرُ الْأَحْمَرُ،",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "يَحُدُّهَا membatasinya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "مِنَ dari",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "الغَرْبِ barat",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "البَحْرُ laut",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "الْأَحْمَرُ merah",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 14,
+    "sentenceIds": [],
+    "key": "Latihan7",
+    "question": "وَمِنْ أَهَمِّ مُدُنِهَا: مَكَّةُ الْمُكَرَّمَةُ، وَالْمَدِيْنَةُ الْمُنَوَّرَةُ ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "وَمِنْ dan dari",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "أَهَمِّ paling penting",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "مُدُنِهَا kota-kotanya ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "مَكَّةُ Mekah",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "الْمُكَرَّمَةُ yang dimuliakan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "وَالْمَدِيْنَةُ dan Madinah",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "الْمُنَوَّرَةُ yang bercahaya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 15,
+    "sentenceIds": [],
+    "key": "Latihan7",
+    "question": "والزِّرَاعَةُ فِيْهَا بِالآلَاتِ الحَادِيْثَةِ ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "والزِّرَاعَةُ pertanian",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "فِيْهَا disana",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "بِالآلَاتِ alat-alat",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "الحَادِيْثَةِ modern",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 16,
+    "sentenceIds": [],
+    "key": "Latihan8",
+    "question": "صَدِيْقِيْ يَعْمَلُ فِيْ ...(1)...\n...(2)... الفَلَّاحُوْنَ الْقَمْحَ\nقَضَيْنَا وَقْتًا طَوِيْلًا فِيْ ...(3)... الْخُضَارِ\nاَلْ...(4)... يَعْمَلُ فِيْ ...(5)...",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "زَرَعَ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 1
+      },
+      {
+        "id": 2,
+        "answer": "مَزْرَعَتِ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "الزِّرَاعَةِ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 2
+      },
+      {
+        "id": 4,
+        "answer": "مَزْرَعَةِ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 4
+      },
+      {
+        "id": 5,
+        "answer": "مُزَارِعُ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 3
+      }
+    ],
+    "type": "ARRANGE",
+    "qType": "ar"
+  },
+  {
+    "id": 17,
+    "sentenceIds": [],
+    "key": "Latihan9",
+    "question": "اَلْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُوْدِيَّةُ قِبْلَةُ الْعَالَمِ الْإِسْلَامِيِّ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "اَلْمَمْلَكَةُ kerajaan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "الْعَرَبِيَّةُ Arab",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "السُّعُوْدِيَّةُ Saudi",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "قِبْلَةُ kiblat",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "الْعَالَمِ dunia",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "الْإِسْلَامِيِّ islam",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 18,
+    "sentenceIds": [],
+    "key": "Latihan9",
+    "question": "وَفِيْ الْمَمْلَكَةِ مَدَارِسُ كَثِيْرَةٌ، وَبِهَا سَبْعُ جَامِعَاتٍ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "وَفِيْ dan di",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "الْمَمْلَكَةِ kerajaan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "مَدَارِسُ sekolah",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "كَثِيْرَةٌ، banyak",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "وَبِهَا dan dengannya",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "سَبْعُ tujuh",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "جَامِعَاتٍ universitas",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 19,
+    "sentenceIds": [],
+    "key": "Latihan9",
+    "question": "وَتَسْتَوْرِدُ السُّكَّرَ، وَالشَّايَ، وَالبُنَّ، وَالرُّزَّ، وَالْمَلَابِ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "وَتَسْتَوْرِدُ dan mengimpor",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "السُّكَّرَ، gula",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "وَالشَّايَ، teh",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "وَالبُنَّ، kopi",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "وَالرُّزَّ، beras",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "وَالْمَلَابِسَ pakaian",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 20,
+    "sentenceIds": [],
+    "key": "Latihan10",
+    "question": "المَدِيْنَةُ الْمُنَوَّرَةُ أَوَّلُ عَاصِمَةٍ ل...(1)... فِيْهَا الْمَسْجِدُ النَّبَوِيُّ وَ ...(2)... الرَّسُوْلِ اللهُ وَسَلَّمَ، وَقَبْرَا صَاحِبَيْهِ أَبِيْ بَكْرٍ وَ...(3)... . وَيَذْهَبُ ...(4)... إِلَى الْمَدِيْنَةِ؛ لِلصَّلَاةِ فِيْ ...(5)... النَّبَوِيِّ.",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "قَبْرُ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 1
+      },
+      {
+        "id": 2,
+        "answer": "المَسْجِدِ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "المُسْلِمُوْنَ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 2
+      },
+      {
+        "id": 4,
+        "answer": "عُمَرَ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 4
+      },
+      {
+        "id": 5,
+        "answer": "المُسْلِمِيْنَ",
+        "status": true,
+        "type": "ar",
+        "point": 20,
+        "arrange": 3
+      }
+    ],
+    "type": "ARRANGE",
+    "qType": "ar"
+  },
+  {
+    "id": 21,
+    "sentenceIds": [],
+    "key": "Latihan11",
+    "question": "فَهَيَّا نَذْهَبْ إِلَى إِحْدَى الْحَدَائِقِ خَارِجَ الْمَدِيْنَةِ.",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "فَهَيَّا maka marilah",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "نَذْهَبْ kita pergi",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "إِلَى ke",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "إِحْدَى salah satu",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "الْحَدَائِقِ taman",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "خَارِجَ luar",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "الْمَدِيْنَةِ. kota",
+        "status": true,
+        "type": "ar",
+        "point": 2,
+        "arrange": 1
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 22,
+    "sentenceIds": [],
+    "key": "Latihan11",
+    "question": "سَنَأْخُذُ مَعَنَا بَعْضَ الْطَّعَامِ، وَالْمَاءِ، وَالشَّايِ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "سَنَأْخُذُ kita akan membawa",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "مَعَنَا bersama kita",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "بَعْضَ beberapa",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "الْطَّعَامِ، makanan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "وَالْمَاءِ، dan air",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "وَالشَّايِ dan teh",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 23,
+    "sentenceIds": [],
+    "key": "Latihan11",
+    "question": "وَفِيْ الطَّرِيْقِ شَاهَدَا الأَشْجَارَ كَثِيْرَةَ وَالطُّيُوْرَ الْمُغَرِّدَةَ",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "وَفِيْ dan di",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 2,
+        "answer": "الطَّرِيْقِ jalan",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 3,
+        "answer": "شَاهَدَا mereka berdua melihat",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 4,
+        "answer": "الأَشْجَارَ pohon-pohon",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 5,
+        "answer": "كَثِيْرَةَ yang banyak",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 6,
+        "answer": "وَالطُّيُوْرَ burung-burung",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      },
+      {
+        "id": 7,
+        "answer": "الْمُغَرِّدَةَ berkicau",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "CHOICE_TEXT",
+    "qType": "ar"
+  },
+  {
+    "id": 24,
+    "sentenceIds": [],
+    "key": "Latihan12",
+    "question": "أَسْكُنُ ...(1)... سُوْرِيٍّ إِسْمُهُ.\n      رَجَعْتُ إِلَى الْبَيْتِ ...(2)... غُرُوْبِ الشَّمْسِ.\n      ذَهَبْتُ إِلِى صَدِيْقِيْ ... (3)... المَطَارِ.\n      أُرِيْدُ ...(4)... أَذْهَبُ إِلَى الْمَطْعَمِ.\n      أَشْعُرُ ...(5)... تَعَبِ.",
+    "answers": [
+      {
+        "id": 1,
+        "answer": "أَنْ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 3
+      },
+      {
+        "id": 2,
+        "answer": "فِيْ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 2
+      },
+      {
+        "id": 3,
+        "answer": "عِنْدَ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 1
+      },
+      {
+        "id": 4,
+        "answer": "بِ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 4
+      },
+      {
+        "id": 5,
+        "answer": "مَعَ",
+        "status": true,
+        "type": "ar",
+        "point": 1,
+        "arrange": 0
+      }
+    ],
+    "type": "ARRANGE",
+    "qType": "ar"
+  }
+]

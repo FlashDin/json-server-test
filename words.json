@@ -1,0 +1,6893 @@
+[
+  {
+    "id": 1,
+    "paragraphId": 1,
+    "audiosId": "P1K1",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K1",
+      "content": "P1K1.mp3",
+      "offline": "P1K1",
+      "createdDate": "2022-07-15T01:43:46.814Z",
+      "updatedDate": "2022-07-15T01:43:46.814Z"
+    }
+  },
+  {
+    "id": 2,
+    "paragraphId": 1,
+    "audiosId": "P1K2",
+    "content": "أُسْرَةٌ ج. أُسَرٌ",
+    "read": "",
+    "readIndonesia": "keluarga",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K2",
+      "content": "P1K2.mp3",
+      "offline": "P1K2",
+      "createdDate": "2022-07-15T01:43:46.815Z",
+      "updatedDate": "2022-07-15T01:43:46.815Z"
+    }
+  },
+  {
+    "id": 3,
+    "paragraphId": 1,
+    "audiosId": "P1K3",
+    "content": "تَمَنَّى - يَتَمَنَّ",
+    "read": "",
+    "readIndonesia": "menginginkan, berharap",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K3",
+      "content": "P1K3.mp3",
+      "offline": "P1K3",
+      "createdDate": "2022-07-15T01:43:46.816Z",
+      "updatedDate": "2022-07-15T01:43:46.816Z"
+    }
+  },
+  {
+    "id": 4,
+    "paragraphId": 1,
+    "audiosId": "P1K4",
+    "content": "تَعَلَّمَ - يَتَعَلَّمَ",
+    "read": "",
+    "readIndonesia": "belajar, mempelajari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K4",
+      "content": "P1K4.mp3",
+      "offline": "P1K4",
+      "createdDate": "2022-07-15T01:43:46.817Z",
+      "updatedDate": "2022-07-15T01:43:46.817Z"
+    }
+  },
+  {
+    "id": 5,
+    "paragraphId": 1,
+    "audiosId": "P1K5",
+    "content": "لُغَةٌ ج. لُغَاتٌ",
+    "read": "",
+    "readIndonesia": "Bahasa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K5",
+      "content": "P1K5.mp3",
+      "offline": "P1K5",
+      "createdDate": "2022-07-15T01:43:46.818Z",
+      "updatedDate": "2022-07-15T01:43:46.818Z"
+    }
+  },
+  {
+    "id": 6,
+    "paragraphId": 1,
+    "audiosId": "P1K6",
+    "content": "عَرَبِيٌّ، عَرَبِيَّةٌ",
+    "read": "",
+    "readIndonesia": "Arab",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K6",
+      "content": "P1K6.mp3",
+      "offline": "P1K6",
+      "createdDate": "2022-07-15T01:43:46.819Z",
+      "updatedDate": "2022-07-15T01:43:46.819Z"
+    }
+  },
+  {
+    "id": 7,
+    "paragraphId": 1,
+    "audiosId": "P1K7",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "Untuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K7",
+      "content": "P1K7.mp3",
+      "offline": "P1K7",
+      "createdDate": "2022-07-15T01:43:46.820Z",
+      "updatedDate": "2022-07-15T01:43:46.820Z"
+    }
+  },
+  {
+    "id": 8,
+    "paragraphId": 1,
+    "audiosId": "P1K8",
+    "content": "فَهِمَ - يَفْهَمُ",
+    "read": "",
+    "readIndonesia": "memahami",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K8",
+      "content": "P1K8.mp3",
+      "offline": "P1K8",
+      "createdDate": "2022-07-15T01:43:46.821Z",
+      "updatedDate": "2022-07-15T01:43:46.821Z"
+    }
+  },
+  {
+    "id": 9,
+    "paragraphId": 1,
+    "audiosId": "P1K9",
+    "content": "القُرْآنُ",
+    "read": "",
+    "readIndonesia": "Al Qur’an",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K9",
+      "content": "P1K9.mp3",
+      "offline": "P1K9",
+      "createdDate": "2022-07-15T01:43:46.822Z",
+      "updatedDate": "2022-07-15T01:43:46.822Z"
+    }
+  },
+  {
+    "id": 10,
+    "paragraphId": 1,
+    "audiosId": "P1K10",
+    "content": "كَرِيْمٌ",
+    "read": "",
+    "readIndonesia": "yang mulia",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P1K10",
+      "content": "P1K10.mp3",
+      "offline": "P1K10",
+      "createdDate": "2022-07-15T01:43:46.823Z",
+      "updatedDate": "2022-07-15T01:43:46.823Z"
+    }
+  },
+  {
+    "id": 11,
+    "paragraphId": "2",
+    "audiosId": "P2K1",
+    "content": "عَلِمَ - يَعْلَمُ",
+    "read": "",
+    "readIndonesia": "mengetahui, mengenali",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K1",
+      "content": "P2K1.mp3",
+      "offline": "P2K1",
+      "createdDate": "2022-07-15T01:43:46.824Z",
+      "updatedDate": "2022-07-15T01:43:46.824Z"
+    }
+  },
+  {
+    "id": 12,
+    "paragraphId": "2",
+    "audiosId": "P2K2",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K2",
+      "content": "P2K2.mp3",
+      "offline": "P2K2",
+      "createdDate": "2022-07-15T01:43:46.825Z",
+      "updatedDate": "2022-07-15T01:43:46.825Z"
+    }
+  },
+  {
+    "id": 13,
+    "paragraphId": "2",
+    "audiosId": "P2K3",
+    "content": "أَحَدٌ",
+    "read": "",
+    "readIndonesia": "satu, esa, seseorang",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K3",
+      "content": "P2K3.mp3",
+      "offline": "P2K3",
+      "createdDate": "2022-07-15T01:43:46.826Z",
+      "updatedDate": "2022-07-15T01:43:46.826Z"
+    }
+  },
+  {
+    "id": 14,
+    "paragraphId": "2",
+    "audiosId": "P2K4",
+    "content": "صَدِيْقٌ ج. أَصْدِقَاءُ، صَدِيْقَاتٌ",
+    "read": "",
+    "readIndonesia": "teman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K4",
+      "content": "P2K4.mp3",
+      "offline": "P2K4",
+      "createdDate": "2022-07-15T01:43:46.827Z",
+      "updatedDate": "2022-07-15T01:43:46.827Z"
+    }
+  },
+  {
+    "id": 15,
+    "paragraphId": "2",
+    "audiosId": "P2K5",
+    "content": "أَنَّ",
+    "read": "",
+    "readIndonesia": "bahwa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K5",
+      "content": "P2K5.mp3",
+      "offline": "P2K5",
+      "createdDate": "2022-07-15T01:43:46.828Z",
+      "updatedDate": "2022-07-15T01:43:46.828Z"
+    }
+  },
+  {
+    "id": 16,
+    "paragraphId": "2",
+    "audiosId": "P2K6",
+    "content": "مَعْهَدٌ ج. مَعَاهِدٌ",
+    "read": "",
+    "readIndonesia": "institut",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K6",
+      "content": "P2K6.mp3",
+      "offline": "P2K6",
+      "createdDate": "2022-07-15T01:43:46.829Z",
+      "updatedDate": "2022-07-15T01:43:46.829Z"
+    }
+  },
+  {
+    "id": 17,
+    "paragraphId": "2",
+    "audiosId": "P2K7",
+    "content": "لُغَةٌ ج. لُغَاتٌ",
+    "read": "",
+    "readIndonesia": "bahasa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K7",
+      "content": "P2K7.mp3",
+      "offline": "P2K7",
+      "createdDate": "2022-07-15T01:43:46.830Z",
+      "updatedDate": "2022-07-15T01:43:46.830Z"
+    }
+  },
+  {
+    "id": 18,
+    "paragraphId": "2",
+    "audiosId": "P2K8",
+    "content": "عَرَبِيٌّ، عَرَبِيَّةٌ",
+    "read": "",
+    "readIndonesia": "Arab",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K8",
+      "content": "P2K8.mp3",
+      "offline": "P2K8",
+      "createdDate": "2022-07-15T01:43:46.831Z",
+      "updatedDate": "2022-07-15T01:43:46.831Z"
+    }
+  },
+  {
+    "id": 19,
+    "paragraphId": "2",
+    "audiosId": "P2K9",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di, dalam, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K9",
+      "content": "P2K9.mp3",
+      "offline": "P2K9",
+      "createdDate": "2022-07-15T01:43:46.832Z",
+      "updatedDate": "2022-07-15T01:43:46.832Z"
+    }
+  },
+  {
+    "id": 20,
+    "paragraphId": "2",
+    "audiosId": "P2K10",
+    "content": "جَامِعَةٌ ج. جَامعَاتٌ",
+    "read": "",
+    "readIndonesia": "universitas",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K10",
+      "content": "P2K10.mp3",
+      "offline": "P2K10",
+      "createdDate": "2022-07-15T01:43:46.833Z",
+      "updatedDate": "2022-07-15T01:43:46.833Z"
+    }
+  },
+  {
+    "id": 21,
+    "paragraphId": "2",
+    "audiosId": "P2K11",
+    "content": "إِسْلَامِيَّةٌ",
+    "read": "",
+    "readIndonesia": "Islam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K11",
+      "content": "P2K11.mp3",
+      "offline": "P2K11",
+      "createdDate": "2022-07-15T01:43:46.834Z",
+      "updatedDate": "2022-07-15T01:43:46.834Z"
+    }
+  },
+  {
+    "id": 22,
+    "paragraphId": "2",
+    "audiosId": "P2K12",
+    "content": "مَمْلَكَةٌ ج. مَمَالِكُ",
+    "read": "",
+    "readIndonesia": "kerajaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K12",
+      "content": "P2K12.mp3",
+      "offline": "P2K12",
+      "createdDate": "2022-07-15T01:43:46.835Z",
+      "updatedDate": "2022-07-15T01:43:46.835Z"
+    }
+  },
+  {
+    "id": 23,
+    "paragraphId": "2",
+    "audiosId": "P2K13",
+    "content": "سُعُوْدِيَّةُ",
+    "read": "",
+    "readIndonesia": "Saudi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K13",
+      "content": "P2K13.mp3",
+      "offline": "P2K13",
+      "createdDate": "2022-07-15T01:43:46.836Z",
+      "updatedDate": "2022-07-15T01:43:46.836Z"
+    }
+  },
+  {
+    "id": 24,
+    "paragraphId": "2",
+    "audiosId": "P2K14",
+    "content": "قَدَّمَ - يُقَدِّمُ",
+    "read": "",
+    "readIndonesia": "menawarkan, mengajukan, memajukan, menunjukkan, memperlihatkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K14",
+      "content": "P2K14.mp3",
+      "offline": "P2K14",
+      "createdDate": "2022-07-15T01:43:46.837Z",
+      "updatedDate": "2022-07-15T01:43:46.837Z"
+    }
+  },
+  {
+    "id": 25,
+    "paragraphId": "2",
+    "audiosId": "P2K15",
+    "content": "مِنْحَةٌ ج. مِنَحٌ",
+    "read": "",
+    "readIndonesia": "pemberian, dana, hadiah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K15",
+      "content": "P2K15.mp3",
+      "offline": "P2K15",
+      "createdDate": "2022-07-15T01:43:46.838Z",
+      "updatedDate": "2022-07-15T01:43:46.838Z"
+    }
+  },
+  {
+    "id": 26,
+    "paragraphId": "2",
+    "audiosId": "P2K16",
+    "content": "دِرَاسَةٌ ج. دِرَاسَاتٌ",
+    "read": "",
+    "readIndonesia": "pelajaran, catatan, riset",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K16",
+      "content": "P2K16.mp3",
+      "offline": "P2K16",
+      "createdDate": "2022-07-15T01:43:46.839Z",
+      "updatedDate": "2022-07-15T01:43:46.839Z"
+    }
+  },
+  {
+    "id": 27,
+    "paragraphId": "2",
+    "audiosId": "P2K17",
+    "content": "مِنْحَةُ الدِّرَاسَةِ",
+    "read": "",
+    "readIndonesia": "beasiswa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K17",
+      "content": "P2K17.mp3",
+      "offline": "P2K17",
+      "createdDate": "2022-07-15T01:43:46.840Z",
+      "updatedDate": "2022-07-15T01:43:46.840Z"
+    }
+  },
+  {
+    "id": 28,
+    "paragraphId": "2",
+    "audiosId": "P2K18",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "untuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K18",
+      "content": "P2K18.mp3",
+      "offline": "P2K18",
+      "createdDate": "2022-07-15T01:43:46.841Z",
+      "updatedDate": "2022-07-15T01:43:46.841Z"
+    }
+  },
+  {
+    "id": 29,
+    "paragraphId": "2",
+    "audiosId": "P2K19",
+    "content": "اِبْنٌ ج. أَبْنَاءُ",
+    "read": "",
+    "readIndonesia": "anak laki-laki",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K19",
+      "content": "P2K19.mp3",
+      "offline": "P2K19",
+      "createdDate": "2022-07-15T01:43:46.842Z",
+      "updatedDate": "2022-07-15T01:43:46.842Z"
+    }
+  },
+  {
+    "id": 30,
+    "paragraphId": "2",
+    "audiosId": "P2K20",
+    "content": "أُمَّةٌ ج. أُمَامٌ",
+    "read": "",
+    "readIndonesia": "umat, bangsa, rakyat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K20",
+      "content": "P2K20.mp3",
+      "offline": "P2K20",
+      "createdDate": "2022-07-15T01:43:46.843Z",
+      "updatedDate": "2022-07-15T01:43:46.843Z"
+    }
+  },
+  {
+    "id": 31,
+    "paragraphId": "2",
+    "audiosId": "P2K21",
+    "content": "فَ",
+    "read": "",
+    "readIndonesia": "maka",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K21",
+      "content": "P2K21.mp3",
+      "offline": "P2K21",
+      "createdDate": "2022-07-15T01:43:46.844Z",
+      "updatedDate": "2022-07-15T01:43:46.844Z"
+    }
+  },
+  {
+    "id": 32,
+    "paragraphId": "2",
+    "audiosId": "P2K22",
+    "content": "ذَهَبَ - يَذْهَبُ",
+    "read": "",
+    "readIndonesia": "pergi, berkunjung, menuju ke, berangkat, meninggalkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K22",
+      "content": "P2K22.mp3",
+      "offline": "P2K22",
+      "createdDate": "2022-07-15T01:43:46.845Z",
+      "updatedDate": "2022-07-15T01:43:46.845Z"
+    }
+  },
+  {
+    "id": 33,
+    "paragraphId": "2",
+    "audiosId": "P2K23",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "ke",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K23",
+      "content": "P2K23.mp3",
+      "offline": "P2K23",
+      "createdDate": "2022-07-15T01:43:46.846Z",
+      "updatedDate": "2022-07-15T01:43:46.846Z"
+    }
+  },
+  {
+    "id": 34,
+    "paragraphId": "2",
+    "audiosId": "P2K24",
+    "content": "سِفَارَةٌ",
+    "read": "",
+    "readIndonesia": "kedutaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K24",
+      "content": "P2K24.mp3",
+      "offline": "P2K24",
+      "createdDate": "2022-07-15T01:43:46.847Z",
+      "updatedDate": "2022-07-15T01:43:46.847Z"
+    }
+  },
+  {
+    "id": 35,
+    "paragraphId": "2",
+    "audiosId": "P2K25",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K25",
+      "content": "P2K25.mp3",
+      "offline": "P2K25",
+      "createdDate": "2022-07-15T01:43:46.848Z",
+      "updatedDate": "2022-07-15T01:43:46.848Z"
+    }
+  },
+  {
+    "id": 36,
+    "paragraphId": "2",
+    "audiosId": "P2K26",
+    "content": "أَخَدَ - يَأْخُدُ",
+    "read": "",
+    "readIndonesia": "mengambil, menerima, mendapatkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K26",
+      "content": "P2K26.mp3",
+      "offline": "P2K26",
+      "createdDate": "2022-07-15T01:43:46.849Z",
+      "updatedDate": "2022-07-15T01:43:46.849Z"
+    }
+  },
+  {
+    "id": 37,
+    "paragraphId": "2",
+    "audiosId": "P2K27",
+    "content": "اِسْتِبَانَةٌ ج. اِسْتِبَانَاتٌ",
+    "read": "",
+    "readIndonesia": "daftar pertanyaan, formulir",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K27",
+      "content": "P2K27.mp3",
+      "offline": "P2K27",
+      "createdDate": "2022-07-15T01:43:46.850Z",
+      "updatedDate": "2022-07-15T01:43:46.850Z"
+    }
+  },
+  {
+    "id": 38,
+    "paragraphId": "2",
+    "audiosId": "P2K28",
+    "content": "مَلَأَ -يَمْلَأُ",
+    "read": "",
+    "readIndonesia": "mengisi, memenuhi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K28",
+      "content": "P2K28.mp3",
+      "offline": "P2K28",
+      "createdDate": "2022-07-15T01:43:46.851Z",
+      "updatedDate": "2022-07-15T01:43:46.851Z"
+    }
+  },
+  {
+    "id": 39,
+    "paragraphId": "2",
+    "audiosId": "P2K29",
+    "content": "أَعْطَى - يُعْطِيْ",
+    "read": "",
+    "readIndonesia": "memberikan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K29",
+      "content": "P2K29.mp3",
+      "offline": "P2K29",
+      "createdDate": "2022-07-15T01:43:46.852Z",
+      "updatedDate": "2022-07-15T01:43:46.852Z"
+    }
+  },
+  {
+    "id": 40,
+    "paragraphId": "2",
+    "audiosId": "P2K30",
+    "content": "مُوَظَّفٌ ج. مُوَظَّفُوْنَ، مُوَظَّفَاتٌ",
+    "read": "",
+    "readIndonesia": "pegawai",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K30",
+      "content": "P2K30.mp3",
+      "offline": "P2K30",
+      "createdDate": "2022-07-15T01:43:46.853Z",
+      "updatedDate": "2022-07-15T01:43:46.853Z"
+    }
+  },
+  {
+    "id": 41,
+    "paragraphId": "2",
+    "audiosId": "P2K31",
+    "content": "جَوَازٌ",
+    "read": "",
+    "readIndonesia": "Legalitas, kebolehan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K31",
+      "content": "P2K31.mp3",
+      "offline": "P2K31",
+      "createdDate": "2022-07-15T01:43:46.854Z",
+      "updatedDate": "2022-07-15T01:43:46.854Z"
+    }
+  },
+  {
+    "id": 42,
+    "paragraphId": "2",
+    "audiosId": "P2K32",
+    "content": "جَوَازُ السَّفَرِ",
+    "read": "",
+    "readIndonesia": "paspor",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K32",
+      "content": "P2K32.mp3",
+      "offline": "P2K32",
+      "createdDate": "2022-07-15T01:43:46.855Z",
+      "updatedDate": "2022-07-15T01:43:46.855Z"
+    }
+  },
+  {
+    "id": 43,
+    "paragraphId": "2",
+    "audiosId": "P2K33",
+    "content": "حَصَلَ - يَحْصُلُ عَلَى",
+    "read": "",
+    "readIndonesia": "memperoleh, mendapatkan, memiliki, menerima, mencapai, menghasilkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K33",
+      "content": "P2K33.mp3",
+      "offline": "P2K33",
+      "createdDate": "2022-07-15T01:43:46.856Z",
+      "updatedDate": "2022-07-15T01:43:46.856Z"
+    }
+  },
+  {
+    "id": 44,
+    "paragraphId": "2",
+    "audiosId": "P2K34",
+    "content": "تَأْشِيْرَةِ الدُّخُوْلِ",
+    "read": "",
+    "readIndonesia": "visa masuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K34",
+      "content": "P2K34.mp3",
+      "offline": "P2K34",
+      "createdDate": "2022-07-15T01:43:46.857Z",
+      "updatedDate": "2022-07-15T01:43:46.857Z"
+    }
+  },
+  {
+    "id": 45,
+    "paragraphId": "2",
+    "audiosId": "P2K35",
+    "content": "بَعْدَ",
+    "read": "",
+    "readIndonesia": "setelah, berikut, mengikuti",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K35",
+      "content": "P2K35.mp3",
+      "offline": "P2K35",
+      "createdDate": "2022-07-15T01:43:46.858Z",
+      "updatedDate": "2022-07-15T01:43:46.858Z"
+    }
+  },
+  {
+    "id": 46,
+    "paragraphId": "2",
+    "audiosId": "P2K36",
+    "content": "يَوْمٌ ج. أَيَّامٌ",
+    "read": "",
+    "readIndonesia": "hari ",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K36",
+      "content": "P2K36.mp3",
+      "offline": "P2K36",
+      "createdDate": "2022-07-15T01:43:46.859Z",
+      "updatedDate": "2022-07-15T01:43:46.859Z"
+    }
+  },
+  {
+    "id": 47,
+    "paragraphId": "2",
+    "audiosId": "P2K37",
+    "content": "مُوَافَقَةٌ ج. مُوَافَقَاتٌ",
+    "read": "",
+    "readIndonesia": "pengabulan, pengizinan, penyepakatan, penyetujuan, persetujuan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K37",
+      "content": "P2K37.mp3",
+      "offline": "P2K37",
+      "createdDate": "2022-07-15T01:43:46.860Z",
+      "updatedDate": "2022-07-15T01:43:46.860Z"
+    }
+  },
+  {
+    "id": 48,
+    "paragraphId": "2",
+    "audiosId": "P2K38",
+    "content": "سَافَرَ - يُسَافِرُ",
+    "read": "",
+    "readIndonesia": "bepergian, melakukan perjalanan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K38",
+      "content": "P2K38.mp3",
+      "offline": "P2K38",
+      "createdDate": "2022-07-15T01:43:46.861Z",
+      "updatedDate": "2022-07-15T01:43:46.861Z"
+    }
+  },
+  {
+    "id": 49,
+    "paragraphId": "2",
+    "audiosId": "P2K39",
+    "content": "دَرَسَ - يَدْرُسُ",
+    "read": "",
+    "readIndonesia": "belajar, mempelajari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "P2K39",
+      "content": "P2K39.mp3",
+      "offline": "P2K39",
+      "createdDate": "2022-07-15T01:43:46.862Z",
+      "updatedDate": "2022-07-15T01:43:46.862Z"
+    }
+  },
+  {
+    "id": 50,
+    "paragraphId": "3",
+    "audiosId": "B2P1K1",
+    "content": "اِسْتَيْقَظَ - يَسْتَيْقِظُ",
+    "read": "",
+    "readIndonesia": "terjaga, bangun, berjaga, bangkit, bersiap-sedia",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K1",
+      "content": "B2P1K1.mp3",
+      "offline": "B2P1K1",
+      "createdDate": "2022-07-15T01:43:46.883Z",
+      "updatedDate": "2022-07-15T01:43:46.883Z"
+    }
+  },
+  {
+    "id": 51,
+    "paragraphId": "3",
+    "audiosId": "B2P1K2",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "Dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K2",
+      "content": "B2P1K2.mp3",
+      "offline": "B2P1K2",
+      "createdDate": "2022-07-15T01:43:46.884Z",
+      "updatedDate": "2022-07-15T01:43:46.884Z"
+    }
+  },
+  {
+    "id": 52,
+    "paragraphId": "3",
+    "audiosId": "B2P1K3",
+    "content": "نَوْمٌ",
+    "read": "",
+    "readIndonesia": "tidur, tidur nyenyak, tidur pulas",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K3",
+      "content": "B2P1K3.mp3",
+      "offline": "B2P1K3",
+      "createdDate": "2022-07-15T01:43:46.885Z",
+      "updatedDate": "2022-07-15T01:43:46.885Z"
+    }
+  },
+  {
+    "id": 53,
+    "paragraphId": "3",
+    "audiosId": "B2P1K4",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di, dalam, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K4",
+      "content": "B2P1K4.mp3",
+      "offline": "B2P1K4",
+      "createdDate": "2022-07-15T01:43:46.886Z",
+      "updatedDate": "2022-07-15T01:43:46.886Z"
+    }
+  },
+  {
+    "id": 54,
+    "paragraphId": "3",
+    "audiosId": "B2P1K5",
+    "content": "لَيْلٌ ج. لَيَالٍ",
+    "read": "",
+    "readIndonesia": "malam, malam hari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K5",
+      "content": "B2P1K5.mp3",
+      "offline": "B2P1K5",
+      "createdDate": "2022-07-15T01:43:46.887Z",
+      "updatedDate": "2022-07-15T01:43:46.887Z"
+    }
+  },
+  {
+    "id": 55,
+    "paragraphId": "3",
+    "audiosId": "B2P1K6",
+    "content": "قَدْ",
+    "read": "",
+    "readIndonesia": "mungkin, barangkali, sungguh, pasti",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K6",
+      "content": "B2P1K6.mp3",
+      "offline": "B2P1K6",
+      "createdDate": "2022-07-15T01:43:46.888Z",
+      "updatedDate": "2022-07-15T01:43:46.888Z"
+    }
+  },
+  {
+    "id": 56,
+    "paragraphId": "3",
+    "audiosId": "B2P1K7",
+    "content": "أَحَسَّ - يُحِسُّ",
+    "read": "",
+    "readIndonesia": "merasakan,menyadari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K7",
+      "content": "B2P1K7.mp3",
+      "offline": "B2P1K7",
+      "createdDate": "2022-07-15T01:43:46.889Z",
+      "updatedDate": "2022-07-15T01:43:46.889Z"
+    }
+  },
+  {
+    "id": 57,
+    "paragraphId": "3",
+    "audiosId": "B2P1K8",
+    "content": "بِ",
+    "read": "",
+    "readIndonesia": "dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K8",
+      "content": "B2P1K8.mp3",
+      "offline": "B2P1K8",
+      "createdDate": "2022-07-15T01:43:46.890Z",
+      "updatedDate": "2022-07-15T01:43:46.890Z"
+    }
+  },
+  {
+    "id": 58,
+    "paragraphId": "3",
+    "audiosId": "B2P1K9",
+    "content": "أَلَمٌ ج. آلَامٌ",
+    "read": "",
+    "readIndonesia": "sakit, menyakitkan, nyeri, menderita sakit",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K9",
+      "content": "B2P1K9.mp3",
+      "offline": "B2P1K9",
+      "createdDate": "2022-07-15T01:43:46.891Z",
+      "updatedDate": "2022-07-15T01:43:46.891Z"
+    }
+  },
+  {
+    "id": 59,
+    "paragraphId": "3",
+    "audiosId": "B2P1K10",
+    "content": "شَدِيْدٌ",
+    "read": "",
+    "readIndonesia": "sangat, kuat, perkasa, bertenaga, jengkel, kasar, amat, keras, kejam, akut, tekun, drastis, tabah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K10",
+      "content": "B2P1K10.mp3",
+      "offline": "B2P1K10",
+      "createdDate": "2022-07-15T01:43:46.892Z",
+      "updatedDate": "2022-07-15T01:43:46.892Z"
+    }
+  },
+  {
+    "id": 60,
+    "paragraphId": "3",
+    "audiosId": "B2P1K11",
+    "content": "بَطْنٌ ج. أَبْطُنٌ، بُطْنَانٌ، بُطُوْنٌ",
+    "read": "",
+    "readIndonesia": "perut, abdomen",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K11",
+      "content": "B2P1K11.mp3",
+      "offline": "B2P1K11",
+      "createdDate": "2022-07-15T01:43:46.893Z",
+      "updatedDate": "2022-07-15T01:43:46.893Z"
+    }
+  },
+  {
+    "id": 61,
+    "paragraphId": "3",
+    "audiosId": "B2P1K12",
+    "content": "أَيْقَظَ - يُوْقِظُ",
+    "read": "",
+    "readIndonesia": "membangunkan, membangkitkan, menyadarkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K12",
+      "content": "B2P1K12.mp3",
+      "offline": "B2P1K12",
+      "createdDate": "2022-07-15T01:43:46.894Z",
+      "updatedDate": "2022-07-15T01:43:46.894Z"
+    }
+  },
+  {
+    "id": 62,
+    "paragraphId": "3",
+    "audiosId": "B2P1K13",
+    "content": "زَمِيْلٌ ج. زُمَلَاءُ",
+    "read": "",
+    "readIndonesia": "kolega, asosiasi, rekan, teman, peserta",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K13",
+      "content": "B2P1K13.mp3",
+      "offline": "B2P1K13",
+      "createdDate": "2022-07-15T01:43:46.895Z",
+      "updatedDate": "2022-07-15T01:43:46.895Z"
+    }
+  },
+  {
+    "id": 63,
+    "paragraphId": "3",
+    "audiosId": "B2P1K14",
+    "content": "أَخْبَرَ - يُخبِرُ",
+    "read": "",
+    "readIndonesia": "mengabarkan, memberitahukan, menginformasikan, memberitakan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K14",
+      "content": "B2P1K14.mp3",
+      "offline": "B2P1K14",
+      "createdDate": "2022-07-15T01:43:46.896Z",
+      "updatedDate": "2022-07-15T01:43:46.896Z"
+    }
+  },
+  {
+    "id": 64,
+    "paragraphId": "3",
+    "audiosId": "B2P1K15",
+    "content": "عَنْ",
+    "read": "",
+    "readIndonesia": "dari, tentang, berkenaan dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K15",
+      "content": "B2P1K15.mp3",
+      "offline": "B2P1K15",
+      "createdDate": "2022-07-15T01:43:46.897Z",
+      "updatedDate": "2022-07-15T01:43:46.897Z"
+    }
+  },
+  {
+    "id": 65,
+    "paragraphId": "3",
+    "audiosId": "B2P1K16",
+    "content": "حَالٌ ج. أَحْوِلَةٌ، حَالَاتٌ",
+    "read": "",
+    "readIndonesia": "hal, keadaan, kondisi, situasi, status, kasus",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K16",
+      "content": "B2P1K16.mp3",
+      "offline": "B2P1K16",
+      "createdDate": "2022-07-15T01:43:46.898Z",
+      "updatedDate": "2022-07-15T01:43:46.898Z"
+    }
+  },
+  {
+    "id": 66,
+    "paragraphId": "3",
+    "audiosId": "B2P1K17",
+    "content": "فَ",
+    "read": "",
+    "readIndonesia": "maka",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K17",
+      "content": "B2P1K17.mp3",
+      "offline": "B2P1K17",
+      "createdDate": "2022-07-15T01:43:46.899Z",
+      "updatedDate": "2022-07-15T01:43:46.899Z"
+    }
+  },
+  {
+    "id": 67,
+    "paragraphId": "3",
+    "audiosId": "B2P1K18",
+    "content": "لَبِسَ - يَلْبِسُ",
+    "read": "",
+    "readIndonesia": "memakai, berpakaian, mengenakan, menggunakan pakaian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K18",
+      "content": "B2P1K18.mp3",
+      "offline": "B2P1K18",
+      "createdDate": "2022-07-15T01:43:46.900Z",
+      "updatedDate": "2022-07-15T01:43:46.900Z"
+    }
+  },
+  {
+    "id": 68,
+    "paragraphId": "3",
+    "audiosId": "B2P1K19",
+    "content": "مَلَابِسٌ  ج. مَلْبَسٌ",
+    "read": "",
+    "readIndonesia": "pakaian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K19",
+      "content": "B2P1K19.mp3",
+      "offline": "B2P1K19",
+      "createdDate": "2022-07-15T01:43:46.901Z",
+      "updatedDate": "2022-07-15T01:43:46.901Z"
+    }
+  },
+  {
+    "id": 69,
+    "paragraphId": "3",
+    "audiosId": "B2P1K20",
+    "content": "خَرَجَ - يَخْرُجُ",
+    "read": "",
+    "readIndonesia": "keluar, muncul, timbul, pergi, meninggalkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K20",
+      "content": "B2P1K20.mp3",
+      "offline": "B2P1K20",
+      "createdDate": "2022-07-15T01:43:46.902Z",
+      "updatedDate": "2022-07-15T01:43:46.902Z"
+    }
+  },
+  {
+    "id": 70,
+    "paragraphId": "3",
+    "audiosId": "B2P1K21",
+    "content": "مَعَ",
+    "read": "",
+    "readIndonesia": "beserta, dengan, bersama, disamping",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K21",
+      "content": "B2P1K21.mp3",
+      "offline": "B2P1K21",
+      "createdDate": "2022-07-15T01:43:46.903Z",
+      "updatedDate": "2022-07-15T01:43:46.903Z"
+    }
+  },
+  {
+    "id": 71,
+    "paragraphId": "3",
+    "audiosId": "B2P1K22",
+    "content": "مُتَّجِهٌ",
+    "read": "",
+    "readIndonesia": "menuju,mengarah, menghadap ke",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K22",
+      "content": "B2P1K22.mp3",
+      "offline": "B2P1K22",
+      "createdDate": "2022-07-15T01:43:46.904Z",
+      "updatedDate": "2022-07-15T01:43:46.904Z"
+    }
+  },
+  {
+    "id": 72,
+    "paragraphId": "3",
+    "audiosId": "B2P1K23",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "ke",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K23",
+      "content": "B2P1K23.mp3",
+      "offline": "B2P1K23",
+      "createdDate": "2022-07-15T01:43:46.905Z",
+      "updatedDate": "2022-07-15T01:43:46.905Z"
+    }
+  },
+  {
+    "id": 73,
+    "paragraphId": "3",
+    "audiosId": "B2P1K24",
+    "content": "مُسْتَشْفَى ج. مُسْتَشْفَيَاتٌ",
+    "read": "",
+    "readIndonesia": "Rumah sakit",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K24",
+      "content": "B2P1K24.mp3",
+      "offline": "B2P1K24",
+      "createdDate": "2022-07-15T01:43:46.906Z",
+      "updatedDate": "2022-07-15T01:43:46.906Z"
+    }
+  },
+  {
+    "id": 74,
+    "paragraphId": "3",
+    "audiosId": "B2P1K25",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K25",
+      "content": "B2P1K25.mp3",
+      "offline": "B2P1K25",
+      "createdDate": "2022-07-15T01:43:46.907Z",
+      "updatedDate": "2022-07-15T01:43:46.907Z"
+    }
+  },
+  {
+    "id": 75,
+    "paragraphId": "3",
+    "audiosId": "B2P1K26",
+    "content": "عِنْدَمَا",
+    "read": "",
+    "readIndonesia": "manakala, seketika, selagi, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K26",
+      "content": "B2P1K26.mp3",
+      "offline": "B2P1K26",
+      "createdDate": "2022-07-15T01:43:46.908Z",
+      "updatedDate": "2022-07-15T01:43:46.908Z"
+    }
+  },
+  {
+    "id": 76,
+    "paragraphId": "3",
+    "audiosId": "B2P1K27",
+    "content": "وَصَلَ – يَصِلُ",
+    "read": "",
+    "readIndonesia": "tiba, sampai, datang, mencapai, berakhir di, pergi sejauh;",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K27",
+      "content": "B2P1K27.mp3",
+      "offline": "B2P1K27",
+      "createdDate": "2022-07-15T01:43:46.909Z",
+      "updatedDate": "2022-07-15T01:43:46.909Z"
+    }
+  },
+  {
+    "id": 77,
+    "paragraphId": "3",
+    "audiosId": "B2P1K28",
+    "content": "دَخَلَ – يَدْخُلُ",
+    "read": "",
+    "readIndonesia": "masuk, memasuki, melangkah ke dalam, pindah, bergabung dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K28",
+      "content": "B2P1K28.mp3",
+      "offline": "B2P1K28",
+      "createdDate": "2022-07-15T01:43:46.910Z",
+      "updatedDate": "2022-07-15T01:43:46.910Z"
+    }
+  },
+  {
+    "id": 78,
+    "paragraphId": "3",
+    "audiosId": "B2P1K29",
+    "content": "عَلَى",
+    "read": "",
+    "readIndonesia": "atas, di atas, ke atas, kepada, terhadap, dengan, daripada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K29",
+      "content": "B2P1K29.mp3",
+      "offline": "B2P1K29",
+      "createdDate": "2022-07-15T01:43:46.911Z",
+      "updatedDate": "2022-07-15T01:43:46.911Z"
+    }
+  },
+  {
+    "id": 79,
+    "paragraphId": "3",
+    "audiosId": "B2P1K30",
+    "content": "طَبِيْبٌ ج. أَطِبَّاءُ، أَطِبَّةٌ",
+    "read": "",
+    "readIndonesia": "dokter",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K30",
+      "content": "B2P1K30.mp3",
+      "offline": "B2P1K30",
+      "createdDate": "2022-07-15T01:43:46.912Z",
+      "updatedDate": "2022-07-15T01:43:46.912Z"
+    }
+  },
+  {
+    "id": 80,
+    "paragraphId": "3",
+    "audiosId": "B2P1K31",
+    "content": "قَالَ – يَقُوْلُ",
+    "read": "",
+    "readIndonesia": "berkata, mengatakan, mengucapkan, menceritakan, memberitahukan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K31",
+      "content": "B2P1K31.mp3",
+      "offline": "B2P1K31",
+      "createdDate": "2022-07-15T01:43:46.913Z",
+      "updatedDate": "2022-07-15T01:43:46.913Z"
+    }
+  },
+  {
+    "id": 81,
+    "paragraphId": "3",
+    "audiosId": "B2P1K32",
+    "content": "لَ",
+    "read": "",
+    "readIndonesia": "bagi, kepada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K32",
+      "content": "B2P1K32.mp3",
+      "offline": "B2P1K32",
+      "createdDate": "2022-07-15T01:43:46.914Z",
+      "updatedDate": "2022-07-15T01:43:46.914Z"
+    }
+  },
+  {
+    "id": 82,
+    "paragraphId": "3",
+    "audiosId": "B2P1K33",
+    "content": "شَعَرَ - يَشْعُرُ بِـ",
+    "read": "",
+    "readIndonesia": "merasakan, meraba, menyadari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K33",
+      "content": "B2P1K33.mp3",
+      "offline": "B2P1K33",
+      "createdDate": "2022-07-15T01:43:46.915Z",
+      "updatedDate": "2022-07-15T01:43:46.915Z"
+    }
+  },
+  {
+    "id": 83,
+    "paragraphId": "3",
+    "audiosId": "B2P1K34",
+    "content": "مَا زَالَ",
+    "read": "",
+    "readIndonesia": "senantiasa, tetap, terus, masih",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K34",
+      "content": "B2P1K34.mp3",
+      "offline": "B2P1K34",
+      "createdDate": "2022-07-15T01:43:46.916Z",
+      "updatedDate": "2022-07-15T01:43:46.916Z"
+    }
+  },
+  {
+    "id": 84,
+    "paragraphId": "3",
+    "audiosId": "B2P1K35",
+    "content": "حَتَّى",
+    "read": "",
+    "readIndonesia": "sampai, hingga, sebelum",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K35",
+      "content": "B2P1K35.mp3",
+      "offline": "B2P1K35",
+      "createdDate": "2022-07-15T01:43:46.917Z",
+      "updatedDate": "2022-07-15T01:43:46.917Z"
+    }
+  },
+  {
+    "id": 85,
+    "paragraphId": "3",
+    "audiosId": "B2P1K36",
+    "content": "هٰذِهِ اللَّحْظَةِ",
+    "read": "",
+    "readIndonesia": "saat ini, detik ini",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P1K36",
+      "content": "B2P1K36.mp3",
+      "offline": "B2P1K36",
+      "createdDate": "2022-07-15T01:43:46.918Z",
+      "updatedDate": "2022-07-15T01:43:46.918Z"
+    }
+  },
+  {
+    "id": 86,
+    "paragraphId": "4",
+    "audiosId": "B2P2K1",
+    "content": "طَلَبَ – يَطْلُبُ",
+    "read": "",
+    "readIndonesia": "meminta, memohon, mencari, memesan, menuntut, memerlukan, menginginkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K1",
+      "content": "B2P2K1.mp3",
+      "offline": "B2P2K1",
+      "createdDate": "2022-07-15T01:43:46.919Z",
+      "updatedDate": "2022-07-15T01:43:46.919Z"
+    }
+  },
+  {
+    "id": 87,
+    "paragraphId": "4",
+    "audiosId": "B2P2K2",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K2",
+      "content": "B2P2K2.mp3",
+      "offline": "B2P2K2",
+      "createdDate": "2022-07-15T01:43:46.920Z",
+      "updatedDate": "2022-07-15T01:43:46.920Z"
+    }
+  },
+  {
+    "id": 88,
+    "paragraphId": "4",
+    "audiosId": "B2P2K3",
+    "content": "طَبِيْبٌ ج. أَطِبَّاءُ، أَطِبَّةٌ",
+    "read": "",
+    "readIndonesia": "dokter",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K3",
+      "content": "B2P2K3.mp3",
+      "offline": "B2P2K3",
+      "createdDate": "2022-07-15T01:43:46.921Z",
+      "updatedDate": "2022-07-15T01:43:46.921Z"
+    }
+  },
+  {
+    "id": 89,
+    "paragraphId": "4",
+    "audiosId": "B2P2K4",
+    "content": "أَنْ",
+    "read": "",
+    "readIndonesia": "agar, bahwa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K4",
+      "content": "B2P2K4.mp3",
+      "offline": "B2P2K4",
+      "createdDate": "2022-07-15T01:43:46.922Z",
+      "updatedDate": "2022-07-15T01:43:46.922Z"
+    }
+  },
+  {
+    "id": 90,
+    "paragraphId": "4",
+    "audiosId": "B2P2K5",
+    "content": "اِسْتَلْقَى – يَسْتَلْقِيْ",
+    "read": "",
+    "readIndonesia": "berbaring, bersandar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K5",
+      "content": "B2P2K5.mp3",
+      "offline": "B2P2K5",
+      "createdDate": "2022-07-15T01:43:46.923Z",
+      "updatedDate": "2022-07-15T01:43:46.923Z"
+    }
+  },
+  {
+    "id": 91,
+    "paragraphId": "4",
+    "audiosId": "B2P2K6",
+    "content": "عَلَى",
+    "read": "",
+    "readIndonesia": "atas, di atas, ke atas, kepada, terhadap, dengan, daripada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K6",
+      "content": "B2P2K6.mp3",
+      "offline": "B2P2K6",
+      "createdDate": "2022-07-15T01:43:46.924Z",
+      "updatedDate": "2022-07-15T01:43:46.924Z"
+    }
+  },
+  {
+    "id": 92,
+    "paragraphId": "4",
+    "audiosId": "B2P2K7",
+    "content": "سَرِيْرٌ ج. أَسِرَّةٌ، سُرَرٌ، سُرُرٌ",
+    "read": "",
+    "readIndonesia": "kasur, dipan, ranjang",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K7",
+      "content": "B2P2K7.mp3",
+      "offline": "B2P2K7",
+      "createdDate": "2022-07-15T01:43:46.925Z",
+      "updatedDate": "2022-07-15T01:43:46.925Z"
+    }
+  },
+  {
+    "id": 93,
+    "paragraphId": "4",
+    "audiosId": "B2P2K8",
+    "content": "ثُمَّ",
+    "read": "",
+    "readIndonesia": "kemudian, setelah itu",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K8",
+      "content": "B2P2K8.mp3",
+      "offline": "B2P2K8",
+      "createdDate": "2022-07-15T01:43:46.926Z",
+      "updatedDate": "2022-07-15T01:43:46.926Z"
+    }
+  },
+  {
+    "id": 94,
+    "paragraphId": "4",
+    "audiosId": "B2P2K9",
+    "content": "فَحَصَ – يَفْحَصُ",
+    "read": "",
+    "readIndonesia": "menguji, mengetes, memeriksa, menyelidiki, mencari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K9",
+      "content": "B2P2K9.mp3",
+      "offline": "B2P2K9",
+      "createdDate": "2022-07-15T01:43:46.927Z",
+      "updatedDate": "2022-07-15T01:43:46.927Z"
+    }
+  },
+  {
+    "id": 95,
+    "paragraphId": "4",
+    "audiosId": "B2P2K10",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K10",
+      "content": "B2P2K10.mp3",
+      "offline": "B2P2K10",
+      "createdDate": "2022-07-15T01:43:46.928Z",
+      "updatedDate": "2022-07-15T01:43:46.928Z"
+    }
+  },
+  {
+    "id": 96,
+    "paragraphId": "4",
+    "audiosId": "B2P2K11",
+    "content": "قَالَ – يَقُوْلُ",
+    "read": "",
+    "readIndonesia": "berkata, mengatakan, mengucapkan, menceritakan, memberitahukan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K11",
+      "content": "B2P2K11.mp3",
+      "offline": "B2P2K11",
+      "createdDate": "2022-07-15T01:43:46.929Z",
+      "updatedDate": "2022-07-15T01:43:46.929Z"
+    }
+  },
+  {
+    "id": 97,
+    "paragraphId": "4",
+    "audiosId": "B2P2K12",
+    "content": "لَ",
+    "read": "",
+    "readIndonesia": "bagi, kepada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K12",
+      "content": "B2P2K12.mp3",
+      "offline": "B2P2K12",
+      "createdDate": "2022-07-15T01:43:46.930Z",
+      "updatedDate": "2022-07-15T01:43:46.930Z"
+    }
+  },
+  {
+    "id": 98,
+    "paragraphId": "4",
+    "audiosId": "B2P2K13",
+    "content": "إِنَّ",
+    "read": "",
+    "readIndonesia": "bahwa, sungguh, sesungguhnya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K13",
+      "content": "B2P2K13.mp3",
+      "offline": "B2P2K13",
+      "createdDate": "2022-07-15T01:43:46.931Z",
+      "updatedDate": "2022-07-15T01:43:46.931Z"
+    }
+  },
+  {
+    "id": 99,
+    "paragraphId": "4",
+    "audiosId": "B2P2K14",
+    "content": "أَلَمٌ ج. آلَامٌ",
+    "read": "",
+    "readIndonesia": "sakit, menyakitkan, nyeri, menderita sakit",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K14",
+      "content": "B2P2K14.mp3",
+      "offline": "B2P2K14",
+      "createdDate": "2022-07-15T01:43:46.932Z",
+      "updatedDate": "2022-07-15T01:43:46.932Z"
+    }
+  },
+  {
+    "id": 100,
+    "paragraphId": "4",
+    "audiosId": "B2P2K15",
+    "content": "الَّذِيْ",
+    "read": "",
+    "readIndonesia": "yang",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K15",
+      "content": "B2P2K15.mp3",
+      "offline": "B2P2K15",
+      "createdDate": "2022-07-15T01:43:46.933Z",
+      "updatedDate": "2022-07-15T01:43:46.933Z"
+    }
+  },
+  {
+    "id": 101,
+    "paragraphId": "4",
+    "audiosId": "B2P2K16",
+    "content": "شَعَرَ - يَشْعُرُ بِـ",
+    "read": "",
+    "readIndonesia": "merasakan, meraba, menyadari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K16",
+      "content": "B2P2K16.mp3",
+      "offline": "B2P2K16",
+      "createdDate": "2022-07-15T01:43:46.934Z",
+      "updatedDate": "2022-07-15T01:43:46.934Z"
+    }
+  },
+  {
+    "id": 102,
+    "paragraphId": "4",
+    "audiosId": "B2P2K17",
+    "content": "سَبَبٌ – أَسْبَابٌ",
+    "read": "",
+    "readIndonesia": "sebab, penyebab, alasan, motif",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K17",
+      "content": "B2P2K17.mp3",
+      "offline": "B2P2K17",
+      "createdDate": "2022-07-15T01:43:46.935Z",
+      "updatedDate": "2022-07-15T01:43:46.935Z"
+    }
+  },
+  {
+    "id": 103,
+    "paragraphId": "4",
+    "audiosId": "B2P2K18",
+    "content": "بَرْدٌ",
+    "read": "",
+    "readIndonesia": "dingin, kedinginan, kesejukan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K18",
+      "content": "B2P2K18.mp3",
+      "offline": "B2P2K18",
+      "createdDate": "2022-07-15T01:43:46.936Z",
+      "updatedDate": "2022-07-15T01:43:46.936Z"
+    }
+  },
+  {
+    "id": 104,
+    "paragraphId": "4",
+    "audiosId": "B2P2K19",
+    "content": "سَ",
+    "read": "",
+    "readIndonesia": "akan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K19",
+      "content": "B2P2K19.mp3",
+      "offline": "B2P2K19",
+      "createdDate": "2022-07-15T01:43:46.937Z",
+      "updatedDate": "2022-07-15T01:43:46.937Z"
+    }
+  },
+  {
+    "id": 105,
+    "paragraphId": "4",
+    "audiosId": "B2P2K20",
+    "content": "زَالَ – يَزُوْلُ",
+    "read": "",
+    "readIndonesia": "menghilangkan, melenyapkan, mengusir, memberhentikan, mengakhiri",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K20",
+      "content": "B2P2K20.mp3",
+      "offline": "B2P2K20",
+      "createdDate": "2022-07-15T01:43:46.938Z",
+      "updatedDate": "2022-07-15T01:43:46.938Z"
+    }
+  },
+  {
+    "id": 106,
+    "paragraphId": "4",
+    "audiosId": "B2P2K21",
+    "content": "إِنْ شَاءَ اللهُ",
+    "read": "",
+    "readIndonesia": "jika Allah menghendaki",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K21",
+      "content": "B2P2K21.mp3",
+      "offline": "B2P2K21",
+      "createdDate": "2022-07-15T01:43:46.939Z",
+      "updatedDate": "2022-07-15T01:43:46.939Z"
+    }
+  },
+  {
+    "id": 107,
+    "paragraphId": "4",
+    "audiosId": "B2P2K22",
+    "content": "بَعْدَ",
+    "read": "",
+    "readIndonesia": "setelah, berikut, mengikuti",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K22",
+      "content": "B2P2K22.mp3",
+      "offline": "B2P2K22",
+      "createdDate": "2022-07-15T01:43:46.940Z",
+      "updatedDate": "2022-07-15T01:43:46.940Z"
+    }
+  },
+  {
+    "id": 108,
+    "paragraphId": "4",
+    "audiosId": "B2P2K23",
+    "content": "تَنَاوَلَ – يَتَنَاوَلُ",
+    "read": "",
+    "readIndonesia": "makan, mengonsumsi, mengambil, menerima, mendapatkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K23",
+      "content": "B2P2K23.mp3",
+      "offline": "B2P2K23",
+      "createdDate": "2022-07-15T01:43:46.941Z",
+      "updatedDate": "2022-07-15T01:43:46.941Z"
+    }
+  },
+  {
+    "id": 109,
+    "paragraphId": "4",
+    "audiosId": "B2P2K24",
+    "content": "دَوَاءٌ ج. أَدْوِيَةٌ",
+    "read": "",
+    "readIndonesia": "obat, pengobatan, penyembuhan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K24",
+      "content": "B2P2K24.mp3",
+      "offline": "B2P2K24",
+      "createdDate": "2022-07-15T01:43:46.942Z",
+      "updatedDate": "2022-07-15T01:43:46.942Z"
+    }
+  },
+  {
+    "id": 110,
+    "paragraphId": "4",
+    "audiosId": "B2P2K25",
+    "content": "كَتَبَ – يَكْتُبُ",
+    "read": "",
+    "readIndonesia": "menulis, mencatat, merekam, menyusun,",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K25",
+      "content": "B2P2K25.mp3",
+      "offline": "B2P2K25",
+      "createdDate": "2022-07-15T01:43:46.943Z",
+      "updatedDate": "2022-07-15T01:43:46.943Z"
+    }
+  },
+  {
+    "id": 111,
+    "paragraphId": "4",
+    "audiosId": "B2P2K26",
+    "content": "شَكَرَ - يَشْكُرُ ",
+    "read": "",
+    "readIndonesia": "bersyukur,berterima kasih",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K26",
+      "content": "B2P2K26.mp3",
+      "offline": "B2P2K26",
+      "createdDate": "2022-07-15T01:43:46.944Z",
+      "updatedDate": "2022-07-15T01:43:46.944Z"
+    }
+  },
+  {
+    "id": 112,
+    "paragraphId": "4",
+    "audiosId": "B2P2K27",
+    "content": "ذَهَبَ – يَذْهَبُ",
+    "read": "",
+    "readIndonesia": "pergi, berkunjung, menuju ke, berangkat, meninggalkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K27",
+      "content": "B2P2K27.mp3",
+      "offline": "B2P2K27",
+      "createdDate": "2022-07-15T01:43:46.945Z",
+      "updatedDate": "2022-07-15T01:43:46.945Z"
+    }
+  },
+  {
+    "id": 113,
+    "paragraphId": "4",
+    "audiosId": "B2P2K28",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "ke",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K28",
+      "content": "B2P2K28.mp3",
+      "offline": "B2P2K28",
+      "createdDate": "2022-07-15T01:43:46.946Z",
+      "updatedDate": "2022-07-15T01:43:46.946Z"
+    }
+  },
+  {
+    "id": 114,
+    "paragraphId": "4",
+    "audiosId": "B2P2K29",
+    "content": "صَّيْدَلِيَّةٌ ج. صَيْدَلِيَّاتٌ",
+    "read": "",
+    "readIndonesia": "apotek, toko obat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K29",
+      "content": "B2P2K29.mp3",
+      "offline": "B2P2K29",
+      "createdDate": "2022-07-15T01:43:46.947Z",
+      "updatedDate": "2022-07-15T01:43:46.947Z"
+    }
+  },
+  {
+    "id": 115,
+    "paragraphId": "4",
+    "audiosId": "B2P2K30",
+    "content": "اِشْتَرَى – يَشْتَرِيْ",
+    "read": "",
+    "readIndonesia": "membeli",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K30",
+      "content": "B2P2K30.mp3",
+      "offline": "B2P2K30",
+      "createdDate": "2022-07-15T01:43:46.948Z",
+      "updatedDate": "2022-07-15T01:43:46.948Z"
+    }
+  },
+  {
+    "id": 116,
+    "paragraphId": "4",
+    "audiosId": "B2P2K31",
+    "content": "ثَلَاثَةٌ",
+    "read": "",
+    "readIndonesia": "tiga",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K31",
+      "content": "B2P2K31.mp3",
+      "offline": "B2P2K31",
+      "createdDate": "2022-07-15T01:43:46.949Z",
+      "updatedDate": "2022-07-15T01:43:46.949Z"
+    }
+  },
+  {
+    "id": 117,
+    "paragraphId": "4",
+    "audiosId": "B2P2K32",
+    "content": "يَوْمٌ ج. أَيَّامٌ",
+    "read": "",
+    "readIndonesia": "hari ",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K32",
+      "content": "B2P2K32.mp3",
+      "offline": "B2P2K32",
+      "createdDate": "2022-07-15T01:43:46.950Z",
+      "updatedDate": "2022-07-15T01:43:46.950Z"
+    }
+  },
+  {
+    "id": 118,
+    "paragraphId": "4",
+    "audiosId": "B2P2K33",
+    "content": "بِ",
+    "read": "",
+    "readIndonesia": "dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K33",
+      "content": "B2P2K33.mp3",
+      "offline": "B2P2K33",
+      "createdDate": "2022-07-15T01:43:46.951Z",
+      "updatedDate": "2022-07-15T01:43:46.951Z"
+    }
+  },
+  {
+    "id": 119,
+    "paragraphId": "4",
+    "audiosId": "B2P2K34",
+    "content": "رَاحَةٌ ج. رَاحَاتٌ",
+    "read": "",
+    "readIndonesia": "istirahat, relaksasi, rileks, tenang, tenteram, nyaman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K34",
+      "content": "B2P2K34.mp3",
+      "offline": "B2P2K34",
+      "createdDate": "2022-07-15T01:43:46.952Z",
+      "updatedDate": "2022-07-15T01:43:46.952Z"
+    }
+  },
+  {
+    "id": 120,
+    "paragraphId": "4",
+    "audiosId": "B2P2K35",
+    "content": "تَامٌّ، تَامَّةٌ",
+    "read": "",
+    "readIndonesia": "lengkap, penuh, utuh, komplit, total, sempurna, tuntas, selesai",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B2P2K35",
+      "content": "B2P2K35.mp3",
+      "offline": "B2P2K35",
+      "createdDate": "2022-07-15T01:43:46.953Z",
+      "updatedDate": "2022-07-15T01:43:46.953Z"
+    }
+  },
+  {
+    "id": 121,
+    "paragraphId": "5",
+    "audiosId": "B3P1K1",
+    "content": "ذَهَبَ – يَذْهَبُ",
+    "read": "",
+    "readIndonesia": "pergi, berkunjung, menuju ke, berangkat, meninggalkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K1",
+      "content": "B3P1K1.mp3",
+      "offline": "B3P1K1",
+      "createdDate": "2022-07-15T01:43:46.963Z",
+      "updatedDate": "2022-07-15T01:43:46.963Z"
+    }
+  },
+  {
+    "id": 122,
+    "paragraphId": "5",
+    "audiosId": "B3P1K2",
+    "content": "صَدِيْقٌ ج. أَصْدِقَاءُ، صَدِيْقَاتٌ",
+    "read": "",
+    "readIndonesia": "teman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K2",
+      "content": "B3P1K2.mp3",
+      "offline": "B3P1K2",
+      "createdDate": "2022-07-15T01:43:46.964Z",
+      "updatedDate": "2022-07-15T01:43:46.964Z"
+    }
+  },
+  {
+    "id": 123,
+    "paragraphId": "5",
+    "audiosId": "B3P1K3",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "Ke",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K3",
+      "content": "B3P1K3.mp3",
+      "offline": "B3P1K3",
+      "createdDate": "2022-07-15T01:43:46.965Z",
+      "updatedDate": "2022-07-15T01:43:46.965Z"
+    }
+  },
+  {
+    "id": 124,
+    "paragraphId": "5",
+    "audiosId": "B3P1K4",
+    "content": "سُوْقٌ ج. أَسْوَاقٌ",
+    "read": "",
+    "readIndonesia": "pasar, tempat pemasaran, tempat penjualan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K4",
+      "content": "B3P1K4.mp3",
+      "offline": "B3P1K4",
+      "createdDate": "2022-07-15T01:43:46.966Z",
+      "updatedDate": "2022-07-15T01:43:46.966Z"
+    }
+  },
+  {
+    "id": 125,
+    "paragraphId": "5",
+    "audiosId": "B3P1K5",
+    "content": "يَوْمٌ ج. أَيَّامٌ",
+    "read": "",
+    "readIndonesia": "hari ",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K5",
+      "content": "B3P1K5.mp3",
+      "offline": "B3P1K5",
+      "createdDate": "2022-07-15T01:43:46.967Z",
+      "updatedDate": "2022-07-15T01:43:46.967Z"
+    }
+  },
+  {
+    "id": 126,
+    "paragraphId": "5",
+    "audiosId": "B3P1K6",
+    "content": "خَمِيْسٌ",
+    "read": "",
+    "readIndonesia": "Hari kamis",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K6",
+      "content": "B3P1K6.mp3",
+      "offline": "B3P1K6",
+      "createdDate": "2022-07-15T01:43:46.968Z",
+      "updatedDate": "2022-07-15T01:43:46.968Z"
+    }
+  },
+  {
+    "id": 127,
+    "paragraphId": "5",
+    "audiosId": "B3P1K7",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "untuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K7",
+      "content": "B3P1K7.mp3",
+      "offline": "B3P1K7",
+      "createdDate": "2022-07-15T01:43:46.969Z",
+      "updatedDate": "2022-07-15T01:43:46.969Z"
+    }
+  },
+  {
+    "id": 128,
+    "paragraphId": "5",
+    "audiosId": "B3P1K8",
+    "content": "اِشْتَرَى – يَشْتَرِيْ",
+    "read": "",
+    "readIndonesia": "membeli",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K8",
+      "content": "B3P1K8.mp3",
+      "offline": "B3P1K8",
+      "createdDate": "2022-07-15T01:43:46.970Z",
+      "updatedDate": "2022-07-15T01:43:46.970Z"
+    }
+  },
+  {
+    "id": 129,
+    "paragraphId": "5",
+    "audiosId": "B3P1K9",
+    "content": "مَلَابِسٌ  ج. مَلْبَسٌ",
+    "read": "",
+    "readIndonesia": "pakaian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K9",
+      "content": "B3P1K9.mp3",
+      "offline": "B3P1K9",
+      "createdDate": "2022-07-15T01:43:46.971Z",
+      "updatedDate": "2022-07-15T01:43:46.971Z"
+    }
+  },
+  {
+    "id": 130,
+    "paragraphId": "5",
+    "audiosId": "B3P1K10",
+    "content": "شِتَاءٌ ج. أشْتِيَةٌ",
+    "read": "",
+    "readIndonesia": "musim dingin",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P1K10",
+      "content": "B3P1K10.mp3",
+      "offline": "B3P1K10",
+      "createdDate": "2022-07-15T01:43:46.972Z",
+      "updatedDate": "2022-07-15T01:43:46.972Z"
+    }
+  },
+  {
+    "id": 131,
+    "paragraphId": "6",
+    "audiosId": "B3P2K1",
+    "content": "كَانَ – يَكُوْن",
+    "read": "",
+    "readIndonesia": "ada, menjadi, terjadi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K1",
+      "content": "B3P2K1.mp3",
+      "offline": "B3P2K1",
+      "createdDate": "2022-07-15T01:43:46.973Z",
+      "updatedDate": "2022-07-15T01:43:46.973Z"
+    }
+  },
+  {
+    "id": 132,
+    "paragraphId": "6",
+    "audiosId": "B3P2K2",
+    "content": "سُوْقٌ ج. أَسْوَاقٌ",
+    "read": "",
+    "readIndonesia": "pasar, tempat pemasaran, tempat penjualan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K2",
+      "content": "B3P2K2.mp3",
+      "offline": "B3P2K2",
+      "createdDate": "2022-07-15T01:43:46.974Z",
+      "updatedDate": "2022-07-15T01:43:46.974Z"
+    }
+  },
+  {
+    "id": 133,
+    "paragraphId": "6",
+    "audiosId": "B3P2K3",
+    "content": "مُزْدَحِمٌ",
+    "read": "",
+    "readIndonesia": "yang sesak, berbondong-bondong, padat, macet, tersumbat, terhambat, dijejali, dipenuhi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K3",
+      "content": "B3P2K3.mp3",
+      "offline": "B3P2K3",
+      "createdDate": "2022-07-15T01:43:46.975Z",
+      "updatedDate": "2022-07-15T01:43:46.975Z"
+    }
+  },
+  {
+    "id": 134,
+    "paragraphId": "6",
+    "audiosId": "B3P2K4",
+    "content": "لِأَنَّ",
+    "read": "",
+    "readIndonesia": "sebab, karena, sejak, ketika, oleh karena",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K4",
+      "content": "B3P2K4.mp3",
+      "offline": "B3P2K4",
+      "createdDate": "2022-07-15T01:43:46.976Z",
+      "updatedDate": "2022-07-15T01:43:46.976Z"
+    }
+  },
+  {
+    "id": 135,
+    "paragraphId": "6",
+    "audiosId": "B3P2K5",
+    "content": "عَامِلٌ ج. عُمَّالٌ، عَمَلَةٌ، عَوَامِلُ",
+    "read": "",
+    "readIndonesia": "pekerja",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K5",
+      "content": "B3P2K5.mp3",
+      "offline": "B3P2K5",
+      "createdDate": "2022-07-15T01:43:46.977Z",
+      "updatedDate": "2022-07-15T01:43:46.977Z"
+    }
+  },
+  {
+    "id": 136,
+    "paragraphId": "6",
+    "audiosId": "B3P2K6",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di, dalam, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K6",
+      "content": "B3P2K6.mp3",
+      "offline": "B3P2K6",
+      "createdDate": "2022-07-15T01:43:46.978Z",
+      "updatedDate": "2022-07-15T01:43:46.978Z"
+    }
+  },
+  {
+    "id": 137,
+    "paragraphId": "6",
+    "audiosId": "B3P2K7",
+    "content": "مَدِيْنَةٌ ج. مَدَائِنُ، مُدْنٌ",
+    "read": "",
+    "readIndonesia": "kota",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K7",
+      "content": "B3P2K7.mp3",
+      "offline": "B3P2K7",
+      "createdDate": "2022-07-15T01:43:46.979Z",
+      "updatedDate": "2022-07-15T01:43:46.979Z"
+    }
+  },
+  {
+    "id": 138,
+    "paragraphId": "6",
+    "audiosId": "B3P2K8",
+    "content": "ضَاحِيَةٌ ج. ضَوَاحٍ، ضَوَاحِيٌ",
+    "read": "",
+    "readIndonesia": "daerah pinggir kota, pinggiran kota, daerah sekeliling, lokasi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K8",
+      "content": "B3P2K8.mp3",
+      "offline": "B3P2K8",
+      "createdDate": "2022-07-15T01:43:46.980Z",
+      "updatedDate": "2022-07-15T01:43:46.980Z"
+    }
+  },
+  {
+    "id": 139,
+    "paragraphId": "6",
+    "audiosId": "B3P2K9",
+    "content": "أَتَى – يَأْتِيْ",
+    "read": "",
+    "readIndonesia": "datang, tiba",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K9",
+      "content": "B3P2K9.mp3",
+      "offline": "B3P2K9",
+      "createdDate": "2022-07-15T01:43:46.981Z",
+      "updatedDate": "2022-07-15T01:43:46.981Z"
+    }
+  },
+  {
+    "id": 140,
+    "paragraphId": "6",
+    "audiosId": "B3P2K10",
+    "content": "هٰذَا",
+    "read": "",
+    "readIndonesia": "Ini",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K10",
+      "content": "B3P2K10.mp3",
+      "offline": "B3P2K10",
+      "createdDate": "2022-07-15T01:43:46.982Z",
+      "updatedDate": "2022-07-15T01:43:46.982Z"
+    }
+  },
+  {
+    "id": 141,
+    "paragraphId": "6",
+    "audiosId": "B3P2K11",
+    "content": "يَوْمٌ ج. أَيَّامٌ",
+    "read": "",
+    "readIndonesia": "hari ",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K11",
+      "content": "B3P2K11.mp3",
+      "offline": "B3P2K11",
+      "createdDate": "2022-07-15T01:43:46.983Z",
+      "updatedDate": "2022-07-15T01:43:46.983Z"
+    }
+  },
+  {
+    "id": 142,
+    "paragraphId": "6",
+    "audiosId": "B3P2K12",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K12",
+      "content": "B3P2K12.mp3",
+      "offline": "B3P2K12",
+      "createdDate": "2022-07-15T01:43:46.984Z",
+      "updatedDate": "2022-07-15T01:43:46.984Z"
+    }
+  },
+  {
+    "id": 143,
+    "paragraphId": "6",
+    "audiosId": "B3P2K13",
+    "content": "كُلَّ",
+    "read": "",
+    "readIndonesia": "semua, setiap, seluruh, utuh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K13",
+      "content": "B3P2K13.mp3",
+      "offline": "B3P2K13",
+      "createdDate": "2022-07-15T01:43:46.985Z",
+      "updatedDate": "2022-07-15T01:43:46.985Z"
+    }
+  },
+  {
+    "id": 144,
+    "paragraphId": "6",
+    "audiosId": "B3P2K14",
+    "content": "أُسْبُوْعٌ ج. أَسَابِيْعُ",
+    "read": "",
+    "readIndonesia": "pekan, minggu, seminggu",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K14",
+      "content": "B3P2K14.mp3",
+      "offline": "B3P2K14",
+      "createdDate": "2022-07-15T01:43:46.986Z",
+      "updatedDate": "2022-07-15T01:43:46.986Z"
+    }
+  },
+  {
+    "id": 145,
+    "paragraphId": "6",
+    "audiosId": "B3P2K15",
+    "content": "اِشْتَرَى – يَشْتَرِيْ",
+    "read": "",
+    "readIndonesia": "membeli",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K15",
+      "content": "B3P2K15.mp3",
+      "offline": "B3P2K15",
+      "createdDate": "2022-07-15T01:43:46.987Z",
+      "updatedDate": "2022-07-15T01:43:46.987Z"
+    }
+  },
+  {
+    "id": 146,
+    "paragraphId": "6",
+    "audiosId": "B3P2K16",
+    "content": "مَا",
+    "read": "",
+    "readIndonesia": "apa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K16",
+      "content": "B3P2K16.mp3",
+      "offline": "B3P2K16",
+      "createdDate": "2022-07-15T01:43:46.988Z",
+      "updatedDate": "2022-07-15T01:43:46.988Z"
+    }
+  },
+  {
+    "id": 147,
+    "paragraphId": "6",
+    "audiosId": "B3P2K17",
+    "content": "اِحْتَاجٌ – يَحْتَاجُ",
+    "read": "",
+    "readIndonesia": "memerlukan, membutuhkan, menginginkan, menuntut, berhajat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K17",
+      "content": "B3P2K17.mp3",
+      "offline": "B3P2K17",
+      "createdDate": "2022-07-15T01:43:46.989Z",
+      "updatedDate": "2022-07-15T01:43:46.989Z"
+    }
+  },
+  {
+    "id": 148,
+    "paragraphId": "6",
+    "audiosId": "B3P2K18",
+    "content": "مَلَابِسٌ  ج. مَلْبَسٌ",
+    "read": "",
+    "readIndonesia": "pakaian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K18",
+      "content": "B3P2K18.mp3",
+      "offline": "B3P2K18",
+      "createdDate": "2022-07-15T01:43:46.990Z",
+      "updatedDate": "2022-07-15T01:43:46.990Z"
+    }
+  },
+  {
+    "id": 149,
+    "paragraphId": "6",
+    "audiosId": "B3P2K19",
+    "content": "حِذَاءٌ ج. أَحْذِيَةٌ",
+    "read": "",
+    "readIndonesia": "sepatu",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K19",
+      "content": "B3P2K19.mp3",
+      "offline": "B3P2K19",
+      "createdDate": "2022-07-15T01:43:46.991Z",
+      "updatedDate": "2022-07-15T01:43:46.991Z"
+    }
+  },
+  {
+    "id": 150,
+    "paragraphId": "6",
+    "audiosId": "B3P2K20",
+    "content": "مَادَّةٌ ج. مَوَادٌ، مَادَاتٌ",
+    "read": "",
+    "readIndonesia": "zat, bahan, substansi, material, unsur, ramuan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K20",
+      "content": "B3P2K20.mp3",
+      "offline": "B3P2K20",
+      "createdDate": "2022-07-15T01:43:46.992Z",
+      "updatedDate": "2022-07-15T01:43:46.992Z"
+    }
+  },
+  {
+    "id": 151,
+    "paragraphId": "6",
+    "audiosId": "B3P2K21",
+    "content": "غِدَائِيَّةٌ",
+    "read": "",
+    "readIndonesia": "makanan, pangan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K21",
+      "content": "B3P2K21.mp3",
+      "offline": "B3P2K21",
+      "createdDate": "2022-07-15T01:43:46.993Z",
+      "updatedDate": "2022-07-15T01:43:46.993Z"
+    }
+  },
+  {
+    "id": 152,
+    "paragraphId": "6",
+    "audiosId": "B3P2K22",
+    "content": "وَغَيْرُ ذٰلِكَ",
+    "read": "",
+    "readIndonesia": "dan selain itu, dan lain sebagainya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P2K22",
+      "content": "B3P2K22.mp3",
+      "offline": "B3P2K22",
+      "createdDate": "2022-07-15T01:43:46.994Z",
+      "updatedDate": "2022-07-15T01:43:46.994Z"
+    }
+  },
+  {
+    "id": 153,
+    "paragraphId": "7",
+    "audiosId": "B3P3K1",
+    "content": "دَخَلَ – يَدْخُلُ",
+    "read": "",
+    "readIndonesia": "masuk, memasuki, melangkah ke dalam, pindah, bergabung dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K1",
+      "content": "B3P3K1.mp3",
+      "offline": "B3P3K1",
+      "createdDate": "2022-07-15T01:43:46.995Z",
+      "updatedDate": "2022-07-15T01:43:46.995Z"
+    }
+  },
+  {
+    "id": 154,
+    "paragraphId": "7",
+    "audiosId": "B3P3K2",
+    "content": "صَدِيْقٌ ج. أَصْدِقَاءُ، صَدِيْقَاتٌ",
+    "read": "",
+    "readIndonesia": "teman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K2",
+      "content": "B3P3K2.mp3",
+      "offline": "B3P3K2",
+      "createdDate": "2022-07-15T01:43:46.996Z",
+      "updatedDate": "2022-07-15T01:43:46.996Z"
+    }
+  },
+  {
+    "id": 155,
+    "paragraphId": "7",
+    "audiosId": "B3P3K3",
+    "content": "مَتْجَرٌ ج. مَتَاجِرُ",
+    "read": "",
+    "readIndonesia": "warung, toko, butik, toko serba ada, toserba, supermarket",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K3",
+      "content": "B3P3K3.mp3",
+      "offline": "B3P3K3",
+      "createdDate": "2022-07-15T01:43:46.997Z",
+      "updatedDate": "2022-07-15T01:43:46.997Z"
+    }
+  },
+  {
+    "id": 156,
+    "paragraphId": "7",
+    "audiosId": "B3P3K4",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di, dalam, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K4",
+      "content": "B3P3K4.mp3",
+      "offline": "B3P3K4",
+      "createdDate": "2022-07-15T01:43:46.998Z",
+      "updatedDate": "2022-07-15T01:43:46.998Z"
+    }
+  },
+  {
+    "id": 157,
+    "paragraphId": "7",
+    "audiosId": "B3P3K5",
+    "content": "نَوْعٌ ج. أَنْوَاعٌ",
+    "read": "",
+    "readIndonesia": "macam, jenis, tipe, variasi, kelas, kualitas, sifat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K5",
+      "content": "B3P3K5.mp3",
+      "offline": "B3P3K5",
+      "createdDate": "2022-07-15T01:43:46.999Z",
+      "updatedDate": "2022-07-15T01:43:46.999Z"
+    }
+  },
+  {
+    "id": 158,
+    "paragraphId": "7",
+    "audiosId": "B3P3K6",
+    "content": "كَثِيْرٌ ج. كَثِيْرَةٌ، كَثِيْرُوْنَ، كَثِيْرَاتٌ",
+    "read": "",
+    "readIndonesia": "banyak, banyak sekali, melimpah, melimpah-ruah, sebagian besar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K6",
+      "content": "B3P3K6.mp3",
+      "offline": "B3P3K6",
+      "createdDate": "2022-07-15T01:43:46.1000Z",
+      "updatedDate": "2022-07-15T01:43:46.1000Z"
+    }
+  },
+  {
+    "id": 159,
+    "paragraphId": "7",
+    "audiosId": "B3P3K7",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K7",
+      "content": "B3P3K7.mp3",
+      "offline": "B3P3K7",
+      "createdDate": "2022-07-15T01:43:46.1001Z",
+      "updatedDate": "2022-07-15T01:43:46.1001Z"
+    }
+  },
+  {
+    "id": 160,
+    "paragraphId": "7",
+    "audiosId": "B3P3K8",
+    "content": "مَلَابِسٌ  ج. مَلْبَسٌ",
+    "read": "",
+    "readIndonesia": "pakaian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K8",
+      "content": "B3P3K8.mp3",
+      "offline": "B3P3K8",
+      "createdDate": "2022-07-15T01:43:46.1002Z",
+      "updatedDate": "2022-07-15T01:43:46.1002Z"
+    }
+  },
+  {
+    "id": 161,
+    "paragraphId": "7",
+    "audiosId": "B3P3K9",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K9",
+      "content": "B3P3K9.mp3",
+      "offline": "B3P3K9",
+      "createdDate": "2022-07-15T01:43:46.1003Z",
+      "updatedDate": "2022-07-15T01:43:46.1003Z"
+    }
+  },
+  {
+    "id": 162,
+    "paragraphId": "7",
+    "audiosId": "B3P3K10",
+    "content": "اِشْتَرَى – يَشْتَرِيْ",
+    "read": "",
+    "readIndonesia": "membeli",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K10",
+      "content": "B3P3K10.mp3",
+      "offline": "B3P3K10",
+      "createdDate": "2022-07-15T01:43:46.1004Z",
+      "updatedDate": "2022-07-15T01:43:46.1004Z"
+    }
+  },
+  {
+    "id": 163,
+    "paragraphId": "7",
+    "audiosId": "B3P3K11",
+    "content": "صُوْفٌ ج. أَصْوَافٌ",
+    "read": "",
+    "readIndonesia": "wol, bulu domba",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K11",
+      "content": "B3P3K11.mp3",
+      "offline": "B3P3K11",
+      "createdDate": "2022-07-15T01:43:46.1005Z",
+      "updatedDate": "2022-07-15T01:43:46.1005Z"
+    }
+  },
+  {
+    "id": 164,
+    "paragraphId": "7",
+    "audiosId": "B3P3K12",
+    "content": "بَعْدَ",
+    "read": "",
+    "readIndonesia": "setelah, berikut, mengikuti",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K12",
+      "content": "B3P3K12.mp3",
+      "offline": "B3P3K12",
+      "createdDate": "2022-07-15T01:43:46.1006Z",
+      "updatedDate": "2022-07-15T01:43:46.1006Z"
+    }
+  },
+  {
+    "id": 165,
+    "paragraphId": "7",
+    "audiosId": "B3P3K13",
+    "content": "أَنْ",
+    "read": "",
+    "readIndonesia": "agar, bahwa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K13",
+      "content": "B3P3K13.mp3",
+      "offline": "B3P3K13",
+      "createdDate": "2022-07-15T01:43:46.1007Z",
+      "updatedDate": "2022-07-15T01:43:46.1007Z"
+    }
+  },
+  {
+    "id": 166,
+    "paragraphId": "7",
+    "audiosId": "B3P3K14",
+    "content": "جَالَ - يَجُوْلُ",
+    "read": "",
+    "readIndonesia": "berkeliling",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K14",
+      "content": "B3P3K14.mp3",
+      "offline": "B3P3K14",
+      "createdDate": "2022-07-15T01:43:46.1008Z",
+      "updatedDate": "2022-07-15T01:43:46.1008Z"
+    }
+  },
+  {
+    "id": 167,
+    "paragraphId": "7",
+    "audiosId": "B3P3K15",
+    "content": "سُوْقٌ ج. أَسْوَاقٌ",
+    "read": "",
+    "readIndonesia": "pasar, tempat pemasaran, tempat penjualan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K15",
+      "content": "B3P3K15.mp3",
+      "offline": "B3P3K15",
+      "createdDate": "2022-07-15T01:43:46.1009Z",
+      "updatedDate": "2022-07-15T01:43:46.1009Z"
+    }
+  },
+  {
+    "id": 168,
+    "paragraphId": "7",
+    "audiosId": "B3P3K16",
+    "content": "عَادَ - يَعُوْدُ",
+    "read": "",
+    "readIndonesia": "kedatangan kembali, kembali, pulang, terulang, mengunjungi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K16",
+      "content": "B3P3K16.mp3",
+      "offline": "B3P3K16",
+      "createdDate": "2022-07-15T01:43:46.1010Z",
+      "updatedDate": "2022-07-15T01:43:46.1010Z"
+    }
+  },
+  {
+    "id": 169,
+    "paragraphId": "7",
+    "audiosId": "B3P3K17",
+    "content": "مَنْزِلٌ ج. مَنَازِلٌ",
+    "read": "",
+    "readIndonesia": "rumah, tempat tinggal, tempat kediaman, domisili, apartemen",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B3P3K17",
+      "content": "B3P3K17.mp3",
+      "offline": "B3P3K17",
+      "createdDate": "2022-07-15T01:43:46.1011Z",
+      "updatedDate": "2022-07-15T01:43:46.1011Z"
+    }
+  },
+  {
+    "id": 170,
+    "paragraphId": "8",
+    "audiosId": "B4P1K1",
+    "content": "وَقَعَ - يَقَعُ",
+    "read": "",
+    "readIndonesia": "terletak, bertempat, berlokasi, terjadi, berlangsung, berlaku",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K1",
+      "content": "B4P1K1.mp3",
+      "offline": "B4P1K1",
+      "createdDate": "2022-07-15T01:43:46.1028Z",
+      "updatedDate": "2022-07-15T01:43:46.1028Z"
+    }
+  },
+  {
+    "id": 171,
+    "paragraphId": "8",
+    "audiosId": "B4P1K2",
+    "content": "مَمْلَكَةٌ ج. مَمَالِكُ",
+    "read": "",
+    "readIndonesia": "kerajaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K2",
+      "content": "B4P1K2.mp3",
+      "offline": "B4P1K2",
+      "createdDate": "2022-07-15T01:43:46.1029Z",
+      "updatedDate": "2022-07-15T01:43:46.1029Z"
+    }
+  },
+  {
+    "id": 172,
+    "paragraphId": "8",
+    "audiosId": "B4P1K3",
+    "content": "عَرَبِيٌّ، عَرَبِيَّةٌ",
+    "read": "",
+    "readIndonesia": "Arab",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K3",
+      "content": "B4P1K3.mp3",
+      "offline": "B4P1K3",
+      "createdDate": "2022-07-15T01:43:46.1030Z",
+      "updatedDate": "2022-07-15T01:43:46.1030Z"
+    }
+  },
+  {
+    "id": 173,
+    "paragraphId": "8",
+    "audiosId": "B4P1K4",
+    "content": "سُعُوْدِيَّةُ",
+    "read": "",
+    "readIndonesia": "Saudi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K4",
+      "content": "B4P1K4.mp3",
+      "offline": "B4P1K4",
+      "createdDate": "2022-07-15T01:43:46.1031Z",
+      "updatedDate": "2022-07-15T01:43:46.1031Z"
+    }
+  },
+  {
+    "id": 174,
+    "paragraphId": "8",
+    "audiosId": "B4P1K5",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di, dalam, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K5",
+      "content": "B4P1K5.mp3",
+      "offline": "B4P1K5",
+      "createdDate": "2022-07-15T01:43:46.1032Z",
+      "updatedDate": "2022-07-15T01:43:46.1032Z"
+    }
+  },
+  {
+    "id": 175,
+    "paragraphId": "8",
+    "audiosId": "B4P1K6",
+    "content": "آسِيَا",
+    "read": "",
+    "readIndonesia": "benua Asia",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K6",
+      "content": "B4P1K6.mp3",
+      "offline": "B4P1K6",
+      "createdDate": "2022-07-15T01:43:46.1033Z",
+      "updatedDate": "2022-07-15T01:43:46.1033Z"
+    }
+  },
+  {
+    "id": 176,
+    "paragraphId": "8",
+    "audiosId": "B4P1K7",
+    "content": "حَدَّ - يَحُدُّ",
+    "read": "",
+    "readIndonesia": "membuat batasan, membuat larangan, menahan, mengurung, membatasi, memeriksa, mengontrol, mengendalikan, mengurangi, mengikat, memperkecil;",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K7",
+      "content": "B4P1K7.mp3",
+      "offline": "B4P1K7",
+      "createdDate": "2022-07-15T01:43:46.1034Z",
+      "updatedDate": "2022-07-15T01:43:46.1034Z"
+    }
+  },
+  {
+    "id": 177,
+    "paragraphId": "8",
+    "audiosId": "B4P1K8",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K8",
+      "content": "B4P1K8.mp3",
+      "offline": "B4P1K8",
+      "createdDate": "2022-07-15T01:43:46.1035Z",
+      "updatedDate": "2022-07-15T01:43:46.1035Z"
+    }
+  },
+  {
+    "id": 178,
+    "paragraphId": "8",
+    "audiosId": "B4P1K9",
+    "content": "غَرْبٌ",
+    "read": "",
+    "readIndonesia": "barat, arah barat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K9",
+      "content": "B4P1K9.mp3",
+      "offline": "B4P1K9",
+      "createdDate": "2022-07-15T01:43:46.1036Z",
+      "updatedDate": "2022-07-15T01:43:46.1036Z"
+    }
+  },
+  {
+    "id": 179,
+    "paragraphId": "8",
+    "audiosId": "B4P1K10",
+    "content": "بَحْرٌ ج. أَبْحُرٌ، بِحَارٌ، بُحُورٌ",
+    "read": "",
+    "readIndonesia": "laut",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K10",
+      "content": "B4P1K10.mp3",
+      "offline": "B4P1K10",
+      "createdDate": "2022-07-15T01:43:46.1037Z",
+      "updatedDate": "2022-07-15T01:43:46.1037Z"
+    }
+  },
+  {
+    "id": 180,
+    "paragraphId": "8",
+    "audiosId": "B4P1K11",
+    "content": "أَحْمَرُ ج. حُمْرٌ",
+    "read": "",
+    "readIndonesia": "merah, warna merah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K11",
+      "content": "B4P1K11.mp3",
+      "offline": "B4P1K11",
+      "createdDate": "2022-07-15T01:43:46.1038Z",
+      "updatedDate": "2022-07-15T01:43:46.1038Z"
+    }
+  },
+  {
+    "id": 181,
+    "paragraphId": "8",
+    "audiosId": "B4P1K12",
+    "content": "شَرْقٌ",
+    "read": "",
+    "readIndonesia": "timur, arah timur",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K12",
+      "content": "B4P1K12.mp3",
+      "offline": "B4P1K12",
+      "createdDate": "2022-07-15T01:43:46.1039Z",
+      "updatedDate": "2022-07-15T01:43:46.1039Z"
+    }
+  },
+  {
+    "id": 182,
+    "paragraphId": "8",
+    "audiosId": "B4P1K13",
+    "content": "عُمَانُ",
+    "read": "",
+    "readIndonesia": "Oman, negara Oman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K13",
+      "content": "B4P1K13.mp3",
+      "offline": "B4P1K13",
+      "createdDate": "2022-07-15T01:43:46.1040Z",
+      "updatedDate": "2022-07-15T01:43:46.1040Z"
+    }
+  },
+  {
+    "id": 183,
+    "paragraphId": "8",
+    "audiosId": "B4P1K14",
+    "content": "الْإِمَارَاتِ المُتَّحِدَةُ",
+    "read": "",
+    "readIndonesia": "Uni Emirat Arab, negara Uni Emirat Arab",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K14",
+      "content": "B4P1K14.mp3",
+      "offline": "B4P1K14",
+      "createdDate": "2022-07-15T01:43:46.1041Z",
+      "updatedDate": "2022-07-15T01:43:46.1041Z"
+    }
+  },
+  {
+    "id": 184,
+    "paragraphId": "8",
+    "audiosId": "B4P1K15",
+    "content": "قَطَرُ",
+    "read": "",
+    "readIndonesia": "Qatar, negara Qatar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K15",
+      "content": "B4P1K15.mp3",
+      "offline": "B4P1K15",
+      "createdDate": "2022-07-15T01:43:46.1042Z",
+      "updatedDate": "2022-07-15T01:43:46.1042Z"
+    }
+  },
+  {
+    "id": 185,
+    "paragraphId": "8",
+    "audiosId": "B4P1K16",
+    "content": "الكُوَيْتُ",
+    "read": "",
+    "readIndonesia": "Kuwait, negara Kuwait",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K16",
+      "content": "B4P1K16.mp3",
+      "offline": "B4P1K16",
+      "createdDate": "2022-07-15T01:43:46.1043Z",
+      "updatedDate": "2022-07-15T01:43:46.1043Z"
+    }
+  },
+  {
+    "id": 186,
+    "paragraphId": "8",
+    "audiosId": "B4P1K17",
+    "content": "خَلِيجٌ ج. خُلُجٌ، خُلْجَانٌ",
+    "read": "",
+    "readIndonesia": "teluk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K17",
+      "content": "B4P1K17.mp3",
+      "offline": "B4P1K17",
+      "createdDate": "2022-07-15T01:43:46.1044Z",
+      "updatedDate": "2022-07-15T01:43:46.1044Z"
+    }
+  },
+  {
+    "id": 187,
+    "paragraphId": "8",
+    "audiosId": "B4P1K18",
+    "content": "شَمَالٌ",
+    "read": "",
+    "readIndonesia": "utara, arah utara",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K18",
+      "content": "B4P1K18.mp3",
+      "offline": "B4P1K18",
+      "createdDate": "2022-07-15T01:43:46.1045Z",
+      "updatedDate": "2022-07-15T01:43:46.1045Z"
+    }
+  },
+  {
+    "id": 188,
+    "paragraphId": "8",
+    "audiosId": "B4P1K19",
+    "content": "الأُرْدُنُّ",
+    "read": "",
+    "readIndonesia": "Yordania, negara Yordania",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K19",
+      "content": "B4P1K19.mp3",
+      "offline": "B4P1K19",
+      "createdDate": "2022-07-15T01:43:46.1046Z",
+      "updatedDate": "2022-07-15T01:43:46.1046Z"
+    }
+  },
+  {
+    "id": 189,
+    "paragraphId": "8",
+    "audiosId": "B4P1K20",
+    "content": "الْعِرَاقُ",
+    "read": "",
+    "readIndonesia": "Irak, negara Irak",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K20",
+      "content": "B4P1K20.mp3",
+      "offline": "B4P1K20",
+      "createdDate": "2022-07-15T01:43:46.1047Z",
+      "updatedDate": "2022-07-15T01:43:46.1047Z"
+    }
+  },
+  {
+    "id": 190,
+    "paragraphId": "8",
+    "audiosId": "B4P1K21",
+    "content": "جَنُوْبٌ",
+    "read": "",
+    "readIndonesia": "selatan, arah selatan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K21",
+      "content": "B4P1K21.mp3",
+      "offline": "B4P1K21",
+      "createdDate": "2022-07-15T01:43:46.1048Z",
+      "updatedDate": "2022-07-15T01:43:46.1048Z"
+    }
+  },
+  {
+    "id": 191,
+    "paragraphId": "8",
+    "audiosId": "B4P1K22",
+    "content": "الْيَمَنُ",
+    "read": "",
+    "readIndonesia": "Yaman, negara Yaman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P1K22",
+      "content": "B4P1K22.mp3",
+      "offline": "B4P1K22",
+      "createdDate": "2022-07-15T01:43:46.1049Z",
+      "updatedDate": "2022-07-15T01:43:46.1049Z"
+    }
+  },
+  {
+    "id": 192,
+    "paragraphId": "9",
+    "audiosId": "B4P2K1",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K1",
+      "content": "B4P2K1.mp3",
+      "offline": "B4P2K1",
+      "createdDate": "2022-07-15T01:43:46.1050Z",
+      "updatedDate": "2022-07-15T01:43:46.1050Z"
+    }
+  },
+  {
+    "id": 193,
+    "paragraphId": "9",
+    "audiosId": "B4P2K2",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K2",
+      "content": "B4P2K2.mp3",
+      "offline": "B4P2K2",
+      "createdDate": "2022-07-15T01:43:46.1051Z",
+      "updatedDate": "2022-07-15T01:43:46.1051Z"
+    }
+  },
+  {
+    "id": 194,
+    "paragraphId": "9",
+    "audiosId": "B4P2K3",
+    "content": "أهَمِّيَّةٌ، أهَمٌّ",
+    "read": "",
+    "readIndonesia": "arti penting, urgensi, signifikansi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K3",
+      "content": "B4P2K3.mp3",
+      "offline": "B4P2K3",
+      "createdDate": "2022-07-15T01:43:46.1052Z",
+      "updatedDate": "2022-07-15T01:43:46.1052Z"
+    }
+  },
+  {
+    "id": 195,
+    "paragraphId": "9",
+    "audiosId": "B4P2K4",
+    "content": "مَدِيْنَةٌ ج. مَدَائِنُ، مُدُنٌ",
+    "read": "",
+    "readIndonesia": "Kota",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K4",
+      "content": "B4P2K4.mp3",
+      "offline": "B4P2K4",
+      "createdDate": "2022-07-15T01:43:46.1053Z",
+      "updatedDate": "2022-07-15T01:43:46.1053Z"
+    }
+  },
+  {
+    "id": 196,
+    "paragraphId": "9",
+    "audiosId": "B4P2K5",
+    "content": "مَكَّةُ الْمُكَرَّمَةُ",
+    "read": "",
+    "readIndonesia": "Mekah al-Mukarromah (yang mulia)",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K5",
+      "content": "B4P2K5.mp3",
+      "offline": "B4P2K5",
+      "createdDate": "2022-07-15T01:43:46.1054Z",
+      "updatedDate": "2022-07-15T01:43:46.1054Z"
+    }
+  },
+  {
+    "id": 197,
+    "paragraphId": "9",
+    "audiosId": "B4P2K6",
+    "content": "الْمَدِيْنَةُ الْمُنَوَّرَةُ",
+    "read": "",
+    "readIndonesia": "Madinah al-Munawwarah (yang bercahaya)",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K6",
+      "content": "B4P2K6.mp3",
+      "offline": "B4P2K6",
+      "createdDate": "2022-07-15T01:43:46.1055Z",
+      "updatedDate": "2022-07-15T01:43:46.1055Z"
+    }
+  },
+  {
+    "id": 198,
+    "paragraphId": "9",
+    "audiosId": "B4P2K7",
+    "content": "الرِّيَاضُ",
+    "read": "",
+    "readIndonesia": "Riyadh, kota Riyadh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K7",
+      "content": "B4P2K7.mp3",
+      "offline": "B4P2K7",
+      "createdDate": "2022-07-15T01:43:46.1056Z",
+      "updatedDate": "2022-07-15T01:43:46.1056Z"
+    }
+  },
+  {
+    "id": 199,
+    "paragraphId": "9",
+    "audiosId": "B4P2K8",
+    "content": "عَاصِمَةٌ ج. عَوَاصِمُ",
+    "read": "",
+    "readIndonesia": "ibukota",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K8",
+      "content": "B4P2K8.mp3",
+      "offline": "B4P2K8",
+      "createdDate": "2022-07-15T01:43:46.1057Z",
+      "updatedDate": "2022-07-15T01:43:46.1057Z"
+    }
+  },
+  {
+    "id": 200,
+    "paragraphId": "9",
+    "audiosId": "B4P2K9",
+    "content": "جُدَّةُ",
+    "read": "",
+    "readIndonesia": "Jeddah, kota Jeddah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K9",
+      "content": "B4P2K9.mp3",
+      "offline": "B4P2K9",
+      "createdDate": "2022-07-15T01:43:46.1058Z",
+      "updatedDate": "2022-07-15T01:43:46.1058Z"
+    }
+  },
+  {
+    "id": 201,
+    "paragraphId": "9",
+    "audiosId": "B4P2K10",
+    "content": "الطَّائِفُ",
+    "read": "",
+    "readIndonesia": "Thaif, kota Thaif",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K10",
+      "content": "B4P2K10.mp3",
+      "offline": "B4P2K10",
+      "createdDate": "2022-07-15T01:43:46.1059Z",
+      "updatedDate": "2022-07-15T01:43:46.1059Z"
+    }
+  },
+  {
+    "id": 202,
+    "paragraphId": "9",
+    "audiosId": "B4P2K11",
+    "content": "الدَّمَّامُ",
+    "read": "",
+    "readIndonesia": "Dammam, kota Dammam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K11",
+      "content": "B4P2K11.mp3",
+      "offline": "B4P2K11",
+      "createdDate": "2022-07-15T01:43:46.1060Z",
+      "updatedDate": "2022-07-15T01:43:46.1060Z"
+    }
+  },
+  {
+    "id": 203,
+    "paragraphId": "9",
+    "audiosId": "B4P2K12",
+    "content": "بُرَيْدَةُ",
+    "read": "",
+    "readIndonesia": "Buraidah, kota Buraidah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P2K12",
+      "content": "B4P2K12.mp3",
+      "offline": "B4P2K12",
+      "createdDate": "2022-07-15T01:43:46.1061Z",
+      "updatedDate": "2022-07-15T01:43:46.1061Z"
+    }
+  },
+  {
+    "id": 204,
+    "paragraphId": "10",
+    "audiosId": "B4P3K1",
+    "content": "مَطَرٌ ج. أَمْطَارٌ",
+    "read": "",
+    "readIndonesia": "hujan, gerimis",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K1",
+      "content": "B4P3K1.mp3",
+      "offline": "B4P3K1",
+      "createdDate": "2022-07-15T01:43:46.1062Z",
+      "updatedDate": "2022-07-15T01:43:46.1062Z"
+    }
+  },
+  {
+    "id": 205,
+    "paragraphId": "10",
+    "audiosId": "B4P3K2",
+    "content": "نَزَلَ - يَنْزِلُ",
+    "read": "",
+    "readIndonesia": "turun, ke bawah, jatuh, berjatuhan, mendarat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K2",
+      "content": "B4P3K2.mp3",
+      "offline": "B4P3K2",
+      "createdDate": "2022-07-15T01:43:46.1063Z",
+      "updatedDate": "2022-07-15T01:43:46.1063Z"
+    }
+  },
+  {
+    "id": 206,
+    "paragraphId": "10",
+    "audiosId": "B4P3K3",
+    "content": "عَلَى",
+    "read": "",
+    "readIndonesia": "atas, di atas, ke atas, kepada, terhadap, dengan, daripada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K3",
+      "content": "B4P3K3.mp3",
+      "offline": "B4P3K3",
+      "createdDate": "2022-07-15T01:43:46.1064Z",
+      "updatedDate": "2022-07-15T01:43:46.1064Z"
+    }
+  },
+  {
+    "id": 207,
+    "paragraphId": "10",
+    "audiosId": "B4P3K4",
+    "content": "مَمْلَكَةٌ ج. مَمَالِكُ",
+    "read": "",
+    "readIndonesia": "kerajaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K4",
+      "content": "B4P3K4.mp3",
+      "offline": "B4P3K4",
+      "createdDate": "2022-07-15T01:43:46.1065Z",
+      "updatedDate": "2022-07-15T01:43:46.1065Z"
+    }
+  },
+  {
+    "id": 208,
+    "paragraphId": "10",
+    "audiosId": "B4P3K5",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di, dalam, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K5",
+      "content": "B4P3K5.mp3",
+      "offline": "B4P3K5",
+      "createdDate": "2022-07-15T01:43:46.1066Z",
+      "updatedDate": "2022-07-15T01:43:46.1066Z"
+    }
+  },
+  {
+    "id": 209,
+    "paragraphId": "10",
+    "audiosId": "B4P3K6",
+    "content": "شِتَاءٌ ج. أَشْتِيَةٌ",
+    "read": "",
+    "readIndonesia": "musim dingin",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K6",
+      "content": "B4P3K6.mp3",
+      "offline": "B4P3K6",
+      "createdDate": "2022-07-15T01:43:46.1067Z",
+      "updatedDate": "2022-07-15T01:43:46.1067Z"
+    }
+  },
+  {
+    "id": 210,
+    "paragraphId": "10",
+    "audiosId": "B4P3K7",
+    "content": "زِرَاعَةٌ",
+    "read": "",
+    "readIndonesia": "pertanian, perkebunan, penanaman, pemeliharaan, penumbuhan, perkembangan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K7",
+      "content": "B4P3K7.mp3",
+      "offline": "B4P3K7",
+      "createdDate": "2022-07-15T01:43:46.1068Z",
+      "updatedDate": "2022-07-15T01:43:46.1068Z"
+    }
+  },
+  {
+    "id": 211,
+    "paragraphId": "10",
+    "audiosId": "B4P3K8",
+    "content": "آلَةٌ ج. آلَاتٌ",
+    "read": "",
+    "readIndonesia": "alat, mesin, instrumen",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K8",
+      "content": "B4P3K8.mp3",
+      "offline": "B4P3K8",
+      "createdDate": "2022-07-15T01:43:46.1069Z",
+      "updatedDate": "2022-07-15T01:43:46.1069Z"
+    }
+  },
+  {
+    "id": 212,
+    "paragraphId": "10",
+    "audiosId": "B4P3K9",
+    "content": "حَدِيْثٌ، حَدِيْثَةٌ، ج. أَحَادِيْثُ، حِدَاثٌ",
+    "read": "",
+    "readIndonesia": "baru, terbaru, modern, pidato, ucapan, bicara, percakapan, ceramah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K9",
+      "content": "B4P3K9.mp3",
+      "offline": "B4P3K9",
+      "createdDate": "2022-07-15T01:43:46.1070Z",
+      "updatedDate": "2022-07-15T01:43:46.1070Z"
+    }
+  },
+  {
+    "id": 213,
+    "paragraphId": "10",
+    "audiosId": "B4P3K10",
+    "content": "قَامَ - يَقُوْمُ بِـ",
+    "read": "",
+    "readIndonesia": "melaksanakan, melakukan, membuat, menyelesaikan, menyelenggarakan, memenuhi, mengasumsikan, menjalankan, menanggung, menangani",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K10",
+      "content": "B4P3K10.mp3",
+      "offline": "B4P3K10",
+      "createdDate": "2022-07-15T01:43:46.1071Z",
+      "updatedDate": "2022-07-15T01:43:46.1071Z"
+    }
+  },
+  {
+    "id": 214,
+    "paragraphId": "10",
+    "audiosId": "B4P3K11",
+    "content": "تَحْلِيَةُ مِيَاهُ الْبَحْرِ",
+    "read": "",
+    "readIndonesia": "penyulingan, desalinasi (pengurangan kadar garam pada air)",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K11",
+      "content": "B4P3K11.mp3",
+      "offline": "B4P3K11",
+      "createdDate": "2022-07-15T01:43:46.1072Z",
+      "updatedDate": "2022-07-15T01:43:46.1072Z"
+    }
+  },
+  {
+    "id": 215,
+    "paragraphId": "10",
+    "audiosId": "B4P3K12",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "untuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K12",
+      "content": "B4P3K12.mp3",
+      "offline": "B4P3K12",
+      "createdDate": "2022-07-15T01:43:46.1073Z",
+      "updatedDate": "2022-07-15T01:43:46.1073Z"
+    }
+  },
+  {
+    "id": 216,
+    "paragraphId": "10",
+    "audiosId": "B4P3K13",
+    "content": "اِسْتِفَادَةٌ",
+    "read": "",
+    "readIndonesia": "bermanfaat, yang berfaidah, mengambil manfaat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K13",
+      "content": "B4P3K13.mp3",
+      "offline": "B4P3K13",
+      "createdDate": "2022-07-15T01:43:46.1074Z",
+      "updatedDate": "2022-07-15T01:43:46.1074Z"
+    }
+  },
+  {
+    "id": 217,
+    "paragraphId": "10",
+    "audiosId": "B4P3K14",
+    "content": "مِنْهَا",
+    "read": "",
+    "readIndonesia": "darinya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K14",
+      "content": "B4P3K14.mp3",
+      "offline": "B4P3K14",
+      "createdDate": "2022-07-15T01:43:46.1075Z",
+      "updatedDate": "2022-07-15T01:43:46.1075Z"
+    }
+  },
+  {
+    "id": 218,
+    "paragraphId": "10",
+    "audiosId": "B4P3K15",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di, dalam, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K15",
+      "content": "B4P3K15.mp3",
+      "offline": "B4P3K15",
+      "createdDate": "2022-07-15T01:43:46.1076Z",
+      "updatedDate": "2022-07-15T01:43:46.1076Z"
+    }
+  },
+  {
+    "id": 219,
+    "paragraphId": "10",
+    "audiosId": "B4P3K16",
+    "content": "شُرْبٌ",
+    "read": "",
+    "readIndonesia": "minuman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K16",
+      "content": "B4P3K16.mp3",
+      "offline": "B4P3K16",
+      "createdDate": "2022-07-15T01:43:46.1077Z",
+      "updatedDate": "2022-07-15T01:43:46.1077Z"
+    }
+  },
+  {
+    "id": 220,
+    "paragraphId": "10",
+    "audiosId": "B4P3K17",
+    "content": "صَارَ - يَصِيْرُ",
+    "read": "",
+    "readIndonesia": "menjadi, mendatangi untuk, menimbulkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K17",
+      "content": "B4P3K17.mp3",
+      "offline": "B4P3K17",
+      "createdDate": "2022-07-15T01:43:46.1078Z",
+      "updatedDate": "2022-07-15T01:43:46.1078Z"
+    }
+  },
+  {
+    "id": 221,
+    "paragraphId": "10",
+    "audiosId": "B4P3K18",
+    "content": "جُزْءٌ ج. أَجْزَاءُ",
+    "read": "",
+    "readIndonesia": "bagian, potongan, porsi, volume, golongan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K18",
+      "content": "B4P3K18.mp3",
+      "offline": "B4P3K18",
+      "createdDate": "2022-07-15T01:43:46.1079Z",
+      "updatedDate": "2022-07-15T01:43:46.1079Z"
+    }
+  },
+  {
+    "id": 222,
+    "paragraphId": "10",
+    "audiosId": "B4P3K19",
+    "content": "كَبِيْرٌ ج. كِبَارٌ، كُبَرَاءُ، كَبِيْرَاتٌ، كَبَائِرُ",
+    "read": "",
+    "readIndonesia": "besar, agung, luas, luar biasa, sangat besar, senior",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K19",
+      "content": "B4P3K19.mp3",
+      "offline": "B4P3K19",
+      "createdDate": "2022-07-15T01:43:46.1080Z",
+      "updatedDate": "2022-07-15T01:43:46.1080Z"
+    }
+  },
+  {
+    "id": 223,
+    "paragraphId": "10",
+    "audiosId": "B4P3K20",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K20",
+      "content": "B4P3K20.mp3",
+      "offline": "B4P3K20",
+      "createdDate": "2022-07-15T01:43:46.1081Z",
+      "updatedDate": "2022-07-15T01:43:46.1081Z"
+    }
+  },
+  {
+    "id": 224,
+    "paragraphId": "10",
+    "audiosId": "B4P3K21",
+    "content": "صَّحْرَاءٌ ج. صَحَارَى، صَحَارٍ، صَحْرَاوَاتٌ، صحَارِي",
+    "read": "",
+    "readIndonesia": "padang pasir, hutan belantara, liar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K21",
+      "content": "B4P3K21.mp3",
+      "offline": "B4P3K21",
+      "createdDate": "2022-07-15T01:43:46.1082Z",
+      "updatedDate": "2022-07-15T01:43:46.1082Z"
+    }
+  },
+  {
+    "id": 225,
+    "paragraphId": "10",
+    "audiosId": "B4P3K22",
+    "content": "مَزرَعَةٌ ج. مَزْرَعَاتٌ، مَزارِعُ",
+    "read": "",
+    "readIndonesia": "kebun, perkebunan, pertanian, persawahan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K22",
+      "content": "B4P3K22.mp3",
+      "offline": "B4P3K22",
+      "createdDate": "2022-07-15T01:43:46.1083Z",
+      "updatedDate": "2022-07-15T01:43:46.1083Z"
+    }
+  },
+  {
+    "id": 226,
+    "paragraphId": "10",
+    "audiosId": "B4P3K23",
+    "content": "خَضْرَاءُ ج. خَضْرَاوَاتُ و خُضْرٌ",
+    "read": "",
+    "readIndonesia": "sayur mayur",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K23",
+      "content": "B4P3K23.mp3",
+      "offline": "B4P3K23",
+      "createdDate": "2022-07-15T01:43:46.1084Z",
+      "updatedDate": "2022-07-15T01:43:46.1084Z"
+    }
+  },
+  {
+    "id": 227,
+    "paragraphId": "10",
+    "audiosId": "B4P3K24",
+    "content": "اِنْتَشَرَ - يَنْتَشِرُ",
+    "read": "",
+    "readIndonesia": "menyebar, menghamburkan, mengedarkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K24",
+      "content": "B4P3K24.mp3",
+      "offline": "B4P3K24",
+      "createdDate": "2022-07-15T01:43:46.1085Z",
+      "updatedDate": "2022-07-15T01:43:46.1085Z"
+    }
+  },
+  {
+    "id": 228,
+    "paragraphId": "10",
+    "audiosId": "B4P3K25",
+    "content": "قَمْحٌ",
+    "read": "",
+    "readIndonesia": "gandum",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K25",
+      "content": "B4P3K25.mp3",
+      "offline": "B4P3K25",
+      "createdDate": "2022-07-15T01:43:46.1086Z",
+      "updatedDate": "2022-07-15T01:43:46.1086Z"
+    }
+  },
+  {
+    "id": 229,
+    "paragraphId": "10",
+    "audiosId": "B4P3K26",
+    "content": "خُضَارٌ ج. خُضْرَةُ",
+    "read": "",
+    "readIndonesia": "sayur mayur",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K26",
+      "content": "B4P3K26.mp3",
+      "offline": "B4P3K26",
+      "createdDate": "2022-07-15T01:43:46.1087Z",
+      "updatedDate": "2022-07-15T01:43:46.1087Z"
+    }
+  },
+  {
+    "id": 230,
+    "paragraphId": "10",
+    "audiosId": "B4P3K27",
+    "content": "طَمَاطِمٌ ج. طِّمْطِمٌ",
+    "read": "",
+    "readIndonesia": "tomat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K27",
+      "content": "B4P3K27.mp3",
+      "offline": "B4P3K27",
+      "createdDate": "2022-07-15T01:43:46.1088Z",
+      "updatedDate": "2022-07-15T01:43:46.1088Z"
+    }
+  },
+  {
+    "id": 231,
+    "paragraphId": "10",
+    "audiosId": "B4P3K28",
+    "content": "خِيَارٌ ج. خَيْرَةُ",
+    "read": "",
+    "readIndonesia": "ketimun, mentimun",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B4P3K28",
+      "content": "B4P3K28.mp3",
+      "offline": "B4P3K28",
+      "createdDate": "2022-07-15T01:43:46.1089Z",
+      "updatedDate": "2022-07-15T01:43:46.1089Z"
+    }
+  },
+  {
+    "id": 232,
+    "paragraphId": "11",
+    "audiosId": "B5P1K1",
+    "content": "مَمْلَكَةٌ ج. مَمَالِكُ",
+    "read": "",
+    "readIndonesia": "kerajaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K1",
+      "content": "B5P1K1.mp3",
+      "offline": "B5P1K1",
+      "createdDate": "2022-07-15T01:43:46.1116Z",
+      "updatedDate": "2022-07-15T01:43:46.1116Z"
+    }
+  },
+  {
+    "id": 233,
+    "paragraphId": "11",
+    "audiosId": "B5P1K2",
+    "content": "عَرَبِيٌّ، عَرَبِيَّةٌ",
+    "read": "",
+    "readIndonesia": "Arab",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K2",
+      "content": "B5P1K2.mp3",
+      "offline": "B5P1K2",
+      "createdDate": "2022-07-15T01:43:46.1117Z",
+      "updatedDate": "2022-07-15T01:43:46.1117Z"
+    }
+  },
+  {
+    "id": 234,
+    "paragraphId": "11",
+    "audiosId": "B5P1K3",
+    "content": "سُعُوْدِيَّةُ",
+    "read": "",
+    "readIndonesia": "Saudi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K3",
+      "content": "B5P1K3.mp3",
+      "offline": "B5P1K3",
+      "createdDate": "2022-07-15T01:43:46.1118Z",
+      "updatedDate": "2022-07-15T01:43:46.1118Z"
+    }
+  },
+  {
+    "id": 235,
+    "paragraphId": "11",
+    "audiosId": "B5P1K4",
+    "content": "قِبْلَةٌ ج. قِبْلَاتٌ",
+    "read": "",
+    "readIndonesia": "arah kiblat,Kiblat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K4",
+      "content": "B5P1K4.mp3",
+      "offline": "B5P1K4",
+      "createdDate": "2022-07-15T01:43:46.1119Z",
+      "updatedDate": "2022-07-15T01:43:46.1119Z"
+    }
+  },
+  {
+    "id": 236,
+    "paragraphId": "11",
+    "audiosId": "B5P1K5",
+    "content": "عَالَمٌ ج. عَوَالِمُ، عَالَمُوْنَ",
+    "read": "",
+    "readIndonesia": "dunia, alam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K5",
+      "content": "B5P1K5.mp3",
+      "offline": "B5P1K5",
+      "createdDate": "2022-07-15T01:43:46.1120Z",
+      "updatedDate": "2022-07-15T01:43:46.1120Z"
+    }
+  },
+  {
+    "id": 237,
+    "paragraphId": "11",
+    "audiosId": "B5P1K6",
+    "content": "إِسْلَامِيْ",
+    "read": "",
+    "readIndonesia": "Islam, berkaitan dengan Islam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K6",
+      "content": "B5P1K6.mp3",
+      "offline": "B5P1K6",
+      "createdDate": "2022-07-15T01:43:46.1121Z",
+      "updatedDate": "2022-07-15T01:43:46.1121Z"
+    }
+  },
+  {
+    "id": 238,
+    "paragraphId": "11",
+    "audiosId": "B5P1K7",
+    "content": "فِيْهَا",
+    "read": "",
+    "readIndonesia": "di dalamnya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K7",
+      "content": "B5P1K7.mp3",
+      "offline": "B5P1K7",
+      "createdDate": "2022-07-15T01:43:46.1122Z",
+      "updatedDate": "2022-07-15T01:43:46.1122Z"
+    }
+  },
+  {
+    "id": 239,
+    "paragraphId": "11",
+    "audiosId": "B5P1K8",
+    "content": "مَكَّةُ",
+    "read": "",
+    "readIndonesia": "Mekah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K8",
+      "content": "B5P1K8.mp3",
+      "offline": "B5P1K8",
+      "createdDate": "2022-07-15T01:43:46.1123Z",
+      "updatedDate": "2022-07-15T01:43:46.1123Z"
+    }
+  },
+  {
+    "id": 240,
+    "paragraphId": "11",
+    "audiosId": "B5P1K9",
+    "content": "الْمُكَرَّمَةُ",
+    "read": "",
+    "readIndonesia": "yang dimuliakan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K9",
+      "content": "B5P1K9.mp3",
+      "offline": "B5P1K9",
+      "createdDate": "2022-07-15T01:43:46.1124Z",
+      "updatedDate": "2022-07-15T01:43:46.1124Z"
+    }
+  },
+  {
+    "id": 241,
+    "paragraphId": "11",
+    "audiosId": "B5P1K10",
+    "content": "الَّتِيْ",
+    "read": "",
+    "readIndonesia": "yang",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K10",
+      "content": "B5P1K10.mp3",
+      "offline": "B5P1K10",
+      "createdDate": "2022-07-15T01:43:46.1125Z",
+      "updatedDate": "2022-07-15T01:43:46.1125Z"
+    }
+  },
+  {
+    "id": 242,
+    "paragraphId": "11",
+    "audiosId": "B5P1K11",
+    "content": "حَجَّ - يَحُجُّ",
+    "read": "",
+    "readIndonesia": "naik haji, berziarah ke tanah suci",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K11",
+      "content": "B5P1K11.mp3",
+      "offline": "B5P1K11",
+      "createdDate": "2022-07-15T01:43:46.1126Z",
+      "updatedDate": "2022-07-15T01:43:46.1126Z"
+    }
+  },
+  {
+    "id": 243,
+    "paragraphId": "11",
+    "audiosId": "B5P1K12",
+    "content": "إِلَيْهَا",
+    "read": "",
+    "readIndonesia": "ke sana",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K12",
+      "content": "B5P1K12.mp3",
+      "offline": "B5P1K12",
+      "createdDate": "2022-07-15T01:43:46.1127Z",
+      "updatedDate": "2022-07-15T01:43:46.1127Z"
+    }
+  },
+  {
+    "id": 244,
+    "paragraphId": "11",
+    "audiosId": "B5P1K13",
+    "content": "مُسْلِمٌ ج. مُسْلِمُوْنَ",
+    "read": "",
+    "readIndonesia": "muslim, orang Islam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K13",
+      "content": "B5P1K13.mp3",
+      "offline": "B5P1K13",
+      "createdDate": "2022-07-15T01:43:46.1128Z",
+      "updatedDate": "2022-07-15T01:43:46.1128Z"
+    }
+  },
+  {
+    "id": 245,
+    "paragraphId": "11",
+    "audiosId": "B5P1K14",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K14",
+      "content": "B5P1K14.mp3",
+      "offline": "B5P1K14",
+      "createdDate": "2022-07-15T01:43:46.1129Z",
+      "updatedDate": "2022-07-15T01:43:46.1129Z"
+    }
+  },
+  {
+    "id": 246,
+    "paragraphId": "11",
+    "audiosId": "B5P1K15",
+    "content": "كُلٌّ",
+    "read": "",
+    "readIndonesia": "semua, setiap, seluruh, utuh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K15",
+      "content": "B5P1K15.mp3",
+      "offline": "B5P1K15",
+      "createdDate": "2022-07-15T01:43:46.1130Z",
+      "updatedDate": "2022-07-15T01:43:46.1130Z"
+    }
+  },
+  {
+    "id": 247,
+    "paragraphId": "11",
+    "audiosId": "B5P1K16",
+    "content": "بَلْدَةٌ ج. بِلَادٌ، بَلْدَاتٌ",
+    "read": "",
+    "readIndonesia": "negara, kota, daerah, negeri, tanah air",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K16",
+      "content": "B5P1K16.mp3",
+      "offline": "B5P1K16",
+      "createdDate": "2022-07-15T01:43:46.1131Z",
+      "updatedDate": "2022-07-15T01:43:46.1131Z"
+    }
+  },
+  {
+    "id": 248,
+    "paragraphId": "11",
+    "audiosId": "B5P1K17",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "untuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K17",
+      "content": "B5P1K17.mp3",
+      "offline": "B5P1K17",
+      "createdDate": "2022-07-15T01:43:46.1132Z",
+      "updatedDate": "2022-07-15T01:43:46.1132Z"
+    }
+  },
+  {
+    "id": 249,
+    "paragraphId": "11",
+    "audiosId": "B5P1K18",
+    "content": "طَوَافٌ",
+    "read": "",
+    "readIndonesia": "bertawaf, berkeliling, berputar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K18",
+      "content": "B5P1K18.mp3",
+      "offline": "B5P1K18",
+      "createdDate": "2022-07-15T01:43:46.1133Z",
+      "updatedDate": "2022-07-15T01:43:46.1133Z"
+    }
+  },
+  {
+    "id": 250,
+    "paragraphId": "11",
+    "audiosId": "B5P1K19",
+    "content": "حَوْلَ",
+    "read": "",
+    "readIndonesia": "di sekeliling, di sekitar, tentang",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K19",
+      "content": "B5P1K19.mp3",
+      "offline": "B5P1K19",
+      "createdDate": "2022-07-15T01:43:46.1134Z",
+      "updatedDate": "2022-07-15T01:43:46.1134Z"
+    }
+  },
+  {
+    "id": 251,
+    "paragraphId": "11",
+    "audiosId": "B5P1K20",
+    "content": "الكَعْبَةُ",
+    "read": "",
+    "readIndonesia": "Ka’bah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K20",
+      "content": "B5P1K20.mp3",
+      "offline": "B5P1K20",
+      "createdDate": "2022-07-15T01:43:46.1135Z",
+      "updatedDate": "2022-07-15T01:43:46.1135Z"
+    }
+  },
+  {
+    "id": 252,
+    "paragraphId": "11",
+    "audiosId": "B5P1K21",
+    "content": "المُشَرَّفَةُ",
+    "read": "",
+    "readIndonesia": "yang dihormati, yang dimuliakan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K21",
+      "content": "B5P1K21.mp3",
+      "offline": "B5P1K21",
+      "createdDate": "2022-07-15T01:43:46.1136Z",
+      "updatedDate": "2022-07-15T01:43:46.1136Z"
+    }
+  },
+  {
+    "id": 253,
+    "paragraphId": "11",
+    "audiosId": "B5P1K22",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K22",
+      "content": "B5P1K22.mp3",
+      "offline": "B5P1K22",
+      "createdDate": "2022-07-15T01:43:46.1137Z",
+      "updatedDate": "2022-07-15T01:43:46.1137Z"
+    }
+  },
+  {
+    "id": 254,
+    "paragraphId": "11",
+    "audiosId": "B5P1K23",
+    "content": "صَلَاةٌ ج. صَلَوَاتٌ",
+    "read": "",
+    "readIndonesia": "shalat, sembahyang, ibadah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K23",
+      "content": "B5P1K23.mp3",
+      "offline": "B5P1K23",
+      "createdDate": "2022-07-15T01:43:46.1138Z",
+      "updatedDate": "2022-07-15T01:43:46.1138Z"
+    }
+  },
+  {
+    "id": 255,
+    "paragraphId": "11",
+    "audiosId": "B5P1K24",
+    "content": "مَسْجِدٌ ج. مَسَاجِدُ",
+    "read": "",
+    "readIndonesia": "masjid, tempat beribadah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K24",
+      "content": "B5P1K24.mp3",
+      "offline": "B5P1K24",
+      "createdDate": "2022-07-15T01:43:46.1139Z",
+      "updatedDate": "2022-07-15T01:43:46.1139Z"
+    }
+  },
+  {
+    "id": 256,
+    "paragraphId": "11",
+    "audiosId": "B5P1K25",
+    "content": "حَرَامٌ ج. حُرُمٌ",
+    "read": "",
+    "readIndonesia": "suci, keramat, kudus, tidak diganggu, tabu, yang diharamkan, yang dilarang, ",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K25",
+      "content": "B5P1K25.mp3",
+      "offline": "B5P1K25",
+      "createdDate": "2022-07-15T01:43:46.1140Z",
+      "updatedDate": "2022-07-15T01:43:46.1140Z"
+    }
+  },
+  {
+    "id": 257,
+    "paragraphId": "11",
+    "audiosId": "B5P1K26",
+    "content": "زِيَارَةٌ ج. زِيَارَاتٌ",
+    "read": "",
+    "readIndonesia": "kunjungan, ziarah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K26",
+      "content": "B5P1K26.mp3",
+      "offline": "B5P1K26",
+      "createdDate": "2022-07-15T01:43:46.1141Z",
+      "updatedDate": "2022-07-15T01:43:46.1141Z"
+    }
+  },
+  {
+    "id": 258,
+    "paragraphId": "11",
+    "audiosId": "B5P1K27",
+    "content": "مَشْعَرٌ ج. مَشَاعِرُ",
+    "read": "",
+    "readIndonesia": "tempat yang disyariatkan Allah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K27",
+      "content": "B5P1K27.mp3",
+      "offline": "B5P1K27",
+      "createdDate": "2022-07-15T01:43:46.1142Z",
+      "updatedDate": "2022-07-15T01:43:46.1142Z"
+    }
+  },
+  {
+    "id": 259,
+    "paragraphId": "11",
+    "audiosId": "B5P1K28",
+    "content": "مُقَدَّسَةٌ",
+    "read": "",
+    "readIndonesia": "suci",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P1K28",
+      "content": "B5P1K28.mp3",
+      "offline": "B5P1K28",
+      "createdDate": "2022-07-15T01:43:46.1143Z",
+      "updatedDate": "2022-07-15T01:43:46.1143Z"
+    }
+  },
+  {
+    "id": 260,
+    "paragraphId": "12",
+    "audiosId": "B5P2K1",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K1",
+      "content": "B5P2K1.mp3",
+      "offline": "B5P2K1",
+      "createdDate": "2022-07-15T01:43:46.1144Z",
+      "updatedDate": "2022-07-15T01:43:46.1144Z"
+    }
+  },
+  {
+    "id": 261,
+    "paragraphId": "12",
+    "audiosId": "B5P2K2",
+    "content": "فِيْهَا",
+    "read": "",
+    "readIndonesia": "di dalamnya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K2",
+      "content": "B5P2K2.mp3",
+      "offline": "B5P2K2",
+      "createdDate": "2022-07-15T01:43:46.1145Z",
+      "updatedDate": "2022-07-15T01:43:46.1145Z"
+    }
+  },
+  {
+    "id": 262,
+    "paragraphId": "12",
+    "audiosId": "B5P2K3",
+    "content": "مَدِيْنَةٌ ج. مَدَائِنُ، مُدْنٌ",
+    "read": "",
+    "readIndonesia": "kota, kota Madinah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K3",
+      "content": "B5P2K3.mp3",
+      "offline": "B5P2K3",
+      "createdDate": "2022-07-15T01:43:46.1146Z",
+      "updatedDate": "2022-07-15T01:43:46.1146Z"
+    }
+  },
+  {
+    "id": 263,
+    "paragraphId": "12",
+    "audiosId": "B5P2K4",
+    "content": "مُنَوَّرَةٌ",
+    "read": "",
+    "readIndonesia": "yang bercahaya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K4",
+      "content": "B5P2K4.mp3",
+      "offline": "B5P2K4",
+      "createdDate": "2022-07-15T01:43:46.1147Z",
+      "updatedDate": "2022-07-15T01:43:46.1147Z"
+    }
+  },
+  {
+    "id": 264,
+    "paragraphId": "12",
+    "audiosId": "B5P2K5",
+    "content": "اِنْتَشَرَ - يَنْتَشِرُ",
+    "read": "",
+    "readIndonesia": "menyebar, menghamburkan, mengedarkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K5",
+      "content": "B5P2K5.mp3",
+      "offline": "B5P2K5",
+      "createdDate": "2022-07-15T01:43:46.1148Z",
+      "updatedDate": "2022-07-15T01:43:46.1148Z"
+    }
+  },
+  {
+    "id": 265,
+    "paragraphId": "12",
+    "audiosId": "B5P2K6",
+    "content": "إِسْلَامٌ",
+    "read": "",
+    "readIndonesia": "Islam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K6",
+      "content": "B5P2K6.mp3",
+      "offline": "B5P2K6",
+      "createdDate": "2022-07-15T01:43:46.1149Z",
+      "updatedDate": "2022-07-15T01:43:46.1149Z"
+    }
+  },
+  {
+    "id": 266,
+    "paragraphId": "12",
+    "audiosId": "B5P2K7",
+    "content": "مَسْجِدٌ ج. مَسَاجِدُ",
+    "read": "",
+    "readIndonesia": "masjid, tempat beribadah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K7",
+      "content": "B5P2K7.mp3",
+      "offline": "B5P2K7",
+      "createdDate": "2022-07-15T01:43:46.1150Z",
+      "updatedDate": "2022-07-15T01:43:46.1150Z"
+    }
+  },
+  {
+    "id": 267,
+    "paragraphId": "12",
+    "audiosId": "B5P2K8",
+    "content": "نَبَوِيٌّ",
+    "read": "",
+    "readIndonesia": "kenabian, kerasulan, (masjid) Nabawi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K8",
+      "content": "B5P2K8.mp3",
+      "offline": "B5P2K8",
+      "createdDate": "2022-07-15T01:43:46.1151Z",
+      "updatedDate": "2022-07-15T01:43:46.1151Z"
+    }
+  },
+  {
+    "id": 268,
+    "paragraphId": "12",
+    "audiosId": "B5P2K9",
+    "content": "قَبْرٌ ج. قُبُوْرٌ، أَقْبُرٌ",
+    "read": "",
+    "readIndonesia": "kubur, kuburan, makam, pusara",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K9",
+      "content": "B5P2K9.mp3",
+      "offline": "B5P2K9",
+      "createdDate": "2022-07-15T01:43:46.1152Z",
+      "updatedDate": "2022-07-15T01:43:46.1152Z"
+    }
+  },
+  {
+    "id": 269,
+    "paragraphId": "12",
+    "audiosId": "B5P2K10",
+    "content": "رَّسُوْلٌ ج. رُسُلٌ، أَرْسُلٌ، رُسْلٌ",
+    "read": "",
+    "readIndonesia": "rasul, utusan, pesuruh, kurir, duta, wakil",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K10",
+      "content": "B5P2K10.mp3",
+      "offline": "B5P2K10",
+      "createdDate": "2022-07-15T01:43:46.1153Z",
+      "updatedDate": "2022-07-15T01:43:46.1153Z"
+    }
+  },
+  {
+    "id": 270,
+    "paragraphId": "12",
+    "audiosId": "B5P2K11",
+    "content": "صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ",
+    "read": "",
+    "readIndonesia": "semoga Allah memberikan shalawat  dan salam kepadanya ",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K11",
+      "content": "B5P2K11.mp3",
+      "offline": "B5P2K11",
+      "createdDate": "2022-07-15T01:43:46.1154Z",
+      "updatedDate": "2022-07-15T01:43:46.1154Z"
+    }
+  },
+  {
+    "id": 271,
+    "paragraphId": "12",
+    "audiosId": "B5P2K12",
+    "content": "صَاحِبٌ ج. أَصْحَابٌ، صَحَابَةٌ، صُحْبَةٌ",
+    "read": "",
+    "readIndonesia": "rekan, sahabat, teman, kawan, peserta",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K12",
+      "content": "B5P2K12.mp3",
+      "offline": "B5P2K12",
+      "createdDate": "2022-07-15T01:43:46.1155Z",
+      "updatedDate": "2022-07-15T01:43:46.1155Z"
+    }
+  },
+  {
+    "id": 272,
+    "paragraphId": "12",
+    "audiosId": "B5P2K13",
+    "content": "رِضْوَانُ اللّٰهِ عَلَيْهِمَا",
+    "read": "",
+    "readIndonesia": "semoga Allah meridhoi keduanya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P2K13",
+      "content": "B5P2K13.mp3",
+      "offline": "B5P2K13",
+      "createdDate": "2022-07-15T01:43:46.1156Z",
+      "updatedDate": "2022-07-15T01:43:46.1156Z"
+    }
+  },
+  {
+    "id": 273,
+    "paragraphId": "13",
+    "audiosId": "B5P3K1",
+    "content": "ذَهَبَ - يَذْهَبُ",
+    "read": "",
+    "readIndonesia": "pergi, berkunjung, menuju ke, berangkat",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K1",
+      "content": "B5P3K1.mp3",
+      "offline": "B5P3K1",
+      "createdDate": "2022-07-15T01:43:46.1160Z",
+      "updatedDate": "2022-07-15T01:43:46.1160Z"
+    }
+  },
+  {
+    "id": 274,
+    "paragraphId": "13",
+    "audiosId": "B5P3K2",
+    "content": "مُسْلِمٌ ج. مُسْلِمُوْنَ",
+    "read": "",
+    "readIndonesia": "muslim, orang Islam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K2",
+      "content": "B5P3K2.mp3",
+      "offline": "B5P3K2",
+      "createdDate": "2022-07-15T01:43:46.1161Z",
+      "updatedDate": "2022-07-15T01:43:46.1161Z"
+    }
+  },
+  {
+    "id": 275,
+    "paragraphId": "13",
+    "audiosId": "B5P3K3",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "ke",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K3",
+      "content": "B5P3K3.mp3",
+      "offline": "B5P3K3",
+      "createdDate": "2022-07-15T01:43:46.1162Z",
+      "updatedDate": "2022-07-15T01:43:46.1162Z"
+    }
+  },
+  {
+    "id": 276,
+    "paragraphId": "13",
+    "audiosId": "B5P3K4",
+    "content": "مَدِيْنَةٌ ج. مَدَائِنُ، مُدْنٌ",
+    "read": "",
+    "readIndonesia": "kota, kota Madinah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K4",
+      "content": "B5P3K4.mp3",
+      "offline": "B5P3K4",
+      "createdDate": "2022-07-15T01:43:46.1163Z",
+      "updatedDate": "2022-07-15T01:43:46.1163Z"
+    }
+  },
+  {
+    "id": 277,
+    "paragraphId": "13",
+    "audiosId": "B5P3K5",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "untuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K5",
+      "content": "B5P3K5.mp3",
+      "offline": "B5P3K5",
+      "createdDate": "2022-07-15T01:43:46.1164Z",
+      "updatedDate": "2022-07-15T01:43:46.1164Z"
+    }
+  },
+  {
+    "id": 278,
+    "paragraphId": "13",
+    "audiosId": "B5P3K6",
+    "content": "صَلَاةٌ ج. صَلَوَاتٌ",
+    "read": "",
+    "readIndonesia": "shalat, sembahyang, ibadah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K6",
+      "content": "B5P3K6.mp3",
+      "offline": "B5P3K6",
+      "createdDate": "2022-07-15T01:43:46.1165Z",
+      "updatedDate": "2022-07-15T01:43:46.1165Z"
+    }
+  },
+  {
+    "id": 279,
+    "paragraphId": "13",
+    "audiosId": "B5P3K7",
+    "content": "مَسْجِدٌ ج. مَسَاجِدُ",
+    "read": "",
+    "readIndonesia": "masjid, tempat beribadah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K7",
+      "content": "B5P3K7.mp3",
+      "offline": "B5P3K7",
+      "createdDate": "2022-07-15T01:43:46.1166Z",
+      "updatedDate": "2022-07-15T01:43:46.1166Z"
+    }
+  },
+  {
+    "id": 280,
+    "paragraphId": "13",
+    "audiosId": "B5P3K8",
+    "content": "نَبَوِيٌّ",
+    "read": "",
+    "readIndonesia": "kenabian, kerasulan, (masjid) Nabawi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K8",
+      "content": "B5P3K8.mp3",
+      "offline": "B5P3K8",
+      "createdDate": "2022-07-15T01:43:46.1167Z",
+      "updatedDate": "2022-07-15T01:43:46.1167Z"
+    }
+  },
+  {
+    "id": 281,
+    "paragraphId": "13",
+    "audiosId": "B5P3K9",
+    "content": "فَ",
+    "read": "",
+    "readIndonesia": "maka, agar",
+    "indonesiaWords": []
+  },
+  {
+    "id": 282,
+    "paragraphId": "13",
+    "audiosId": "B5P3K10",
+    "content": "سَلَّمَ - يُسَلِّمُ ",
+    "read": "",
+    "readIndonesia": "menyampaikan, mengirimkan, menyerahkan",
+    "indonesiaWords": []
+  },
+  {
+    "id": 283,
+    "paragraphId": "13",
+    "audiosId": "B5P3K11",
+    "content": "رَسُوْلُ اللّٰهِ",
+    "read": "",
+    "readIndonesia": "Rasulullah",
+    "indonesiaWords": []
+  },
+  {
+    "id": 284,
+    "paragraphId": "13",
+    "audiosId": "B5P3K12",
+    "content": "صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ",
+    "read": "",
+    "readIndonesia": "semoga Allah memberikan shalawat  dan salam kepadanya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K12",
+      "content": "B5P3K12.mp3",
+      "offline": "B5P3K12",
+      "createdDate": "2022-07-15T01:43:46.1168Z",
+      "updatedDate": "2022-07-15T01:43:46.1168Z"
+    }
+  },
+  {
+    "id": 285,
+    "paragraphId": "13",
+    "audiosId": "B5P3K13",
+    "content": "عَلَى",
+    "read": "",
+    "readIndonesia": "atas, kepada, terhadap",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K13",
+      "content": "B5P3K13.mp3",
+      "offline": "B5P3K13",
+      "createdDate": "2022-07-15T01:43:46.1169Z",
+      "updatedDate": "2022-07-15T01:43:46.1169Z"
+    }
+  },
+  {
+    "id": 286,
+    "paragraphId": "13",
+    "audiosId": "B5P3K14",
+    "content": "صَاحِبٌ ج. أَصْحَابٌ، صَحَابَةٌ، صُحْبَةٌ",
+    "read": "",
+    "readIndonesia": "rekan, sahabat, teman, kawan, peserta",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K14",
+      "content": "B5P3K14.mp3",
+      "offline": "B5P3K14",
+      "createdDate": "2022-07-15T01:43:46.1170Z",
+      "updatedDate": "2022-07-15T01:43:46.1170Z"
+    }
+  },
+  {
+    "id": 287,
+    "paragraphId": "13",
+    "audiosId": "B5P3K15",
+    "content": "رَضِيَ اللّٰهُ عَنْهُمَا",
+    "read": "",
+    "readIndonesia": "semoga Allah meridhoi keduanya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P3K15",
+      "content": "B5P3K15.mp3",
+      "offline": "B5P3K15",
+      "createdDate": "2022-07-15T01:43:46.1171Z",
+      "updatedDate": "2022-07-15T01:43:46.1171Z"
+    }
+  },
+  {
+    "id": 288,
+    "paragraphId": "14",
+    "audiosId": "B5P4K1",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K1",
+      "content": "B5P4K1.mp3",
+      "offline": "B5P4K1",
+      "createdDate": "2022-07-15T01:43:46.1172Z",
+      "updatedDate": "2022-07-15T01:43:46.1172Z"
+    }
+  },
+  {
+    "id": 289,
+    "paragraphId": "14",
+    "audiosId": "B5P4K2",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "di dalam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K2",
+      "content": "B5P4K2.mp3",
+      "offline": "B5P4K2",
+      "createdDate": "2022-07-15T01:43:46.1173Z",
+      "updatedDate": "2022-07-15T01:43:46.1173Z"
+    }
+  },
+  {
+    "id": 290,
+    "paragraphId": "14",
+    "audiosId": "B5P4K3",
+    "content": "مَمْلَكَةٌ ج. مَمَالِكُ",
+    "read": "",
+    "readIndonesia": "kerajaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K3",
+      "content": "B5P4K3.mp3",
+      "offline": "B5P4K3",
+      "createdDate": "2022-07-15T01:43:46.1174Z",
+      "updatedDate": "2022-07-15T01:43:46.1174Z"
+    }
+  },
+  {
+    "id": 291,
+    "paragraphId": "14",
+    "audiosId": "B5P4K4",
+    "content": "مَدْرَسَةٌ ج. مَدَارِسُ",
+    "read": "",
+    "readIndonesia": "sekolah, perguruan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K4",
+      "content": "B5P4K4.mp3",
+      "offline": "B5P4K4",
+      "createdDate": "2022-07-15T01:43:46.1175Z",
+      "updatedDate": "2022-07-15T01:43:46.1175Z"
+    }
+  },
+  {
+    "id": 292,
+    "paragraphId": "14",
+    "audiosId": "B5P4K5",
+    "content": "كَثِيْرٌ ج. كَثِيْرَةٌ، كَثِيْرُوْنَ، كَثِيْرَاتٌ",
+    "read": "",
+    "readIndonesia": "banyak, banyak sekali, melimpah, melimpah-ruah, sebagian besar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K5",
+      "content": "B5P4K5.mp3",
+      "offline": "B5P4K5",
+      "createdDate": "2022-07-15T01:43:46.1176Z",
+      "updatedDate": "2022-07-15T01:43:46.1176Z"
+    }
+  },
+  {
+    "id": 293,
+    "paragraphId": "14",
+    "audiosId": "B5P4K6",
+    "content": "سَبْعٌ",
+    "read": "",
+    "readIndonesia": "tujuh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K6",
+      "content": "B5P4K6.mp3",
+      "offline": "B5P4K6",
+      "createdDate": "2022-07-15T01:43:46.1177Z",
+      "updatedDate": "2022-07-15T01:43:46.1177Z"
+    }
+  },
+  {
+    "id": 294,
+    "paragraphId": "14",
+    "audiosId": "B5P4K7",
+    "content": "جَامِعَةٌ ج. جَامِعَاتٌ، جَوَامِعُ",
+    "read": "",
+    "readIndonesia": "universitas, perguruan tinggi, liga, perserikatan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K7",
+      "content": "B5P4K7.mp3",
+      "offline": "B5P4K7",
+      "createdDate": "2022-07-15T01:43:46.1178Z",
+      "updatedDate": "2022-07-15T01:43:46.1178Z"
+    }
+  },
+  {
+    "id": 295,
+    "paragraphId": "14",
+    "audiosId": "B5P4K8",
+    "content": "مَعْهَدٌ ج. مَعَاهِدٌ",
+    "read": "",
+    "readIndonesia": "Institut, lembaga, ma’had",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K8",
+      "content": "B5P4K8.mp3",
+      "offline": "B5P4K8",
+      "createdDate": "2022-07-15T01:43:46.1179Z",
+      "updatedDate": "2022-07-15T01:43:46.1179Z"
+    }
+  },
+  {
+    "id": 296,
+    "paragraphId": "14",
+    "audiosId": "B5P4K9",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "untuk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K9",
+      "content": "B5P4K9.mp3",
+      "offline": "B5P4K9",
+      "createdDate": "2022-07-15T01:43:46.1180Z",
+      "updatedDate": "2022-07-15T01:43:46.1180Z"
+    }
+  },
+  {
+    "id": 297,
+    "paragraphId": "14",
+    "audiosId": "B5P4K10",
+    "content": "تَعْلِيْمٌ",
+    "read": "",
+    "readIndonesia": "pengajaran, pendidikan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K10",
+      "content": "B5P4K10.mp3",
+      "offline": "B5P4K10",
+      "createdDate": "2022-07-15T01:43:46.1181Z",
+      "updatedDate": "2022-07-15T01:43:46.1181Z"
+    }
+  },
+  {
+    "id": 298,
+    "paragraphId": "14",
+    "audiosId": "B5P4K11",
+    "content": "لُغَةٌ ج. لُغَاتٌ",
+    "read": "",
+    "readIndonesia": "Bahasa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K11",
+      "content": "B5P4K11.mp3",
+      "offline": "B5P4K11",
+      "createdDate": "2022-07-15T01:43:46.1182Z",
+      "updatedDate": "2022-07-15T01:43:46.1182Z"
+    }
+  },
+  {
+    "id": 299,
+    "paragraphId": "14",
+    "audiosId": "B5P4K12",
+    "content": "عَرَبِيٌّ، عَرَبِيَّةٌ",
+    "read": "",
+    "readIndonesia": "Arab",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K12",
+      "content": "B5P4K12.mp3",
+      "offline": "B5P4K12",
+      "createdDate": "2022-07-15T01:43:46.1183Z",
+      "updatedDate": "2022-07-15T01:43:46.1183Z"
+    }
+  },
+  {
+    "id": 300,
+    "paragraphId": "14",
+    "audiosId": "B5P4K13",
+    "content": "غَيْرُ",
+    "read": "",
+    "readIndonesia": "selain dari, yang lain, tidak sama dengan, bukan, tanpa, bukan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K13",
+      "content": "B5P4K13.mp3",
+      "offline": "B5P4K13",
+      "createdDate": "2022-07-15T01:43:46.1184Z",
+      "updatedDate": "2022-07-15T01:43:46.1184Z"
+    }
+  },
+  {
+    "id": 301,
+    "paragraphId": "14",
+    "audiosId": "B5P4K14",
+    "content": "نَاطِقٌ ج. نَأطِقُوْنَ، نَاطِقَاتٌ",
+    "read": "",
+    "readIndonesia": "penutur, pembicara, juru bicara",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K14",
+      "content": "B5P4K14.mp3",
+      "offline": "B5P4K14",
+      "createdDate": "2022-07-15T01:43:46.1185Z",
+      "updatedDate": "2022-07-15T01:43:46.1185Z"
+    }
+  },
+  {
+    "id": 302,
+    "paragraphId": "14",
+    "audiosId": "B5P4K15",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K15",
+      "content": "B5P4K15.mp3",
+      "offline": "B5P4K15",
+      "createdDate": "2022-07-15T01:43:46.1186Z",
+      "updatedDate": "2022-07-15T01:43:46.1186Z"
+    }
+  },
+  {
+    "id": 303,
+    "paragraphId": "14",
+    "audiosId": "B5P4K16",
+    "content": "اِبْنٌ ج. أَبْنَاءُ",
+    "read": "",
+    "readIndonesia": "Anak (laki-laki)",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K16",
+      "content": "B5P4K16.mp3",
+      "offline": "B5P4K16",
+      "createdDate": "2022-07-15T01:43:46.1187Z",
+      "updatedDate": "2022-07-15T01:43:46.1187Z"
+    }
+  },
+  {
+    "id": 304,
+    "paragraphId": "14",
+    "audiosId": "B5P4K17",
+    "content": "دَوْلَةٌ ج. دُوَلٌ، دَوْلَاتٌ",
+    "read": "",
+    "readIndonesia": "negara, pemerintahan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K17",
+      "content": "B5P4K17.mp3",
+      "offline": "B5P4K17",
+      "createdDate": "2022-07-15T01:43:46.1188Z",
+      "updatedDate": "2022-07-15T01:43:46.1188Z"
+    }
+  },
+  {
+    "id": 305,
+    "paragraphId": "14",
+    "audiosId": "B5P4K18",
+    "content": "إِسْلَامِيَّةٌ",
+    "read": "",
+    "readIndonesia": "Islam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P4K18",
+      "content": "B5P4K18.mp3",
+      "offline": "B5P4K18",
+      "createdDate": "2022-07-15T01:43:46.1189Z",
+      "updatedDate": "2022-07-15T01:43:46.1189Z"
+    }
+  },
+  {
+    "id": 306,
+    "paragraphId": "15",
+    "audiosId": "B5P5K1",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K1",
+      "content": "B5P5K1.mp3",
+      "offline": "B5P5K1",
+      "createdDate": "2022-07-15T01:43:46.1190Z",
+      "updatedDate": "2022-07-15T01:43:46.1190Z"
+    }
+  },
+  {
+    "id": 307,
+    "paragraphId": "15",
+    "audiosId": "B5P5K2",
+    "content": "أَهَمُّ",
+    "read": "",
+    "readIndonesia": "terpenting, paling penting",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K2",
+      "content": "B5P5K2.mp3",
+      "offline": "B5P5K2",
+      "createdDate": "2022-07-15T01:43:46.1191Z",
+      "updatedDate": "2022-07-15T01:43:46.1191Z"
+    }
+  },
+  {
+    "id": 308,
+    "paragraphId": "15",
+    "audiosId": "B5P5K3",
+    "content": "صَادِرَةٌ ج. صَادِرَاتٌ",
+    "read": "",
+    "readIndonesia": "yang dikeluarkan, sumber daya, komoditas",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K3",
+      "content": "B5P5K3.mp3",
+      "offline": "B5P5K3",
+      "createdDate": "2022-07-15T01:43:46.1192Z",
+      "updatedDate": "2022-07-15T01:43:46.1192Z"
+    }
+  },
+  {
+    "id": 309,
+    "paragraphId": "15",
+    "audiosId": "B5P5K4",
+    "content": "مَمْلَكَةٌ ج. مَمَالِكُ",
+    "read": "",
+    "readIndonesia": "kerajaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K4",
+      "content": "B5P5K4.mp3",
+      "offline": "B5P5K4",
+      "createdDate": "2022-07-15T01:43:46.1193Z",
+      "updatedDate": "2022-07-15T01:43:46.1193Z"
+    }
+  },
+  {
+    "id": 310,
+    "paragraphId": "15",
+    "audiosId": "B5P5K5",
+    "content": "نِفْطٌ",
+    "read": "",
+    "readIndonesia": "minyak, minyak bumi, minyak tanah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K5",
+      "content": "B5P5K5.mp3",
+      "offline": "B5P5K5",
+      "createdDate": "2022-07-15T01:43:46.1194Z",
+      "updatedDate": "2022-07-15T01:43:46.1194Z"
+    }
+  },
+  {
+    "id": 311,
+    "paragraphId": "15",
+    "audiosId": "B5P5K6",
+    "content": "بِتْرُوْلُ",
+    "read": "",
+    "readIndonesia": "petroleum, minyak bumi, bensin",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K6",
+      "content": "B5P5K6.mp3",
+      "offline": "B5P5K6",
+      "createdDate": "2022-07-15T01:43:46.1195Z",
+      "updatedDate": "2022-07-15T01:43:46.1195Z"
+    }
+  },
+  {
+    "id": 312,
+    "paragraphId": "15",
+    "audiosId": "B5P5K7",
+    "content": "سَمَّى - يُسَمَّي",
+    "read": "",
+    "readIndonesia": "menamai, menjuluki, memanggil",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K7",
+      "content": "B5P5K7.mp3",
+      "offline": "B5P5K7",
+      "createdDate": "2022-07-15T01:43:46.1196Z",
+      "updatedDate": "2022-07-15T01:43:46.1196Z"
+    }
+  },
+  {
+    "id": 313,
+    "paragraphId": "15",
+    "audiosId": "B5P5K8",
+    "content": "ذَهَبٌ ج. أَذْهَابٌ، ذُهُوْبٌ",
+    "read": "",
+    "readIndonesia": "emas",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K8",
+      "content": "B5P5K8.mp3",
+      "offline": "B5P5K8",
+      "createdDate": "2022-07-15T01:43:46.1197Z",
+      "updatedDate": "2022-07-15T01:43:46.1197Z"
+    }
+  },
+  {
+    "id": 314,
+    "paragraphId": "15",
+    "audiosId": "B5P5K9",
+    "content": "أَسْوَدُ ج. سُوْدُ",
+    "read": "",
+    "readIndonesia": "hitam",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K9",
+      "content": "B5P5K9.mp3",
+      "offline": "B5P5K9",
+      "createdDate": "2022-07-15T01:43:46.1198Z",
+      "updatedDate": "2022-07-15T01:43:46.1198Z"
+    }
+  },
+  {
+    "id": 315,
+    "paragraphId": "15",
+    "audiosId": "B5P5K10",
+    "content": "صَدَّرَ - يُصَدِّرُ (إِلَى)",
+    "read": "",
+    "readIndonesia": "mengekspor",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K10",
+      "content": "B5P5K10.mp3",
+      "offline": "B5P5K10",
+      "createdDate": "2022-07-15T01:43:46.1199Z",
+      "updatedDate": "2022-07-15T01:43:46.1199Z"
+    }
+  },
+  {
+    "id": 316,
+    "paragraphId": "15",
+    "audiosId": "B5P5K11",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "ke",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K11",
+      "content": "B5P5K11.mp3",
+      "offline": "B5P5K11",
+      "createdDate": "2022-07-15T01:43:46.1200Z",
+      "updatedDate": "2022-07-15T01:43:46.1200Z"
+    }
+  },
+  {
+    "id": 317,
+    "paragraphId": "15",
+    "audiosId": "B5P5K12",
+    "content": "بَلْدَةٌ ج. بِلَادٌ، بَلْدَاتٌ",
+    "read": "",
+    "readIndonesia": "negara, kota, daerah, negeri, tanah air",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K12",
+      "content": "B5P5K12.mp3",
+      "offline": "B5P5K12",
+      "createdDate": "2022-07-15T01:43:46.1201Z",
+      "updatedDate": "2022-07-15T01:43:46.1201Z"
+    }
+  },
+  {
+    "id": 318,
+    "paragraphId": "15",
+    "audiosId": "B5P5K13",
+    "content": "كَثِيْرٌ ج. كَثِيْرَةٌ، كَثِيْرُوْنَ، كَثِيْرَاتٌ",
+    "read": "",
+    "readIndonesia": "banyak, banyak sekali, melimpah, melimpah-ruah, sebagian besar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K13",
+      "content": "B5P5K13.mp3",
+      "offline": "B5P5K13",
+      "createdDate": "2022-07-15T01:43:46.1202Z",
+      "updatedDate": "2022-07-15T01:43:46.1202Z"
+    }
+  },
+  {
+    "id": 319,
+    "paragraphId": "15",
+    "audiosId": "B5P5K14",
+    "content": "اِسْتَوْرَدَ - يَسْتَوْرِدُ",
+    "read": "",
+    "readIndonesia": "mengimpor",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K14",
+      "content": "B5P5K14.mp3",
+      "offline": "B5P5K14",
+      "createdDate": "2022-07-15T01:43:46.1203Z",
+      "updatedDate": "2022-07-15T01:43:46.1203Z"
+    }
+  },
+  {
+    "id": 320,
+    "paragraphId": "15",
+    "audiosId": "B5P5K15",
+    "content": "سُكَّرٌ",
+    "read": "",
+    "readIndonesia": "gula",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K15",
+      "content": "B5P5K15.mp3",
+      "offline": "B5P5K15",
+      "createdDate": "2022-07-15T01:43:46.1204Z",
+      "updatedDate": "2022-07-15T01:43:46.1204Z"
+    }
+  },
+  {
+    "id": 321,
+    "paragraphId": "15",
+    "audiosId": "B5P5K16",
+    "content": "شَايٌ",
+    "read": "",
+    "readIndonesia": "teh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K16",
+      "content": "B5P5K16.mp3",
+      "offline": "B5P5K16",
+      "createdDate": "2022-07-15T01:43:46.1205Z",
+      "updatedDate": "2022-07-15T01:43:46.1205Z"
+    }
+  },
+  {
+    "id": 322,
+    "paragraphId": "15",
+    "audiosId": "B5P5K17",
+    "content": "بُنٌّ",
+    "read": "",
+    "readIndonesia": "kopi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K17",
+      "content": "B5P5K17.mp3",
+      "offline": "B5P5K17",
+      "createdDate": "2022-07-15T01:43:46.1206Z",
+      "updatedDate": "2022-07-15T01:43:46.1206Z"
+    }
+  },
+  {
+    "id": 323,
+    "paragraphId": "15",
+    "audiosId": "B5P5K18",
+    "content": "رُزٌّ",
+    "read": "",
+    "readIndonesia": "beras",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K18",
+      "content": "B5P5K18.mp3",
+      "offline": "B5P5K18",
+      "createdDate": "2022-07-15T01:43:46.1207Z",
+      "updatedDate": "2022-07-15T01:43:46.1207Z"
+    }
+  },
+  {
+    "id": 324,
+    "paragraphId": "15",
+    "audiosId": "B5P5K19",
+    "content": "مَلْبَسٌ ج. مَلَابِسُ",
+    "read": "",
+    "readIndonesia": "pakaian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K19",
+      "content": "B5P5K19.mp3",
+      "offline": "B5P5K19",
+      "createdDate": "2022-07-15T01:43:46.1208Z",
+      "updatedDate": "2022-07-15T01:43:46.1208Z"
+    }
+  },
+  {
+    "id": 325,
+    "paragraphId": "15",
+    "audiosId": "B5P5K20",
+    "content": "سَيَّارَةٌ ج. سَيَّارَاتٌ",
+    "read": "",
+    "readIndonesia": "mobil",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K20",
+      "content": "B5P5K20.mp3",
+      "offline": "B5P5K20",
+      "createdDate": "2022-07-15T01:43:46.1209Z",
+      "updatedDate": "2022-07-15T01:43:46.1209Z"
+    }
+  },
+  {
+    "id": 326,
+    "paragraphId": "15",
+    "audiosId": "B5P5K21",
+    "content": "غَيْرُهَا",
+    "read": "",
+    "readIndonesia": "lainnya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B5P5K21",
+      "content": "B5P5K21.mp3",
+      "offline": "B5P5K21",
+      "createdDate": "2022-07-15T01:43:46.1210Z",
+      "updatedDate": "2022-07-15T01:43:46.1210Z"
+    }
+  },
+  {
+    "id": 327,
+    "paragraphId": "16",
+    "audiosId": "B6P1K1",
+    "content": "رِحْلَةٌ ج. رِحْلَاتٌ، رَحَلَاتٌ، رِحَلُ",
+    "read": "",
+    "readIndonesia": "perjalanan, pelayaran, penjelajahan, darmawisata",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K1",
+      "content": "B6P1K1.mp3",
+      "offline": "B6P1K1",
+      "createdDate": "2022-07-15T01:43:46.1239Z",
+      "updatedDate": "2022-07-15T01:43:46.1239Z"
+    }
+  },
+  {
+    "id": 328,
+    "paragraphId": "16",
+    "audiosId": "B6P1K2",
+    "content": "قَصِيْرَةٌ",
+    "read": "",
+    "readIndonesia": "yang pendek, singkat, dekat, terbatas",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K2",
+      "content": "B6P1K2.mp3",
+      "offline": "B6P1K2",
+      "createdDate": "2022-07-15T01:43:46.1240Z",
+      "updatedDate": "2022-07-15T01:43:46.1240Z"
+    }
+  },
+  {
+    "id": 329,
+    "paragraphId": "16",
+    "audiosId": "B6P1K3",
+    "content": "قَالَ - يقُوْلُ",
+    "read": "",
+    "readIndonesia": "berkata, mengatakan, mengucapkan, menceritakan, memberitahukan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K3",
+      "content": "B6P1K3.mp3",
+      "offline": "B6P1K3",
+      "createdDate": "2022-07-15T01:43:46.1241Z",
+      "updatedDate": "2022-07-15T01:43:46.1241Z"
+    }
+  },
+  {
+    "id": 330,
+    "paragraphId": "16",
+    "audiosId": "B6P1K4",
+    "content": "لِ",
+    "read": "",
+    "readIndonesia": "untuk, kepada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K4",
+      "content": "B6P1K4.mp3",
+      "offline": "B6P1K4",
+      "createdDate": "2022-07-15T01:43:46.1242Z",
+      "updatedDate": "2022-07-15T01:43:46.1242Z"
+    }
+  },
+  {
+    "id": 331,
+    "paragraphId": "16",
+    "audiosId": "B6P1K5",
+    "content": "لَقَدْ، قَدْ",
+    "read": "",
+    "readIndonesia": "sesungguhnya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K5",
+      "content": "B6P1K5.mp3",
+      "offline": "B6P1K5",
+      "createdDate": "2022-07-15T01:43:46.1243Z",
+      "updatedDate": "2022-07-15T01:43:46.1243Z"
+    }
+  },
+  {
+    "id": 332,
+    "paragraphId": "16",
+    "audiosId": "B6P1K6",
+    "content": "كَانَ - يَكُوْنُ",
+    "read": "",
+    "readIndonesia": "ada, menjadi, terjadi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K6",
+      "content": "B6P1K6.mp3",
+      "offline": "B6P1K6",
+      "createdDate": "2022-07-15T01:43:46.1244Z",
+      "updatedDate": "2022-07-15T01:43:46.1244Z"
+    }
+  },
+  {
+    "id": 333,
+    "paragraphId": "16",
+    "audiosId": "B6P1K7",
+    "content": "عَمَلٌ ج. أَعمالٌ",
+    "read": "",
+    "readIndonesia": "perbuatan, tindakan, kelakuan, pekerjaan, aksi, tugas, fungsi, jabatan, profesi, karir, bisnis, perdagangan, ketenagakerjaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K7",
+      "content": "B6P1K7.mp3",
+      "offline": "B6P1K7",
+      "createdDate": "2022-07-15T01:43:46.1245Z",
+      "updatedDate": "2022-07-15T01:43:46.1245Z"
+    }
+  },
+  {
+    "id": 334,
+    "paragraphId": "16",
+    "audiosId": "B6P1K8",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "dalam, di, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K8",
+      "content": "B6P1K8.mp3",
+      "offline": "B6P1K8",
+      "createdDate": "2022-07-15T01:43:46.1246Z",
+      "updatedDate": "2022-07-15T01:43:46.1246Z"
+    }
+  },
+  {
+    "id": 335,
+    "paragraphId": "16",
+    "audiosId": "B6P1K9",
+    "content": "هٰذَا",
+    "read": "",
+    "readIndonesia": "Ini, yang ini",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K9",
+      "content": "B6P1K9.mp3",
+      "offline": "B6P1K9",
+      "createdDate": "2022-07-15T01:43:46.1247Z",
+      "updatedDate": "2022-07-15T01:43:46.1247Z"
+    }
+  },
+  {
+    "id": 336,
+    "paragraphId": "16",
+    "audiosId": "B6P1K10",
+    "content": "أُسْبُوعٌ ج. أَسَابِيْعُ",
+    "read": "",
+    "readIndonesia": "minggu, pekan, seminggu",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K10",
+      "content": "B6P1K10.mp3",
+      "offline": "B6P1K10",
+      "createdDate": "2022-07-15T01:43:46.1248Z",
+      "updatedDate": "2022-07-15T01:43:46.1248Z"
+    }
+  },
+  {
+    "id": 337,
+    "paragraphId": "16",
+    "audiosId": "B6P1K11",
+    "content": "مُتْعِبٌ",
+    "read": "",
+    "readIndonesia": "melelahkan, meletihkan, memberatkan, menyulitkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K11",
+      "content": "B6P1K11.mp3",
+      "offline": "B6P1K11",
+      "createdDate": "2022-07-15T01:43:46.1249Z",
+      "updatedDate": "2022-07-15T01:43:46.1249Z"
+    }
+  },
+  {
+    "id": 338,
+    "paragraphId": "16",
+    "audiosId": "B6P1K12",
+    "content": "فَ",
+    "read": "",
+    "readIndonesia": "maka, jadi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K12",
+      "content": "B6P1K12.mp3",
+      "offline": "B6P1K12",
+      "createdDate": "2022-07-15T01:43:46.1250Z",
+      "updatedDate": "2022-07-15T01:43:46.1250Z"
+    }
+  },
+  {
+    "id": 339,
+    "paragraphId": "16",
+    "audiosId": "B6P1K13",
+    "content": "هَيَّا",
+    "read": "",
+    "readIndonesia": "mari kita pergi! ayo pergi! cepat! ayo segera!",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K13",
+      "content": "B6P1K13.mp3",
+      "offline": "B6P1K13",
+      "createdDate": "2022-07-15T01:43:46.1251Z",
+      "updatedDate": "2022-07-15T01:43:46.1251Z"
+    }
+  },
+  {
+    "id": 340,
+    "paragraphId": "16",
+    "audiosId": "B6P1K14",
+    "content": "ذَهَبَ - يَذْهَبُ",
+    "read": "",
+    "readIndonesia": "pergi, berkunjung, menuju ke, berangkat, meninggalkan,",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K14",
+      "content": "B6P1K14.mp3",
+      "offline": "B6P1K14",
+      "createdDate": "2022-07-15T01:43:46.1252Z",
+      "updatedDate": "2022-07-15T01:43:46.1252Z"
+    }
+  },
+  {
+    "id": 341,
+    "paragraphId": "16",
+    "audiosId": "B6P1K15",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "ke, sampai, hingga, kepada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K15",
+      "content": "B6P1K15.mp3",
+      "offline": "B6P1K15",
+      "createdDate": "2022-07-15T01:43:46.1253Z",
+      "updatedDate": "2022-07-15T01:43:46.1253Z"
+    }
+  },
+  {
+    "id": 342,
+    "paragraphId": "16",
+    "audiosId": "B6P1K16",
+    "content": "إِحْدَى",
+    "read": "",
+    "readIndonesia": "salah satu",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K16",
+      "content": "B6P1K16.mp3",
+      "offline": "B6P1K16",
+      "createdDate": "2022-07-15T01:43:46.1254Z",
+      "updatedDate": "2022-07-15T01:43:46.1254Z"
+    }
+  },
+  {
+    "id": 343,
+    "paragraphId": "16",
+    "audiosId": "B6P1K17",
+    "content": "حَدِيْقَةٌ ج. حَدَائِقُ",
+    "read": "",
+    "readIndonesia": "taman, kebun",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K17",
+      "content": "B6P1K17.mp3",
+      "offline": "B6P1K17",
+      "createdDate": "2022-07-15T01:43:46.1255Z",
+      "updatedDate": "2022-07-15T01:43:46.1255Z"
+    }
+  },
+  {
+    "id": 344,
+    "paragraphId": "16",
+    "audiosId": "B6P1K18",
+    "content": "خَارِجَ",
+    "read": "",
+    "readIndonesia": "di luar, bagian luar, ke luar, muncul, berjalan keluar, mengarah ke luar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K18",
+      "content": "B6P1K18.mp3",
+      "offline": "B6P1K18",
+      "createdDate": "2022-07-15T01:43:46.1256Z",
+      "updatedDate": "2022-07-15T01:43:46.1256Z"
+    }
+  },
+  {
+    "id": 345,
+    "paragraphId": "16",
+    "audiosId": "B6P1K19",
+    "content": "مَدِيْنَةٌ ج. مَدَائِنُ، مُدْنٌ",
+    "read": "",
+    "readIndonesia": "kota",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P1K19",
+      "content": "B6P1K19.mp3",
+      "offline": "B6P1K19",
+      "createdDate": "2022-07-15T01:43:46.1257Z",
+      "updatedDate": "2022-07-15T01:43:46.1257Z"
+    }
+  },
+  {
+    "id": 346,
+    "paragraphId": "17",
+    "audiosId": "B6P2K1",
+    "content": "قَالَ - يقُوْلُ",
+    "read": "",
+    "readIndonesia": "berkata, mengatakan, mengucapkan, menceritakan, memberitahukan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K1",
+      "content": "B6P2K1.mp3",
+      "offline": "B6P2K1",
+      "createdDate": "2022-07-15T01:43:46.1258Z",
+      "updatedDate": "2022-07-15T01:43:46.1258Z"
+    }
+  },
+  {
+    "id": 347,
+    "paragraphId": "17",
+    "audiosId": "B6P2K2",
+    "content": "هٰذِهِ",
+    "read": "",
+    "readIndonesia": "Ini, yang ini",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K2",
+      "content": "B6P2K2.mp3",
+      "offline": "B6P2K2",
+      "createdDate": "2022-07-15T01:43:46.1259Z",
+      "updatedDate": "2022-07-15T01:43:46.1259Z"
+    }
+  },
+  {
+    "id": 348,
+    "paragraphId": "17",
+    "audiosId": "B6P2K3",
+    "content": "فِكْرَةٌ ج. فِكْرَاتٌ، فِكَرٌ",
+    "read": "",
+    "readIndonesia": "pemikiran, gagasan, ide, konsep, opini, pandangan, pikiran",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K3",
+      "content": "B6P2K3.mp3",
+      "offline": "B6P2K3",
+      "createdDate": "2022-07-15T01:43:46.1260Z",
+      "updatedDate": "2022-07-15T01:43:46.1260Z"
+    }
+  },
+  {
+    "id": 349,
+    "paragraphId": "17",
+    "audiosId": "B6P2K4",
+    "content": "جَمِيْلَةٌ",
+    "read": "",
+    "readIndonesia": "yang baik, bagus, indah, cantik, tampan, ganteng, menyenangkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K4",
+      "content": "B6P2K4.mp3",
+      "offline": "B6P2K4",
+      "createdDate": "2022-07-15T01:43:46.1261Z",
+      "updatedDate": "2022-07-15T01:43:46.1261Z"
+    }
+  },
+  {
+    "id": 350,
+    "paragraphId": "17",
+    "audiosId": "B6P2K5",
+    "content": "يَا",
+    "read": "",
+    "readIndonesia": "wahai",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K5",
+      "content": "B6P2K5.mp3",
+      "offline": "B6P2K5",
+      "createdDate": "2022-07-15T01:43:46.1262Z",
+      "updatedDate": "2022-07-15T01:43:46.1262Z"
+    }
+  },
+  {
+    "id": 351,
+    "paragraphId": "17",
+    "audiosId": "B6P2K6",
+    "content": "ذَهَبَ - يَذْهَبُ",
+    "read": "",
+    "readIndonesia": "pergi, berkunjung, menuju ke, berangkat, meninggalkan,",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K6",
+      "content": "B6P2K6.mp3",
+      "offline": "B6P2K6",
+      "createdDate": "2022-07-15T01:43:46.1263Z",
+      "updatedDate": "2022-07-15T01:43:46.1263Z"
+    }
+  },
+  {
+    "id": 352,
+    "paragraphId": "17",
+    "audiosId": "B6P2K7",
+    "content": "إِنْ شَاءَ اللّٰهُ",
+    "read": "",
+    "readIndonesia": "jika Allah menghendaki",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K7",
+      "content": "B6P2K7.mp3",
+      "offline": "B6P2K7",
+      "createdDate": "2022-07-15T01:43:46.1264Z",
+      "updatedDate": "2022-07-15T01:43:46.1264Z"
+    }
+  },
+  {
+    "id": 353,
+    "paragraphId": "17",
+    "audiosId": "B6P2K8",
+    "content": "يَوْمٌ ج. أَيَّامٌ",
+    "read": "",
+    "readIndonesia": "hari, masa, waktu, periode, ketika",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K8",
+      "content": "B6P2K8.mp3",
+      "offline": "B6P2K8",
+      "createdDate": "2022-07-15T01:43:46.1265Z",
+      "updatedDate": "2022-07-15T01:43:46.1265Z"
+    }
+  },
+  {
+    "id": 354,
+    "paragraphId": "17",
+    "audiosId": "B6P2K9",
+    "content": "عُطْلَةٌ ج. عُطُلَاتٌ، عُطْلَاتٌ، عُطَلٌ",
+    "read": "",
+    "readIndonesia": "waktu libur, liburan, istirahat, reses",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K9",
+      "content": "B6P2K9.mp3",
+      "offline": "B6P2K9",
+      "createdDate": "2022-07-15T01:43:46.1266Z",
+      "updatedDate": "2022-07-15T01:43:46.1266Z"
+    }
+  },
+  {
+    "id": 355,
+    "paragraphId": "17",
+    "audiosId": "B6P2K10",
+    "content": "أُسْبُوْعِيَّةٌ",
+    "read": "",
+    "readIndonesia": "pekanan, mingguan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K10",
+      "content": "B6P2K10.mp3",
+      "offline": "B6P2K10",
+      "createdDate": "2022-07-15T01:43:46.1267Z",
+      "updatedDate": "2022-07-15T01:43:46.1267Z"
+    }
+  },
+  {
+    "id": 356,
+    "paragraphId": "17",
+    "audiosId": "B6P2K11",
+    "content": "مَعًا",
+    "read": "",
+    "readIndonesia": "bersama-sama, serempak, serentak, bersamaan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P2K11",
+      "content": "B6P2K11.mp3",
+      "offline": "B6P2K11",
+      "createdDate": "2022-07-15T01:43:46.1268Z",
+      "updatedDate": "2022-07-15T01:43:46.1268Z"
+    }
+  },
+  {
+    "id": 357,
+    "paragraphId": "18",
+    "audiosId": "B6P3K1",
+    "content": "قَالَ - يقُوْلُ",
+    "read": "",
+    "readIndonesia": "berkata, mengatakan, mengucapkan, menceritakan, memberitahukan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K1",
+      "content": "B6P3K1.mp3",
+      "offline": "B6P3K1",
+      "createdDate": "2022-07-15T01:43:46.1269Z",
+      "updatedDate": "2022-07-15T01:43:46.1269Z"
+    }
+  },
+  {
+    "id": 358,
+    "paragraphId": "18",
+    "audiosId": "B6P3K2",
+    "content": "سَ",
+    "read": "",
+    "readIndonesia": "akan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K2",
+      "content": "B6P3K2.mp3",
+      "offline": "B6P3K2",
+      "createdDate": "2022-07-15T01:43:46.1270Z",
+      "updatedDate": "2022-07-15T01:43:46.1270Z"
+    }
+  },
+  {
+    "id": 359,
+    "paragraphId": "18",
+    "audiosId": "B6P3K3",
+    "content": "أَخَذَ - يَأْخُذُ",
+    "read": "",
+    "readIndonesia": "mengambil, menerima, mendapatkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K3",
+      "content": "B6P3K3.mp3",
+      "offline": "B6P3K3",
+      "createdDate": "2022-07-15T01:43:46.1271Z",
+      "updatedDate": "2022-07-15T01:43:46.1271Z"
+    }
+  },
+  {
+    "id": 360,
+    "paragraphId": "18",
+    "audiosId": "B6P3K4",
+    "content": "مَعَنَا",
+    "read": "",
+    "readIndonesia": "bersama kami",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K4",
+      "content": "B6P3K4.mp3",
+      "offline": "B6P3K4",
+      "createdDate": "2022-07-15T01:43:46.1272Z",
+      "updatedDate": "2022-07-15T01:43:46.1272Z"
+    }
+  },
+  {
+    "id": 361,
+    "paragraphId": "18",
+    "audiosId": "B6P3K5",
+    "content": "بَعْضَ",
+    "read": "",
+    "readIndonesia": "beberapa, sebagian, sedikit, tertentu, bagian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K5",
+      "content": "B6P3K5.mp3",
+      "offline": "B6P3K5",
+      "createdDate": "2022-07-15T01:43:46.1273Z",
+      "updatedDate": "2022-07-15T01:43:46.1273Z"
+    }
+  },
+  {
+    "id": 362,
+    "paragraphId": "18",
+    "audiosId": "B6P3K6",
+    "content": "طَعَامٌ ج. أطْعِمَةٌ",
+    "read": "",
+    "readIndonesia": "makanan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K6",
+      "content": "B6P3K6.mp3",
+      "offline": "B6P3K6",
+      "createdDate": "2022-07-15T01:43:46.1274Z",
+      "updatedDate": "2022-07-15T01:43:46.1274Z"
+    }
+  },
+  {
+    "id": 363,
+    "paragraphId": "18",
+    "audiosId": "B6P3K7",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K7",
+      "content": "B6P3K7.mp3",
+      "offline": "B6P3K7",
+      "createdDate": "2022-07-15T01:43:46.1275Z",
+      "updatedDate": "2022-07-15T01:43:46.1275Z"
+    }
+  },
+  {
+    "id": 364,
+    "paragraphId": "18",
+    "audiosId": "B6P3K8",
+    "content": "مَاءٌ ج. أَمْوَاهٌ، مِيَاهٌ",
+    "read": "",
+    "readIndonesia": "air,minuman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K8",
+      "content": "B6P3K8.mp3",
+      "offline": "B6P3K8",
+      "createdDate": "2022-07-15T01:43:46.1276Z",
+      "updatedDate": "2022-07-15T01:43:46.1276Z"
+    }
+  },
+  {
+    "id": 365,
+    "paragraphId": "18",
+    "audiosId": "B6P3K9",
+    "content": "شَايٌ",
+    "read": "",
+    "readIndonesia": "teh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K9",
+      "content": "B6P3K9.mp3",
+      "offline": "B6P3K9",
+      "createdDate": "2022-07-15T01:43:46.1277Z",
+      "updatedDate": "2022-07-15T01:43:46.1277Z"
+    }
+  },
+  {
+    "id": 366,
+    "paragraphId": "18",
+    "audiosId": "B6P3K10",
+    "content": "نَعَمْ",
+    "read": "",
+    "readIndonesia": "ya, iya, tentu saja, betul",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K10",
+      "content": "B6P3K10.mp3",
+      "offline": "B6P3K10",
+      "createdDate": "2022-07-15T01:43:46.1278Z",
+      "updatedDate": "2022-07-15T01:43:46.1278Z"
+    }
+  },
+  {
+    "id": 367,
+    "paragraphId": "18",
+    "audiosId": "B6P3K11",
+    "content": "عَلَيْنَا",
+    "read": "",
+    "readIndonesia": "atas kami, kepada kami, bagi kami",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K11",
+      "content": "B6P3K11.mp3",
+      "offline": "B6P3K11",
+      "createdDate": "2022-07-15T01:43:46.1279Z",
+      "updatedDate": "2022-07-15T01:43:46.1279Z"
+    }
+  },
+  {
+    "id": 368,
+    "paragraphId": "18",
+    "audiosId": "B6P3K12",
+    "content": "أَنْ",
+    "read": "",
+    "readIndonesia": "bahwa, agar, akan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K12",
+      "content": "B6P3K12.mp3",
+      "offline": "B6P3K12",
+      "createdDate": "2022-07-15T01:43:46.1280Z",
+      "updatedDate": "2022-07-15T01:43:46.1280Z"
+    }
+  },
+  {
+    "id": 369,
+    "paragraphId": "18",
+    "audiosId": "B6P3K13",
+    "content": "أعَدَّ - يُعِدُّ",
+    "read": "",
+    "readIndonesia": "menyiapkan, menyediakan, mengatur, menyusun, menyesuaikan, membuat, mendesain",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K13",
+      "content": "B6P3K13.mp3",
+      "offline": "B6P3K13",
+      "createdDate": "2022-07-15T01:43:46.1281Z",
+      "updatedDate": "2022-07-15T01:43:46.1281Z"
+    }
+  },
+  {
+    "id": 370,
+    "paragraphId": "18",
+    "audiosId": "B6P3K14",
+    "content": "سَيَّارَةٌ ج. سَيَّارَاتٌ",
+    "read": "",
+    "readIndonesia": "mobil",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P3K14",
+      "content": "B6P3K14.mp3",
+      "offline": "B6P3K14",
+      "createdDate": "2022-07-15T01:43:46.1282Z",
+      "updatedDate": "2022-07-15T01:43:46.1282Z"
+    }
+  },
+  {
+    "id": 371,
+    "paragraphId": "19",
+    "audiosId": "B6P4K1",
+    "content": "وَ",
+    "read": "",
+    "readIndonesia": "dan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K1",
+      "content": "B6P4K1.mp3",
+      "offline": "B6P4K1",
+      "createdDate": "2022-07-15T01:43:46.1283Z",
+      "updatedDate": "2022-07-15T01:43:46.1283Z"
+    }
+  },
+  {
+    "id": 372,
+    "paragraphId": "19",
+    "audiosId": "B6P4K2",
+    "content": "فِيْ",
+    "read": "",
+    "readIndonesia": "dalam, di, selama",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K2",
+      "content": "B6P4K2.mp3",
+      "offline": "B6P4K2",
+      "createdDate": "2022-07-15T01:43:46.1284Z",
+      "updatedDate": "2022-07-15T01:43:46.1284Z"
+    }
+  },
+  {
+    "id": 373,
+    "paragraphId": "19",
+    "audiosId": "B6P4K3",
+    "content": "يَوْمٌ ج. أَيَّامٌ",
+    "read": "",
+    "readIndonesia": "hari, seharian, masa, waktu, periode, ketika",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K3",
+      "content": "B6P4K3.mp3",
+      "offline": "B6P4K3",
+      "createdDate": "2022-07-15T01:43:46.1285Z",
+      "updatedDate": "2022-07-15T01:43:46.1285Z"
+    }
+  },
+  {
+    "id": 374,
+    "paragraphId": "19",
+    "audiosId": "B6P4K4",
+    "content": "عُطْلَةٌ ج. عُطُلَاتٌ، عُطْلَاتٌ، عُطَلٌ",
+    "read": "",
+    "readIndonesia": "waktu libur, liburan, istirahat, reses",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K4",
+      "content": "B6P4K4.mp3",
+      "offline": "B6P4K4",
+      "createdDate": "2022-07-15T01:43:46.1286Z",
+      "updatedDate": "2022-07-15T01:43:46.1286Z"
+    }
+  },
+  {
+    "id": 375,
+    "paragraphId": "19",
+    "audiosId": "B6P4K5",
+    "content": "خَرَجَ - يَخْرُجُ",
+    "read": "",
+    "readIndonesia": "keluar, muncul, timbul, pergi, meninggalkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K5",
+      "content": "B6P4K5.mp3",
+      "offline": "B6P4K5",
+      "createdDate": "2022-07-15T01:43:46.1287Z",
+      "updatedDate": "2022-07-15T01:43:46.1287Z"
+    }
+  },
+  {
+    "id": 376,
+    "paragraphId": "19",
+    "audiosId": "B6P4K6",
+    "content": "زَمِيْلٌ ج. زُمَلَاءُ",
+    "read": "",
+    "readIndonesia": "kolega, asosiasi, rekan, teman, peserta",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K6",
+      "content": "B6P4K6.mp3",
+      "offline": "B6P4K6",
+      "createdDate": "2022-07-15T01:43:46.1288Z",
+      "updatedDate": "2022-07-15T01:43:46.1288Z"
+    }
+  },
+  {
+    "id": 377,
+    "paragraphId": "19",
+    "audiosId": "B6P4K7",
+    "content": "مُبَكِّرًا",
+    "read": "",
+    "readIndonesia": "lebih awal, lebih dini",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K7",
+      "content": "B6P4K7.mp3",
+      "offline": "B6P4K7",
+      "createdDate": "2022-07-15T01:43:46.1289Z",
+      "updatedDate": "2022-07-15T01:43:46.1289Z"
+    }
+  },
+  {
+    "id": 378,
+    "paragraphId": "19",
+    "audiosId": "B6P4K8",
+    "content": "بَعْدَ",
+    "read": "",
+    "readIndonesia": "setelah, berikut, mengikuti",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K8",
+      "content": "B6P4K8.mp3",
+      "offline": "B6P4K8",
+      "createdDate": "2022-07-15T01:43:46.1290Z",
+      "updatedDate": "2022-07-15T01:43:46.1290Z"
+    }
+  },
+  {
+    "id": 379,
+    "paragraphId": "19",
+    "audiosId": "B6P4K9",
+    "content": "صَلَاةٌ ج. صَلَوَاتٌ",
+    "read": "",
+    "readIndonesia": "shalat, sembahyang, ibadah",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K9",
+      "content": "B6P4K9.mp3",
+      "offline": "B6P4K9",
+      "createdDate": "2022-07-15T01:43:46.1291Z",
+      "updatedDate": "2022-07-15T01:43:46.1291Z"
+    }
+  },
+  {
+    "id": 380,
+    "paragraphId": "19",
+    "audiosId": "B6P4K10",
+    "content": "فَجْرٌ",
+    "read": "",
+    "readIndonesia": "subuh, dini hari, fajar, terbit",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K10",
+      "content": "B6P4K10.mp3",
+      "offline": "B6P4K10",
+      "createdDate": "2022-07-15T01:43:46.1292Z",
+      "updatedDate": "2022-07-15T01:43:46.1292Z"
+    }
+  },
+  {
+    "id": 381,
+    "paragraphId": "19",
+    "audiosId": "B6P4K11",
+    "content": "قَبْلَ",
+    "read": "",
+    "readIndonesia": "sebelum, lebih dahulu, sebelumnya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K11",
+      "content": "B6P4K11.mp3",
+      "offline": "B6P4K11",
+      "createdDate": "2022-07-15T01:43:46.1293Z",
+      "updatedDate": "2022-07-15T01:43:46.1293Z"
+    }
+  },
+  {
+    "id": 382,
+    "paragraphId": "19",
+    "audiosId": "B6P4K12",
+    "content": "طُلُوْعٌ",
+    "read": "",
+    "readIndonesia": "terbit",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K12",
+      "content": "B6P4K12.mp3",
+      "offline": "B6P4K12",
+      "createdDate": "2022-07-15T01:43:46.1294Z",
+      "updatedDate": "2022-07-15T01:43:46.1294Z"
+    }
+  },
+  {
+    "id": 383,
+    "paragraphId": "19",
+    "audiosId": "B6P4K13",
+    "content": "شَمْسٌ ج. شُمُوْسٌ",
+    "read": "",
+    "readIndonesia": "matahari",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K13",
+      "content": "B6P4K13.mp3",
+      "offline": "B6P4K13",
+      "createdDate": "2022-07-15T01:43:46.1295Z",
+      "updatedDate": "2022-07-15T01:43:46.1295Z"
+    }
+  },
+  {
+    "id": 384,
+    "paragraphId": "19",
+    "audiosId": "B6P4K14",
+    "content": "فَ",
+    "read": "",
+    "readIndonesia": "maka, jadi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K14",
+      "content": "B6P4K14.mp3",
+      "offline": "B6P4K14",
+      "createdDate": "2022-07-15T01:43:46.1296Z",
+      "updatedDate": "2022-07-15T01:43:46.1296Z"
+    }
+  },
+  {
+    "id": 385,
+    "paragraphId": "19",
+    "audiosId": "B6P4K15",
+    "content": "رَكِبَ - يَرْكَبُ",
+    "read": "",
+    "readIndonesia": "mengendarai, menaiki, menunggangi, menumpang, berangkat, pergi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K15",
+      "content": "B6P4K15.mp3",
+      "offline": "B6P4K15",
+      "createdDate": "2022-07-15T01:43:46.1297Z",
+      "updatedDate": "2022-07-15T01:43:46.1297Z"
+    }
+  },
+  {
+    "id": 386,
+    "paragraphId": "19",
+    "audiosId": "B6P4K16",
+    "content": "سَيَّارَةٌ ج. سَيَّارَاتٌ",
+    "read": "",
+    "readIndonesia": "mobil",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K16",
+      "content": "B6P4K16.mp3",
+      "offline": "B6P4K16",
+      "createdDate": "2022-07-15T01:43:46.1298Z",
+      "updatedDate": "2022-07-15T01:43:46.1298Z"
+    }
+  },
+  {
+    "id": 387,
+    "paragraphId": "19",
+    "audiosId": "B6P4K17",
+    "content": "خَرَجَ - يَخْرُجُ",
+    "read": "",
+    "readIndonesia": "keluar, muncul, timbul, pergi, meninggalkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K17",
+      "content": "B6P4K17.mp3",
+      "offline": "B6P4K17",
+      "createdDate": "2022-07-15T01:43:46.1299Z",
+      "updatedDate": "2022-07-15T01:43:46.1299Z"
+    }
+  },
+  {
+    "id": 388,
+    "paragraphId": "19",
+    "audiosId": "B6P4K18",
+    "content": "مِنْ",
+    "read": "",
+    "readIndonesia": "dari, sejak, melalui, dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K18",
+      "content": "B6P4K18.mp3",
+      "offline": "B6P4K18",
+      "createdDate": "2022-07-15T01:43:46.1300Z",
+      "updatedDate": "2022-07-15T01:43:46.1300Z"
+    }
+  },
+  {
+    "id": 389,
+    "paragraphId": "19",
+    "audiosId": "B6P4K19",
+    "content": "مَدِيْنَةٌ ج. مَدَائِنُ، مُدْنٌ",
+    "read": "",
+    "readIndonesia": "kota",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K19",
+      "content": "B6P4K19.mp3",
+      "offline": "B6P4K19",
+      "createdDate": "2022-07-15T01:43:46.1301Z",
+      "updatedDate": "2022-07-15T01:43:46.1301Z"
+    }
+  },
+  {
+    "id": 390,
+    "paragraphId": "19",
+    "audiosId": "B6P4K20",
+    "content": "طَرِيْقٌ ج. طُرُقٌ ، طُرُقَاتٌ",
+    "read": "",
+    "readIndonesia": "cara, jalan, alur, jejak, lintasan, rute",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K20",
+      "content": "B6P4K20.mp3",
+      "offline": "B6P4K20",
+      "createdDate": "2022-07-15T01:43:46.1302Z",
+      "updatedDate": "2022-07-15T01:43:46.1302Z"
+    }
+  },
+  {
+    "id": 391,
+    "paragraphId": "19",
+    "audiosId": "B6P4K21",
+    "content": "شَاهَدَ - يُشَاهِدُ",
+    "read": "",
+    "readIndonesia": "melihat, memandang, menyaksikan, mengamati, mengobservasi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K21",
+      "content": "B6P4K21.mp3",
+      "offline": "B6P4K21",
+      "createdDate": "2022-07-15T01:43:46.1303Z",
+      "updatedDate": "2022-07-15T01:43:46.1303Z"
+    }
+  },
+  {
+    "id": 392,
+    "paragraphId": "19",
+    "audiosId": "B6P4K22",
+    "content": "شَجَرَةٌ ج. أَشْجَارٌ",
+    "read": "",
+    "readIndonesia": "pohon, silsilah, nasab",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K22",
+      "content": "B6P4K22.mp3",
+      "offline": "B6P4K22",
+      "createdDate": "2022-07-15T01:43:46.1304Z",
+      "updatedDate": "2022-07-15T01:43:46.1304Z"
+    }
+  },
+  {
+    "id": 393,
+    "paragraphId": "19",
+    "audiosId": "B6P4K23",
+    "content": "كَثِيْرٌ ج. كَثِيْرَةٌ، كَثِيْرُوْنَ، كَثِيْرَاتٌ",
+    "read": "",
+    "readIndonesia": "banyak, banyak sekali, melimpah, melimpah-ruah, sebagian besar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K23",
+      "content": "B6P4K23.mp3",
+      "offline": "B6P4K23",
+      "createdDate": "2022-07-15T01:43:46.1305Z",
+      "updatedDate": "2022-07-15T01:43:46.1305Z"
+    }
+  },
+  {
+    "id": 394,
+    "paragraphId": "19",
+    "audiosId": "B6P4K24",
+    "content": "زَهْرٌ ج. أَزْهَرُ",
+    "read": "",
+    "readIndonesia": "bunga, kembang",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K24",
+      "content": "B6P4K24.mp3",
+      "offline": "B6P4K24",
+      "createdDate": "2022-07-15T01:43:46.1306Z",
+      "updatedDate": "2022-07-15T01:43:46.1306Z"
+    }
+  },
+  {
+    "id": 395,
+    "paragraphId": "19",
+    "audiosId": "B6P4K25",
+    "content": "جَمِيْلٌ، جَمِيْلَةٌ",
+    "read": "",
+    "readIndonesia": "yang baik, bagus, indah, cantik, tampan, ganteng, menyenangkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K25",
+      "content": "B6P4K25.mp3",
+      "offline": "B6P4K25",
+      "createdDate": "2022-07-15T01:43:46.1307Z",
+      "updatedDate": "2022-07-15T01:43:46.1307Z"
+    }
+  },
+  {
+    "id": 396,
+    "paragraphId": "19",
+    "audiosId": "B6P4K26",
+    "content": "ذَاتَ",
+    "read": "",
+    "readIndonesia": "memiliki, mempunyai, zat, diri, pribadi, pokok, esensi, alami",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K26",
+      "content": "B6P4K26.mp3",
+      "offline": "B6P4K26",
+      "createdDate": "2022-07-15T01:43:46.1308Z",
+      "updatedDate": "2022-07-15T01:43:46.1308Z"
+    }
+  },
+  {
+    "id": 397,
+    "paragraphId": "19",
+    "audiosId": "B6P4K27",
+    "content": "رَائِحَةٌ ج. رَوَائحُ",
+    "read": "",
+    "readIndonesia": "bau, aroma",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K27",
+      "content": "B6P4K27.mp3",
+      "offline": "B6P4K27",
+      "createdDate": "2022-07-15T01:43:46.1309Z",
+      "updatedDate": "2022-07-15T01:43:46.1309Z"
+    }
+  },
+  {
+    "id": 398,
+    "paragraphId": "19",
+    "audiosId": "B6P4K28",
+    "content": "طَيِّبٌ، طَيِّبَةٌ",
+    "read": "",
+    "readIndonesia": "yang baik, senang, manis, lezat, enak, nikmat, cocok,",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K28",
+      "content": "B6P4K28.mp3",
+      "offline": "B6P4K28",
+      "createdDate": "2022-07-15T01:43:46.1310Z",
+      "updatedDate": "2022-07-15T01:43:46.1310Z"
+    }
+  },
+  {
+    "id": 399,
+    "paragraphId": "19",
+    "audiosId": "B6P4K29",
+    "content": "كَمَا",
+    "read": "",
+    "readIndonesia": "seperti, sebagaimana, sama halnya, seperti halnya, secara",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K29",
+      "content": "B6P4K29.mp3",
+      "offline": "B6P4K29",
+      "createdDate": "2022-07-15T01:43:46.1311Z",
+      "updatedDate": "2022-07-15T01:43:46.1311Z"
+    }
+  },
+  {
+    "id": 400,
+    "paragraphId": "19",
+    "audiosId": "B6P4K30",
+    "content": "طَائِرٌ ج. أَطْيَارٌ، طَيْرٌ، طُيُوْرٌ",
+    "read": "",
+    "readIndonesia": "burung, unggas",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K30",
+      "content": "B6P4K30.mp3",
+      "offline": "B6P4K30",
+      "createdDate": "2022-07-15T01:43:46.1312Z",
+      "updatedDate": "2022-07-15T01:43:46.1312Z"
+    }
+  },
+  {
+    "id": 401,
+    "paragraphId": "19",
+    "audiosId": "B6P4K31",
+    "content": "مُغَرِّدَةٌ",
+    "read": "",
+    "readIndonesia": "bernyanyi, berkicau, bersiul, bersenandung",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K31",
+      "content": "B6P4K31.mp3",
+      "offline": "B6P4K31",
+      "createdDate": "2022-07-15T01:43:46.1313Z",
+      "updatedDate": "2022-07-15T01:43:46.1313Z"
+    }
+  },
+  {
+    "id": 402,
+    "paragraphId": "19",
+    "audiosId": "B6P4K32",
+    "content": "أَرْضٌ ج. أَرَضُوْنَ، أَرَاضٍ ،  أُرُوْضٌ",
+    "read": "",
+    "readIndonesia": "bumi, tanah, daratan, landasan, lahan, daerah, teritorial, wilayah, negeri",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K32",
+      "content": "B6P4K32.mp3",
+      "offline": "B6P4K32",
+      "createdDate": "2022-07-15T01:43:46.1314Z",
+      "updatedDate": "2022-07-15T01:43:46.1314Z"
+    }
+  },
+  {
+    "id": 403,
+    "paragraphId": "19",
+    "audiosId": "B6P4K33",
+    "content": "سَارَ - يَسيْرُ",
+    "read": "",
+    "readIndonesia": "berjalan kaki, pergi berjalan kaki, menggerakkan, berproses, mendahului, berfungsi, bekerja, beroperasi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K33",
+      "content": "B6P4K33.mp3",
+      "offline": "B6P4K33",
+      "createdDate": "2022-07-15T01:43:46.1315Z",
+      "updatedDate": "2022-07-15T01:43:46.1315Z"
+    }
+  },
+  {
+    "id": 404,
+    "paragraphId": "19",
+    "audiosId": "B6P4K34",
+    "content": "حَتَّى",
+    "read": "",
+    "readIndonesia": "sampai, hingga, sebelum",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K34",
+      "content": "B6P4K34.mp3",
+      "offline": "B6P4K34",
+      "createdDate": "2022-07-15T01:43:46.1316Z",
+      "updatedDate": "2022-07-15T01:43:46.1316Z"
+    }
+  },
+  {
+    "id": 405,
+    "paragraphId": "19",
+    "audiosId": "B6P4K35",
+    "content": "وَصَلَ – يَصِلُ",
+    "read": "",
+    "readIndonesia": "tiba, sampai, datang, mencapai, berakhir di, pergi sejauh;",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K35",
+      "content": "B6P4K35.mp3",
+      "offline": "B6P4K35",
+      "createdDate": "2022-07-15T01:43:46.1317Z",
+      "updatedDate": "2022-07-15T01:43:46.1317Z"
+    }
+  },
+  {
+    "id": 406,
+    "paragraphId": "19",
+    "audiosId": "B6P4K36",
+    "content": "إِلَى",
+    "read": "",
+    "readIndonesia": "ke, sampai, hingga, kepada",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K36",
+      "content": "B6P4K36.mp3",
+      "offline": "B6P4K36",
+      "createdDate": "2022-07-15T01:43:46.1318Z",
+      "updatedDate": "2022-07-15T01:43:46.1318Z"
+    }
+  },
+  {
+    "id": 407,
+    "paragraphId": "19",
+    "audiosId": "B6P4K37",
+    "content": "حَدِيْقَةٌ ج. حَدائِقُ",
+    "read": "",
+    "readIndonesia": "taman, kebun",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K37",
+      "content": "B6P4K37.mp3",
+      "offline": "B6P4K37",
+      "createdDate": "2022-07-15T01:43:46.1319Z",
+      "updatedDate": "2022-07-15T01:43:46.1319Z"
+    }
+  },
+  {
+    "id": 408,
+    "paragraphId": "19",
+    "audiosId": "B6P4K38",
+    "content": "كَبِيْرٌ ، كَبِيْرَةٌ ج. كِبَارٌ، كُبَرَاءُ، كَبِيْرَاتٌ، كَبَائِرُ",
+    "read": "",
+    "readIndonesia": "besar, agung, luas, luar biasa, sangat besar, senior",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K38",
+      "content": "B6P4K38.mp3",
+      "offline": "B6P4K38",
+      "createdDate": "2022-07-15T01:43:46.1320Z",
+      "updatedDate": "2022-07-15T01:43:46.1320Z"
+    }
+  },
+  {
+    "id": 409,
+    "paragraphId": "19",
+    "audiosId": "B6P4K39",
+    "content": "جَلَسَ - يَجْلِسُ",
+    "read": "",
+    "readIndonesia": "duduk, menduduki, mengambil tempat duduk",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K39",
+      "content": "B6P4K39.mp3",
+      "offline": "B6P4K39",
+      "createdDate": "2022-07-15T01:43:46.1321Z",
+      "updatedDate": "2022-07-15T01:43:46.1321Z"
+    }
+  },
+  {
+    "id": 410,
+    "paragraphId": "19",
+    "audiosId": "B6P4K40",
+    "content": "فِيْهَا",
+    "read": "",
+    "readIndonesia": "di dalamnya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K40",
+      "content": "B6P4K40.mp3",
+      "offline": "B6P4K40",
+      "createdDate": "2022-07-15T01:43:46.1322Z",
+      "updatedDate": "2022-07-15T01:43:46.1322Z"
+    }
+  },
+  {
+    "id": 411,
+    "paragraphId": "19",
+    "audiosId": "B6P4K41",
+    "content": "كَامِلٌ",
+    "read": "",
+    "readIndonesia": "sempurna, lengkap, penuh, utuh, total, komplit, keseluruhan, skala penuh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K41",
+      "content": "B6P4K41.mp3",
+      "offline": "B6P4K41",
+      "createdDate": "2022-07-15T01:43:46.1323Z",
+      "updatedDate": "2022-07-15T01:43:46.1323Z"
+    }
+  },
+  {
+    "id": 412,
+    "paragraphId": "19",
+    "audiosId": "B6P4K42",
+    "content": "سَعِيْدٌ",
+    "read": "",
+    "readIndonesia": "yang bahagia, senang, diberkati, beruntung",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K42",
+      "content": "B6P4K42.mp3",
+      "offline": "B6P4K42",
+      "createdDate": "2022-07-15T01:43:46.1324Z",
+      "updatedDate": "2022-07-15T01:43:46.1324Z"
+    }
+  },
+  {
+    "id": 413,
+    "paragraphId": "19",
+    "audiosId": "B6P4K43",
+    "content": "بِ",
+    "read": "",
+    "readIndonesia": "dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K43",
+      "content": "B6P4K43.mp3",
+      "offline": "B6P4K43",
+      "createdDate": "2022-07-15T01:43:46.1325Z",
+      "updatedDate": "2022-07-15T01:43:46.1325Z"
+    }
+  },
+  {
+    "id": 414,
+    "paragraphId": "19",
+    "audiosId": "B6P4K44",
+    "content": "جَوٌّ ج. جِوَاءٌ",
+    "read": "",
+    "readIndonesia": "atmosfir, cuaca, udara",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K44",
+      "content": "B6P4K44.mp3",
+      "offline": "B6P4K44",
+      "createdDate": "2022-07-15T01:43:46.1326Z",
+      "updatedDate": "2022-07-15T01:43:46.1326Z"
+    }
+  },
+  {
+    "id": 415,
+    "paragraphId": "19",
+    "audiosId": "B6P4K45",
+    "content": "خَضْرَاءٌ",
+    "read": "",
+    "readIndonesia": "Yang hijau",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K45",
+      "content": "B6P4K45.mp3",
+      "offline": "B6P4K45",
+      "createdDate": "2022-07-15T01:43:46.1327Z",
+      "updatedDate": "2022-07-15T01:43:46.1327Z"
+    }
+  },
+  {
+    "id": 416,
+    "paragraphId": "19",
+    "audiosId": "B6P4K46",
+    "content": "وَمَا",
+    "read": "",
+    "readIndonesia": "Dan apa",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K46",
+      "content": "B6P4K46.mp3",
+      "offline": "B6P4K46",
+      "createdDate": "2022-07-15T01:43:46.1328Z",
+      "updatedDate": "2022-07-15T01:43:46.1328Z"
+    }
+  },
+  {
+    "id": 417,
+    "paragraphId": "19",
+    "audiosId": "B6P4K47",
+    "content": "عِنْدَ",
+    "read": "",
+    "readIndonesia": "pada, oleh, dekat, di, dengan, manakala, pada ketika, sebagai",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K47",
+      "content": "B6P4K47.mp3",
+      "offline": "B6P4K47",
+      "createdDate": "2022-07-15T01:43:46.1329Z",
+      "updatedDate": "2022-07-15T01:43:46.1329Z"
+    }
+  },
+  {
+    "id": 418,
+    "paragraphId": "19",
+    "audiosId": "B6P4K48",
+    "content": "غُرُوْبٌ",
+    "read": "",
+    "readIndonesia": "keadaan matahari terbenam, senja hari, senja",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K48",
+      "content": "B6P4K48.mp3",
+      "offline": "B6P4K48",
+      "createdDate": "2022-07-15T01:43:46.1330Z",
+      "updatedDate": "2022-07-15T01:43:46.1330Z"
+    }
+  },
+  {
+    "id": 419,
+    "paragraphId": "19",
+    "audiosId": "B6P4K49",
+    "content": "عَادَ - يَعُوْدُ",
+    "read": "",
+    "readIndonesia": "kedatangan kembali, kembali, pulang, terulang, mengunjungi",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K49",
+      "content": "B6P4K49.mp3",
+      "offline": "B6P4K49",
+      "createdDate": "2022-07-15T01:43:46.1331Z",
+      "updatedDate": "2022-07-15T01:43:46.1331Z"
+    }
+  },
+  {
+    "id": 420,
+    "paragraphId": "19",
+    "audiosId": "B6P4K50",
+    "content": "مَسْرُوْرٌ",
+    "read": "",
+    "readIndonesia": "yang bahagia, gembira, senang, ceria, riang",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K50",
+      "content": "B6P4K50.mp3",
+      "offline": "B6P4K50",
+      "createdDate": "2022-07-15T01:43:46.1332Z",
+      "updatedDate": "2022-07-15T01:43:46.1332Z"
+    }
+  },
+  {
+    "id": 421,
+    "paragraphId": "19",
+    "audiosId": "B6P4K51",
+    "content": "اِتَّفَقَ - يَتَّفِقُ",
+    "read": "",
+    "readIndonesia": "setuju dengan, menyelaraskan, menyesuaikan, konsisten dengan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K51",
+      "content": "B6P4K51.mp3",
+      "offline": "B6P4K51",
+      "createdDate": "2022-07-15T01:43:46.1333Z",
+      "updatedDate": "2022-07-15T01:43:46.1333Z"
+    }
+  },
+  {
+    "id": 422,
+    "paragraphId": "19",
+    "audiosId": "B6P4K52",
+    "content": "عَلَى",
+    "read": "",
+    "readIndonesia": "atas, kepada, terhadap",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K52",
+      "content": "B6P4K52.mp3",
+      "offline": "B6P4K52",
+      "createdDate": "2022-07-15T01:43:46.1334Z",
+      "updatedDate": "2022-07-15T01:43:46.1334Z"
+    }
+  },
+  {
+    "id": 423,
+    "paragraphId": "19",
+    "audiosId": "B6P4K53",
+    "content": "أَنْ",
+    "read": "",
+    "readIndonesia": "bahwa, agar, akan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K53",
+      "content": "B6P4K53.mp3",
+      "offline": "B6P4K53",
+      "createdDate": "2022-07-15T01:43:46.1335Z",
+      "updatedDate": "2022-07-15T01:43:46.1335Z"
+    }
+  },
+  {
+    "id": 424,
+    "paragraphId": "19",
+    "audiosId": "B6P4K54",
+    "content": "قَضَى - يَقْضِي",
+    "read": "",
+    "readIndonesia": "mempergunakan, menghabiskan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K54",
+      "content": "B6P4K54.mp3",
+      "offline": "B6P4K54",
+      "createdDate": "2022-07-15T01:43:46.1336Z",
+      "updatedDate": "2022-07-15T01:43:46.1336Z"
+    }
+  },
+  {
+    "id": 425,
+    "paragraphId": "19",
+    "audiosId": "B6P4K55",
+    "content": "خَارِجَ",
+    "read": "",
+    "readIndonesia": "di luar, bagian luar, ke luar, muncul, berjalan keluar, mengarah ke luar",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K55",
+      "content": "B6P4K55.mp3",
+      "offline": "B6P4K55",
+      "createdDate": "2022-07-15T01:43:46.1337Z",
+      "updatedDate": "2022-07-15T01:43:46.1337Z"
+    }
+  },
+  {
+    "id": 426,
+    "paragraphId": "19",
+    "audiosId": "B6P4K56",
+    "content": "دَائِمًا",
+    "read": "",
+    "readIndonesia": "selalu, senantiasa, setiap waktu, selamanya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K56",
+      "content": "B6P4K56.mp3",
+      "offline": "B6P4K56",
+      "createdDate": "2022-07-15T01:43:46.1338Z",
+      "updatedDate": "2022-07-15T01:43:46.1338Z"
+    }
+  },
+  {
+    "id": 427,
+    "paragraphId": "19",
+    "audiosId": "B6P4K57",
+    "content": "لِكَيْ",
+    "read": "",
+    "readIndonesia": "sedemikian sehingga, dalam rangka, untuk, maka sebagai, supaya",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K57",
+      "content": "B6P4K57.mp3",
+      "offline": "B6P4K57",
+      "createdDate": "2022-07-15T01:43:46.1339Z",
+      "updatedDate": "2022-07-15T01:43:46.1339Z"
+    }
+  },
+  {
+    "id": 428,
+    "paragraphId": "19",
+    "audiosId": "B6P4K58",
+    "content": "اِبْتَعَدَ - يَبْتَعِدُ عَنْ",
+    "read": "",
+    "readIndonesia": "menghilang, pergi dari, menyingkir, tinggal jauh dari, menghindari, menjauh",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K58",
+      "content": "B6P4K58.mp3",
+      "offline": "B6P4K58",
+      "createdDate": "2022-07-15T01:43:46.1340Z",
+      "updatedDate": "2022-07-15T01:43:46.1340Z"
+    }
+  },
+  {
+    "id": 429,
+    "paragraphId": "19",
+    "audiosId": "B6P4K59",
+    "content": "ضَجِيْجٌ",
+    "read": "",
+    "readIndonesia": "keributan, kegaduhan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K59",
+      "content": "B6P4K59.mp3",
+      "offline": "B6P4K59",
+      "createdDate": "2022-07-15T01:43:46.1341Z",
+      "updatedDate": "2022-07-15T01:43:46.1341Z"
+    }
+  },
+  {
+    "id": 430,
+    "paragraphId": "19",
+    "audiosId": "B6P4K60",
+    "content": "حَصَلَ - يَحْصُلُ عَلَى",
+    "read": "",
+    "readIndonesia": "memperoleh, mendapatkan, memiliki, menerima, mencapai, menghasilkan",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K60",
+      "content": "B6P4K60.mp3",
+      "offline": "B6P4K60",
+      "createdDate": "2022-07-15T01:43:46.1342Z",
+      "updatedDate": "2022-07-15T01:43:46.1342Z"
+    }
+  },
+  {
+    "id": 431,
+    "paragraphId": "19",
+    "audiosId": "B6P4K61",
+    "content": "هُدُوْءٌ",
+    "read": "",
+    "readIndonesia": "ketenangan, kekaleman, keheningan, kesunyian, kedamaian",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K61",
+      "content": "B6P4K61.mp3",
+      "offline": "B6P4K61",
+      "createdDate": "2022-07-15T01:43:46.1343Z",
+      "updatedDate": "2022-07-15T01:43:46.1343Z"
+    }
+  },
+  {
+    "id": 432,
+    "paragraphId": "19",
+    "audiosId": "B6P4K62",
+    "content": "سَكِيْنَةٌ",
+    "read": "",
+    "readIndonesia": "ketenangan, kedamaian, keheningan, ketentraman",
+    "indonesiaWords": [],
+    "audios": {
+      "id": "B6P4K62",
+      "content": "B6P4K62.mp3",
+      "offline": "B6P4K62",
+      "createdDate": "2022-07-15T01:43:46.1344Z",
+      "updatedDate": "2022-07-15T01:43:46.1344Z"
+    }
+  }
+]

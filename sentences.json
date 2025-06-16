@@ -1,0 +1,2473 @@
+[
+  {
+    "id": "1",
+    "audiosId": "P1J1",
+    "paragraphId": "1",
+    "content": "سُلَيْمَانُ يَدْرُسُ فِيْ مَعْهَدِ تَعْلِيْمِ اللُّغَّةِ الْعَرَبِيَّة",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "1",
+        "sentenceId": "1",
+        "content": "Sulaiman sedang belajar di Institut Pendidikan Bahasa Arab",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P1J1",
+      "content": "P1J1.mp3",
+      "offline": "P1J1",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "2",
+    "audiosId": "P1J2",
+    "paragraphId": "1",
+    "content": "سُلَيْمَانُ مِنْ أُسْرَةٍ تُرْكِيَّةٍ مُسْلِمَةٍ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "2",
+        "sentenceId": "2",
+        "content": "Sulaiman dari keluarga Muslim Turki,",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P1J2",
+      "content": "P1J2.mp3",
+      "offline": "P1J2",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "3",
+    "audiosId": "P1J3",
+    "paragraphId": "1",
+    "content": "كَانَ يَتَمَنَّى أَنْ يَتَعَلَّمَ اللُّغَةَ الْعَرَبِيَّةَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "3",
+        "sentenceId": "3",
+        "content": "dia ingin mempelajari bahasa Arab,",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P1J3",
+      "content": "P1J3.mp3",
+      "offline": "P1J3",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "4",
+    "audiosId": "P1J4",
+    "paragraphId": "1",
+    "content": "لِيَفْهَمَ الْقُرْآنَ الْكَرِيْمَ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "4",
+        "sentenceId": "4",
+        "content": "Untuk memahami al-Qur’an al-Karim(yang mulia).",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P1J4",
+      "content": "P1J4.mp3",
+      "offline": "P1J4",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "5",
+    "audiosId": "P2J1",
+    "paragraphId": "2",
+    "content": "عَلِمَ سُلَيْمَانُ مِنْ أَحَدِ أَصْدِقَائِهِ أَنَّ مَعْهَدَ اللُّغَةِ الْعَرَبِيَّةِ فِيْ جَامِعَةِ الْإِمَامِ مُحَمَّدِ بْنِ سُعُوْدٍ الإِسْلَامِيَّةِ فِيْ الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُوْدِيَّةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "5",
+        "sentenceId": "5",
+        "content": "Sulaiman telah mengetahui dari salah seorang temannya bahwa institut bahasa Arab di Universitas Islam Imam Muhammad bin Sa’ud di Kerajaan Arab Saudi",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J1",
+      "content": "P2J1.mp3",
+      "offline": "P2J1",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "6",
+    "audiosId": "P2J2",
+    "paragraphId": "2",
+    "content": "يُقَدِّمُ مِنَحًا لِلدِّرَاسَةِ لِأَبْنَاءِ الْأُمَّةِ الْإِسْلَامِيَّةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "6",
+        "sentenceId": "6",
+        "content": "menawarkan beasiswa untuk anak-anak umat Islam",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J2",
+      "content": "P2J2.mp3",
+      "offline": "P2J2",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "7",
+    "audiosId": "P2J3",
+    "paragraphId": "2",
+    "content": "فَذَهَبَ إِلَى السِّفَارَةِ السُّعُوْدِيَّةِ، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "7",
+        "sentenceId": "7",
+        "content": "maka dia pergi ke Kedutaan Saudi,",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J3",
+      "content": "P2J3.mp3",
+      "offline": "P2J3",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "8",
+    "audiosId": "P2J4",
+    "paragraphId": "2",
+    "content": "وَأَخَدَ اسْتِبَانَةً، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "8",
+        "sentenceId": "8",
+        "content": "dan dia mengambil formulir",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J4",
+      "content": "P2J4.mp3",
+      "offline": "P2J4",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "9",
+    "audiosId": "P2J5",
+    "paragraphId": "2",
+    "content": "وَمَلْأَهَا وَأَعْطَاهَا الْمُوَظَّفَ، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "9",
+        "sentenceId": "9",
+        "content": "mengisi (formulir)nya dan memberikannya ke pegawai",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J5",
+      "content": "P2J5.mp3",
+      "offline": "P2J5",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "10",
+    "audiosId": "P2J6",
+    "paragraphId": "2",
+    "content": "وَقَدَّمَ لَهُ جَوَازَهُ؛",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "10",
+        "sentenceId": "10",
+        "content": "dan memberikan kepada (pegawai)nya paspornya;",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J6",
+      "content": "P2J6.mp3",
+      "offline": "P2J6",
+      "createdDate": "2022-07-15T01:43:46.809Z",
+      "updatedDate": "2022-07-15T01:43:46.809Z"
+    }
+  },
+  {
+    "id": "11",
+    "audiosId": "P2J7",
+    "paragraphId": "2",
+    "content": " لِيَحْصُلَ عَلَى تَأْشِيْرَةِ الدُّخُوْلِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "11",
+        "sentenceId": "11",
+        "content": "untuk mendapatkan visa masuk,",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J7",
+      "content": "P2J7.mp3",
+      "offline": "P2J7",
+      "createdDate": "2022-07-15T01:43:46.810Z",
+      "updatedDate": "2022-07-15T01:43:46.810Z"
+    }
+  },
+  {
+    "id": "12",
+    "audiosId": "P2J8",
+    "paragraphId": "2",
+    "content": "وَبَعْدَ أَيَّامٍ عَلَمَ بِالْمُوَافَقَةِ، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "12",
+        "sentenceId": "12",
+        "content": "dan setelah beberapa hari dia mengetahui persetujuan (visanya),",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J8",
+      "content": "P2J8.mp3",
+      "offline": "P2J8",
+      "createdDate": "2022-07-15T01:43:46.811Z",
+      "updatedDate": "2022-07-15T01:43:46.811Z"
+    }
+  },
+  {
+    "id": "13",
+    "audiosId": "P2J9",
+    "paragraphId": "2",
+    "content": "فَسَافَرَ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُوْدِيَّةِ؛ ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "13",
+        "sentenceId": "13",
+        "content": "maka dia pergi ke Kerajaan Arab Saudi,",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J9",
+      "content": "P2J9.mp3",
+      "offline": "P2J9",
+      "createdDate": "2022-07-15T01:43:46.812Z",
+      "updatedDate": "2022-07-15T01:43:46.812Z"
+    }
+  },
+  {
+    "id": "14",
+    "audiosId": "P2J10",
+    "paragraphId": "2",
+    "content": "لِيَدْرُسَ فِيْ الْمَعْهَدِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "14",
+        "sentenceId": "14",
+        "content": "Untuk belajar di institute.",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "P2J10",
+      "content": "P2J10.mp3",
+      "offline": "P2J10",
+      "createdDate": "2022-07-15T01:43:46.813Z",
+      "updatedDate": "2022-07-15T01:43:46.813Z"
+    }
+  },
+  {
+    "id": "15",
+    "audiosId": "B2P1J1",
+    "paragraphId": "3",
+    "content": "عِنْدَ الطَّبِيْبِ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "15",
+        "sentenceId": "15",
+        "content": "di sisi dokter",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J1",
+      "content": "B2P1J1.mp3",
+      "offline": "B2P1J1",
+      "createdDate": "2022-07-15T01:43:46.865Z",
+      "updatedDate": "2022-07-15T01:43:46.865Z"
+    }
+  },
+  {
+    "id": "16",
+    "audiosId": "B2P1J2",
+    "paragraphId": "3",
+    "content": "اِسْتَيْقَظَ أَحْمَدُ مِنَ النَّوْمِ فِيْ اللَّيْلِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "16",
+        "sentenceId": "16",
+        "content": "Ahmad bangun dari tidurnya di malam hari",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J2",
+      "content": "B2P1J2.mp3",
+      "offline": "B2P1J2",
+      "createdDate": "2022-07-15T01:43:46.866Z",
+      "updatedDate": "2022-07-15T01:43:46.866Z"
+    }
+  },
+  {
+    "id": "17",
+    "audiosId": "B2P1J3",
+    "paragraphId": "3",
+    "content": "وَقَدْ أَحَسَّ بِأَلَمٍ شَدِيْدٍ فِيْ بَطْنِهِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "17",
+        "sentenceId": "17",
+        "content": "dan dia sungguh merasakan sakit sekali di perutnya",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J3",
+      "content": "B2P1J3.mp3",
+      "offline": "B2P1J3",
+      "createdDate": "2022-07-15T01:43:46.867Z",
+      "updatedDate": "2022-07-15T01:43:46.867Z"
+    }
+  },
+  {
+    "id": "18",
+    "audiosId": "B2P1J4",
+    "paragraphId": "3",
+    "content": "وَأَيْقَظَ زَمِيْلَهُ عَبْدَ الرَّحْمٰنِ، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "18",
+        "sentenceId": "18",
+        "content": "dan dia membangunkan temannya Abdur Rahman",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J4",
+      "content": "B2P1J4.mp3",
+      "offline": "B2P1J4",
+      "createdDate": "2022-07-15T01:43:46.868Z",
+      "updatedDate": "2022-07-15T01:43:46.868Z"
+    }
+  },
+  {
+    "id": "19",
+    "audiosId": "B2P1J5",
+    "paragraphId": "3",
+    "content": "أَخْبَرَهُ عَنْ حَالِهِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "19",
+        "sentenceId": "19",
+        "content": "dia menceritakan tentang keadaannya",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J5",
+      "content": "B2P1J5.mp3",
+      "offline": "B2P1J5",
+      "createdDate": "2022-07-15T01:43:46.869Z",
+      "updatedDate": "2022-07-15T01:43:46.869Z"
+    }
+  },
+  {
+    "id": "20",
+    "audiosId": "B2P1J6",
+    "paragraphId": "3",
+    "content": "فَلَبِسَا مَلَابِسَهُمَا،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "20",
+        "sentenceId": "20",
+        "content": "maka mereka berdua mengenakan pakaian mereka",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J6",
+      "content": "B2P1J6.mp3",
+      "offline": "B2P1J6",
+      "createdDate": "2022-07-15T01:43:46.870Z",
+      "updatedDate": "2022-07-15T01:43:46.870Z"
+    }
+  },
+  {
+    "id": "21",
+    "audiosId": "B2P1J7",
+    "paragraphId": "3",
+    "content": "وَخَرَجَا مَعًا مُتَّجِهَيْنِ إِلَى الْمُسْتَشْفَى.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "21",
+        "sentenceId": "21",
+        "content": "dan mereka berdua keluar bersama menuju ke rumah sakit",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J7",
+      "content": "B2P1J7.mp3",
+      "offline": "B2P1J7",
+      "createdDate": "2022-07-15T01:43:46.871Z",
+      "updatedDate": "2022-07-15T01:43:46.871Z"
+    }
+  },
+  {
+    "id": "22",
+    "audiosId": "B2P1J8",
+    "paragraphId": "3",
+    "content": "وَعِنْدَمَا وَصَلَا إِلَى الْمُسْتَشْفَى،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "22",
+        "sentenceId": "22",
+        "content": "dan ketika mereka berdua sampai ke rumah sakit",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J8",
+      "content": "B2P1J8.mp3",
+      "offline": "B2P1J8",
+      "createdDate": "2022-07-15T01:43:46.872Z",
+      "updatedDate": "2022-07-15T01:43:46.872Z"
+    }
+  },
+  {
+    "id": "23",
+    "audiosId": "B2P1J9",
+    "paragraphId": "3",
+    "content": "دَخَلَ أَحْمَدُ عَلَى الطَّبِيْبِ وَقَالَ لَهُ: أَشْعُرُ بِأَلَمٍ فِيْ بِطْنِيْ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "23",
+        "sentenceId": "23",
+        "content": "masuklah Ahmad ke ruang dokter, dan berkata kepadanya: saya merasakan sakit di perut saya",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J9",
+      "content": "B2P1J9.mp3",
+      "offline": "B2P1J9",
+      "createdDate": "2022-07-15T01:43:46.873Z",
+      "updatedDate": "2022-07-15T01:43:46.873Z"
+    }
+  },
+  {
+    "id": "24",
+    "audiosId": "B2P1J10",
+    "paragraphId": "3",
+    "content": "وَمَازَالَ الْأَلَمُ شَدِيْدًا حَتَّى هٰذِهِ اللَّحْظَةِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "24",
+        "sentenceId": "24",
+        "content": "dan masih sakit sekali sampai detik ini",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P1J10",
+      "content": "B2P1J10.mp3",
+      "offline": "B2P1J10",
+      "createdDate": "2022-07-15T01:43:46.874Z",
+      "updatedDate": "2022-07-15T01:43:46.874Z"
+    }
+  },
+  {
+    "id": "25",
+    "audiosId": "B2P2J1",
+    "paragraphId": "4",
+    "content": "طَلَبَ مِنْهُ الطَّبِيْبُ أَنْ يَسْتَلْقِيَ عَلَى السَّرِيْرِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "25",
+        "sentenceId": "25",
+        "content": "dokter memintanya agar berbaring di atas kasur",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J1",
+      "content": "B2P2J1.mp3",
+      "offline": "B2P2J1",
+      "createdDate": "2022-07-15T01:43:46.875Z",
+      "updatedDate": "2022-07-15T01:43:46.875Z"
+    }
+  },
+  {
+    "id": "26",
+    "audiosId": "B2P2J2",
+    "paragraphId": "4",
+    "content": "ثُمَّ فَحَصَهُ وَقَالَ لَهُ: إِنَّ الْأَلَمَ الَّذِيْ تَشْعُرُ بِهِ سَبَبُهُ الْبَرْدُ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "26",
+        "sentenceId": "26",
+        "content": "kemudian dokter memeriksanya dan berkata kepadanya: sesungguhnya sakit yang kamu rasakan disebabkan kedinginan",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J2",
+      "content": "B2P2J2.mp3",
+      "offline": "B2P2J2",
+      "createdDate": "2022-07-15T01:43:46.876Z",
+      "updatedDate": "2022-07-15T01:43:46.876Z"
+    }
+  },
+  {
+    "id": "27",
+    "audiosId": "B2P2J3",
+    "paragraphId": "4",
+    "content": "وَسَيَزُوْلُ – إِنْ شَاءَ اللهُ – بَعْدَ أَنْ تَتَنَاوَلَ الدَّوَاءَ الَّذِيْ سَأَكْتُبُهُ لَكَ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "27",
+        "sentenceId": "27",
+        "content": "(sakitnya) akan hilang – in sya Allah – setelah mengonsumsi obat yang akan saya tuliskan kepadamu",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J3",
+      "content": "B2P2J3.mp3",
+      "offline": "B2P2J3",
+      "createdDate": "2022-07-15T01:43:46.877Z",
+      "updatedDate": "2022-07-15T01:43:46.877Z"
+    }
+  },
+  {
+    "id": "28",
+    "audiosId": "B2P2J4",
+    "paragraphId": "4",
+    "content": "شَكَرَ أَحْمَدُ الطَّبِيْبَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "28",
+        "sentenceId": "28",
+        "content": "Ahmad berterima kasih kepada dokter,",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J4",
+      "content": "B2P2J4.mp3",
+      "offline": "B2P2J4",
+      "createdDate": "2022-07-15T01:43:46.878Z",
+      "updatedDate": "2022-07-15T01:43:46.878Z"
+    }
+  },
+  {
+    "id": "29",
+    "audiosId": "B2P2J5",
+    "paragraphId": "4",
+    "content": "ثُمَّ ذَهَبَ إِلَى الصَّيْدَلِيَّةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "29",
+        "sentenceId": "29",
+        "content": "kemudian pergi ke apotek",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J5",
+      "content": "B2P2J5.mp3",
+      "offline": "B2P2J5",
+      "createdDate": "2022-07-15T01:43:46.879Z",
+      "updatedDate": "2022-07-15T01:43:46.879Z"
+    }
+  },
+  {
+    "id": "30",
+    "audiosId": "B2P2J6",
+    "paragraphId": "4",
+    "content": "وَاشْتَرَى الدَّوَاءَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "30",
+        "sentenceId": "30",
+        "content": "dan membeli obat",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J6",
+      "content": "B2P2J6.mp3",
+      "offline": "B2P2J6",
+      "createdDate": "2022-07-15T01:43:46.880Z",
+      "updatedDate": "2022-07-15T01:43:46.880Z"
+    }
+  },
+  {
+    "id": "31",
+    "audiosId": "B2P2J7",
+    "paragraphId": "4",
+    "content": "وَبَعْدَ ثَلَاثَةِ أَيَّامٍ زَالَ الْأَلَمُ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "31",
+        "sentenceId": "31",
+        "content": "dan setelah tiga hari sakitnya telah hilang",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J7",
+      "content": "B2P2J7.mp3",
+      "offline": "B2P2J7",
+      "createdDate": "2022-07-15T01:43:46.881Z",
+      "updatedDate": "2022-07-15T01:43:46.881Z"
+    }
+  },
+  {
+    "id": "32",
+    "audiosId": "B2P2J8",
+    "paragraphId": "4",
+    "content": "وَشَعَرَ أَحْمَدُ بِالرَّاحَةِ التَّامَةِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "32",
+        "sentenceId": "32",
+        "content": "dan Ahmad merasakan Kesehatan yang sempurna",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B2P2J8",
+      "content": "B2P2J8.mp3",
+      "offline": "B2P2J8",
+      "createdDate": "2022-07-15T01:43:46.882Z",
+      "updatedDate": "2022-07-15T01:43:46.882Z"
+    }
+  },
+  {
+    "id": "33",
+    "audiosId": "B3P1J1",
+    "paragraphId": "5",
+    "content": "فِيْ السُّوْقِ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "33",
+        "sentenceId": "33",
+        "content": "di pasar",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B3P1J1",
+      "content": "B3P1J1.mp3",
+      "offline": "B3P1J1",
+      "createdDate": "2022-07-15T01:43:46.956Z",
+      "updatedDate": "2022-07-15T01:43:46.956Z"
+    }
+  },
+  {
+    "id": "34",
+    "audiosId": "B3P1J2",
+    "paragraphId": "5",
+    "content": "ذَهَبَ مُصْطَفَى وَأَصْدِقَاؤُهُ اِلٰى السُّوْقِ يَوْمَ الْخَمِيسِ لِيَشْتَرُوْا مَلَابِسَ لِلشِّتَاءِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "34",
+        "sentenceId": "34",
+        "content": "Musthofa dan teman-temannya pergi ke pasar di hari kamis untuk membeli pakaian untuk musim dingin",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B3P1J2",
+      "content": "B3P1J2.mp3",
+      "offline": "B3P1J2",
+      "createdDate": "2022-07-15T01:43:46.957Z",
+      "updatedDate": "2022-07-15T01:43:46.957Z"
+    }
+  },
+  {
+    "id": "35",
+    "audiosId": "B3P2J1",
+    "paragraphId": "6",
+    "content": "كَانَ السُّوْقُ مُزْدَحِمًا لِأَنَّ الْعَامِلِيْنَ فِيْ الْمَدِيْنَةِ وَضَوَاحِيْهَا يَأْتُوْنَ فِيْ هٰذَا الْيَوْمِ مِنْ كُلِّ أُسْبُوْعٍ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "35",
+        "sentenceId": "35",
+        "content": "Saat itu pasar penuh sesak karena para pekerja di kota dan orang-orang pinggiran kota datang pada hari itu setiap minggunya,",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B3P2J1",
+      "content": "B3P2J1.mp3",
+      "offline": "B3P2J1",
+      "createdDate": "2022-07-15T01:43:46.958Z",
+      "updatedDate": "2022-07-15T01:43:46.958Z"
+    }
+  },
+  {
+    "id": "36",
+    "audiosId": "B3P2J2",
+    "paragraphId": "6",
+    "content": "لِيَشْتَرُوْا مَا يَحْتَاجُوْنَ إلَيْهِ مِنْ مَلَابِسَ، وَأَحْذِيَةٍ، وَمَوَادَّ غِدَائِيَّةٍ، وَغَيْرِ ذٰلِكَ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "36",
+        "sentenceId": "36",
+        "content": "Untuk membeli apa yang mereka butuhkan seperti pakaian, sepatu, bahan-bahan makanan, dan lain sebagainya.",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B3P2J2",
+      "content": "B3P2J2.mp3",
+      "offline": "B3P2J2",
+      "createdDate": "2022-07-15T01:43:46.959Z",
+      "updatedDate": "2022-07-15T01:43:46.959Z"
+    }
+  },
+  {
+    "id": "37",
+    "audiosId": "B3P3J1",
+    "paragraphId": "7",
+    "content": "دَخَلَ مُصْطَفٰى وَأَصْدِقَاؤُهُ مَتْجَرًا فِيْهِ أَنْوَاعٌ كَثِيْرَةٌ مِنَ الْمَلَابِسِ وَاشْتَرَوْا مَلَابِسَ مِنَ الصُّوْفِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "37",
+        "sentenceId": "37",
+        "content": "Musthofa dan teman-temannya masuk ke toko yang di dalamnya banyak macam pakaian, dan mereka membeli pakaian dari wol",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B3P3J1",
+      "content": "B3P3J1.mp3",
+      "offline": "B3P3J1",
+      "createdDate": "2022-07-15T01:43:46.960Z",
+      "updatedDate": "2022-07-15T01:43:46.960Z"
+    }
+  },
+  {
+    "id": "38",
+    "audiosId": "B3P3J2",
+    "paragraphId": "7",
+    "content": "وَبَعْدَ أَنْ جَالُوْ قَلِيْلًا فِيْ السُّوْقِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "38",
+        "sentenceId": "38",
+        "content": "dan setelah mereka berkeliling sebentar",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B3P3J2",
+      "content": "B3P3J2.mp3",
+      "offline": "B3P3J2",
+      "createdDate": "2022-07-15T01:43:46.961Z",
+      "updatedDate": "2022-07-15T01:43:46.961Z"
+    }
+  },
+  {
+    "id": "39",
+    "audiosId": "B3P3J3",
+    "paragraphId": "7",
+    "content": "عَادُوْا إِلٰى مَنَازِلِهِمْ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "39",
+        "sentenceId": "39",
+        "content": "mereka Kembali ke rumah masing-masing",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B3P3J3",
+      "content": "B3P3J3.mp3",
+      "offline": "B3P3J3",
+      "createdDate": "2022-07-15T01:43:46.962Z",
+      "updatedDate": "2022-07-15T01:43:46.962Z"
+    }
+  },
+  {
+    "id": "40",
+    "audiosId": "B4P1J1",
+    "paragraphId": "8",
+    "content": "اَلْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُوْدِيَّةُ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "40",
+        "sentenceId": "40",
+        "content": "Kerajaan Arab Saudi",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P1J1",
+      "content": "B4P1J1.mp3",
+      "offline": "B4P1J1",
+      "createdDate": "2022-07-15T01:43:46.1015Z",
+      "updatedDate": "2022-07-15T01:43:46.1015Z"
+    }
+  },
+  {
+    "id": "41",
+    "audiosId": "B4P1J2",
+    "paragraphId": "8",
+    "content": "تَقَعُ الْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُوْدِيَّةُ فِيْ آسِيَا",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "41",
+        "sentenceId": "41",
+        "content": "Kerajaan Arab Saudi terletak di Asia",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P1J2",
+      "content": "B4P1J2.mp3",
+      "offline": "B4P1J2",
+      "createdDate": "2022-07-15T01:43:46.1016Z",
+      "updatedDate": "2022-07-15T01:43:46.1016Z"
+    }
+  },
+  {
+    "id": "42",
+    "audiosId": "B4P1J3",
+    "paragraphId": "8",
+    "content": "يَحُدُّهَا مِنَ الغَرْبِ البَحْرُ الْأَحْمَرُ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "42",
+        "sentenceId": "42",
+        "content": "yang membatasinya dari barat adalah laut merah",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P1J3",
+      "content": "B4P1J3.mp3",
+      "offline": "B4P1J3",
+      "createdDate": "2022-07-15T01:43:46.1017Z",
+      "updatedDate": "2022-07-15T01:43:46.1017Z"
+    }
+  },
+  {
+    "id": "43",
+    "audiosId": "B4P1J4",
+    "paragraphId": "8",
+    "content": "وَمِنَ الشَّرْقِ عُمَانُ، وَالْإِمَارَاتِ المُتَّحِدَةُ، وَقَطَرُ، وَالْكُوَيْتُ، وَالخَلِيْجُ الْعَرَبِيُّ، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "43",
+        "sentenceId": "43",
+        "content": "dan dari timur adalah Oman, Uni Emirat Arab, Qatar, Kuwait, dan Teluk Arab",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P1J4",
+      "content": "B4P1J4.mp3",
+      "offline": "B4P1J4",
+      "createdDate": "2022-07-15T01:43:46.1018Z",
+      "updatedDate": "2022-07-15T01:43:46.1018Z"
+    }
+  },
+  {
+    "id": "44",
+    "audiosId": "B4P1J5",
+    "paragraphId": "8",
+    "content": "وَمِنَ الشَّمَالِ الأُرْدُنُّ، وَالْعِرَاقِ، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "44",
+        "sentenceId": "44",
+        "content": "dan dari utara adalah Yordania, dan Irak",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P1J5",
+      "content": "B4P1J5.mp3",
+      "offline": "B4P1J5",
+      "createdDate": "2022-07-15T01:43:46.1019Z",
+      "updatedDate": "2022-07-15T01:43:46.1019Z"
+    }
+  },
+  {
+    "id": "45",
+    "audiosId": "B4P1J6",
+    "paragraphId": "8",
+    "content": "وَمِنَ الْجَنُوْبِ الْيَمَنُ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "45",
+        "sentenceId": "45",
+        "content": "dan dari selatan adalah Yaman",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P1J6",
+      "content": "B4P1J6.mp3",
+      "offline": "B4P1J6",
+      "createdDate": "2022-07-15T01:43:46.1020Z",
+      "updatedDate": "2022-07-15T01:43:46.1020Z"
+    }
+  },
+  {
+    "id": "46",
+    "audiosId": "B4P2J1",
+    "paragraphId": "9",
+    "content": "وَمِنْ أَهَمِّ مُدُنِهَا: مَكَّةُ الْمُكَرَّمَةُ، وَالْمَدِيْنَةُ الْمُنَوَّرَةُ، وَالرِّيَاضُ، وَهِيَ الْعَاصِمَةُ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "46",
+        "sentenceId": "46",
+        "content": "Dan kota-kota pentingnya: Mekkah al-mukarromah, Madinah al-Munawarah, dan Riyadh, yang merupakan ibu kota negara",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P2J1",
+      "content": "B4P2J1.mp3",
+      "offline": "B4P2J1",
+      "createdDate": "2022-07-15T01:43:46.1021Z",
+      "updatedDate": "2022-07-15T01:43:46.1021Z"
+    }
+  },
+  {
+    "id": "47",
+    "audiosId": "B4P2J2",
+    "paragraphId": "9",
+    "content": "وَجُدَّةُ، وَالطَّائِفُ، وَالدَّمَّامُ وَبُرَيْدَةُ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "47",
+        "sentenceId": "47",
+        "content": "Jeddah, Thaif, Dammam, dan Buraidah",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P2J2",
+      "content": "B4P2J2.mp3",
+      "offline": "B4P2J2",
+      "createdDate": "2022-07-15T01:43:46.1022Z",
+      "updatedDate": "2022-07-15T01:43:46.1022Z"
+    }
+  },
+  {
+    "id": "48",
+    "audiosId": "B4P3J1",
+    "paragraphId": "10",
+    "content": "وَالْأَمْطَارُ تَنْزِلُ عَلَى الْمَمْلَكَةُ فِيْ الشِّتَاءِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "48",
+        "sentenceId": "48",
+        "content": "hujan turun di kerajaan pada musim dingin",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P3J1",
+      "content": "B4P3J1.mp3",
+      "offline": "B4P3J1",
+      "createdDate": "2022-07-15T01:43:46.1023Z",
+      "updatedDate": "2022-07-15T01:43:46.1023Z"
+    }
+  },
+  {
+    "id": "49",
+    "audiosId": "B4P3J2",
+    "paragraphId": "10",
+    "content": "والزِّرَاعَةُ فِيْهَا بِالآلَاتِ الحَدِيْثَةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "49",
+        "sentenceId": "49",
+        "content": "dan pertanian di sana menggunakan alat-alat modern",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P3J2",
+      "content": "B4P3J2.mp3",
+      "offline": "B4P3J2",
+      "createdDate": "2022-07-15T01:43:46.1024Z",
+      "updatedDate": "2022-07-15T01:43:46.1024Z"
+    }
+  },
+  {
+    "id": "50",
+    "audiosId": "B4P3J3",
+    "paragraphId": "10",
+    "content": "وَقَامَتِ المَمْلَكَةُ بِتَحْلِيَةِ مِيَاهِ الْبَحْرِ لِلْاِسْتِفَادَةِ مِنْهَا فِيْ الشُّرْبِ وَالزِّرَاعَةِ، ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "50",
+        "sentenceId": "50",
+        "content": "dan kerajaan melakukan penyulingan (desalinasi) air laut untuk dimanfaatkan sebagai minuman dan pertanian",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P3J3",
+      "content": "B4P3J3.mp3",
+      "offline": "B4P3J3",
+      "createdDate": "2022-07-15T01:43:46.1025Z",
+      "updatedDate": "2022-07-15T01:43:46.1025Z"
+    }
+  },
+  {
+    "id": "51",
+    "audiosId": "B4P3J4",
+    "paragraphId": "10",
+    "content": "وَصَارَ جُزْءٌ كَبِيْرٌ مِنَ الصَّحْرَاءِ مَزَارِعَ خَضْرَاءَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "51",
+        "sentenceId": "51",
+        "content": "dan sebagian besar dari padang pasir dijadikan ladang pertanian",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P3J4",
+      "content": "B4P3J4.mp3",
+      "offline": "B4P3J4",
+      "createdDate": "2022-07-15T01:43:46.1026Z",
+      "updatedDate": "2022-07-15T01:43:46.1026Z"
+    }
+  },
+  {
+    "id": "52",
+    "audiosId": "B4P3J5",
+    "paragraphId": "10",
+    "content": " وَانْتَشَرَتْ فِيْهَا زِرَاعَةُ الْقَمْحِ وَالْخُضَارِ، كَالطَّمَاطِمِ وَالْخِيَارِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.809Z",
+    "updatedDate": "2022-07-15T01:43:46.809Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "52",
+        "sentenceId": "52",
+        "content": "dan tersebar di sana pertanian gandum dan sayuran, seperti tomat dan timun ",
+        "createdDate": "2022-07-15T01:43:46.809Z",
+        "updatedDate": "2022-07-15T01:43:46.809Z"
+      }
+    ],
+    "audios": {
+      "id": "B4P3J5",
+      "content": "B4P3J5.mp3",
+      "offline": "B4P3J5",
+      "createdDate": "2022-07-15T01:43:46.1027Z",
+      "updatedDate": "2022-07-15T01:43:46.1027Z"
+    }
+  },
+  {
+    "id": "53",
+    "audiosId": "B5P1J1",
+    "paragraphId": "11",
+    "content": "اَلْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُوْدِيَّةُ قِبْلَةُ الْعَالَمِ الْإِسْلَامِيِّ، ٢",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.810Z",
+    "updatedDate": "2022-07-15T01:43:46.810Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "53",
+        "sentenceId": "53",
+        "content": "Kerajaan Arab Saudi 2",
+        "createdDate": "2022-07-15T01:43:46.810Z",
+        "updatedDate": "2022-07-15T01:43:46.810Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P1J1",
+      "content": "B5P1J1.mp3",
+      "offline": "B5P1J1",
+      "createdDate": "2022-07-15T01:43:46.1093Z",
+      "updatedDate": "2022-07-15T01:43:46.1093Z"
+    }
+  },
+  {
+    "id": "54",
+    "audiosId": "B5P1J2",
+    "paragraphId": "11",
+    "content": "فِيْهَا مَكَّةُ الْمُكَرَّمَةُ الَّتِيْ يَحُجُّ إِلَيْهَا الْمُسْلِمُوْنَ مِنْ كُلِّ الْبِلَادِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.811Z",
+    "updatedDate": "2022-07-15T01:43:46.811Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "54",
+        "sentenceId": "54",
+        "content": "Kerajaan Arab Saudi adalah kiblat dunia Islam,",
+        "createdDate": "2022-07-15T01:43:46.811Z",
+        "updatedDate": "2022-07-15T01:43:46.811Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P1J2",
+      "content": "B5P1J2.mp3",
+      "offline": "B5P1J2",
+      "createdDate": "2022-07-15T01:43:46.1094Z",
+      "updatedDate": "2022-07-15T01:43:46.1094Z"
+    }
+  },
+  {
+    "id": "55",
+    "audiosId": "B5P1J3",
+    "paragraphId": "11",
+    "content": "لِلطَّوَافِ حَوْلَ الْكَعْبَةِ المُشَرَّفَةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.812Z",
+    "updatedDate": "2022-07-15T01:43:46.812Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "55",
+        "sentenceId": "55",
+        "content": "Di dalamnya ada kota Mekah al-Mukaromah (dimuliakan), yang merupakan tempat berziarah (berhaji) bagi umat muslim dari semua negara,",
+        "createdDate": "2022-07-15T01:43:46.812Z",
+        "updatedDate": "2022-07-15T01:43:46.812Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P1J3",
+      "content": "B5P1J3.mp3",
+      "offline": "B5P1J3",
+      "createdDate": "2022-07-15T01:43:46.1095Z",
+      "updatedDate": "2022-07-15T01:43:46.1095Z"
+    }
+  },
+  {
+    "id": "56",
+    "audiosId": "B5P1J4",
+    "paragraphId": "11",
+    "content": "وَالصَّلَاةِ فِيْ الْمَسْجِدِ الْحَرَامِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.813Z",
+    "updatedDate": "2022-07-15T01:43:46.813Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "56",
+        "sentenceId": "56",
+        "content": "Untuk berkeliling (thawaf) di sekitar ka’bah musyarafah (yang mulia)",
+        "createdDate": "2022-07-15T01:43:46.813Z",
+        "updatedDate": "2022-07-15T01:43:46.813Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P1J4",
+      "content": "B5P1J4.mp3",
+      "offline": "B5P1J4",
+      "createdDate": "2022-07-15T01:43:46.1096Z",
+      "updatedDate": "2022-07-15T01:43:46.1096Z"
+    }
+  },
+  {
+    "id": "57",
+    "audiosId": "B5P1J5",
+    "paragraphId": "11",
+    "content": "وَزِيَارَةِ الْمَشَاعِرِ الْمُقَدَّسَةِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.814Z",
+    "updatedDate": "2022-07-15T01:43:46.814Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "57",
+        "sentenceId": "57",
+        "content": "Dan shalat di masjidil haram",
+        "createdDate": "2022-07-15T01:43:46.814Z",
+        "updatedDate": "2022-07-15T01:43:46.814Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P1J5",
+      "content": "B5P1J5.mp3",
+      "offline": "B5P1J5",
+      "createdDate": "2022-07-15T01:43:46.1097Z",
+      "updatedDate": "2022-07-15T01:43:46.1097Z"
+    }
+  },
+  {
+    "id": "58",
+    "audiosId": "B5P1J6",
+    "paragraphId": "12",
+    "content": "اَلْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُوْدِيَّةُ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.815Z",
+    "updatedDate": "2022-07-15T01:43:46.815Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "58",
+        "sentenceId": "58",
+        "content": "Dan mengunjungi tempat-tempat suci.",
+        "createdDate": "2022-07-15T01:43:46.815Z",
+        "updatedDate": "2022-07-15T01:43:46.815Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P1J6",
+      "content": "B5P1J6.mp3",
+      "offline": "B5P1J6",
+      "createdDate": "2022-07-15T01:43:46.1098Z",
+      "updatedDate": "2022-07-15T01:43:46.1098Z"
+    }
+  },
+  {
+    "id": "59",
+    "audiosId": "B5P2J1",
+    "paragraphId": "12",
+    "content": "وَفِيْهَا الْمَدِيْنَةُ الْمُنَوَّرَةُ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.816Z",
+    "updatedDate": "2022-07-15T01:43:46.816Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "59",
+        "sentenceId": "59",
+        "content": "Dan di dalamnya ada kota Madinah al-Munawarah (yang bercahaya),",
+        "createdDate": "2022-07-15T01:43:46.816Z",
+        "updatedDate": "2022-07-15T01:43:46.816Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P2J1",
+      "content": "B5P2J1.mp3",
+      "offline": "B5P2J1",
+      "createdDate": "2022-07-15T01:43:46.1099Z",
+      "updatedDate": "2022-07-15T01:43:46.1099Z"
+    }
+  },
+  {
+    "id": "60",
+    "audiosId": "B5P2J2",
+    "paragraphId": "12",
+    "content": "مِنْهَا انْتَشَرَ الإِسْلَامُ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.817Z",
+    "updatedDate": "2022-07-15T01:43:46.817Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "60",
+        "sentenceId": "60",
+        "content": "Darinya islam menyebar,",
+        "createdDate": "2022-07-15T01:43:46.817Z",
+        "updatedDate": "2022-07-15T01:43:46.817Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P2J2",
+      "content": "B5P2J2.mp3",
+      "offline": "B5P2J2",
+      "createdDate": "2022-07-15T01:43:46.1100Z",
+      "updatedDate": "2022-07-15T01:43:46.1100Z"
+    }
+  },
+  {
+    "id": "61",
+    "audiosId": "B5P2J3",
+    "paragraphId": "12",
+    "content": "وَفِيْهَا الْمَسْجِدُ النَّبَوِيُّ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.818Z",
+    "updatedDate": "2022-07-15T01:43:46.818Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "61",
+        "sentenceId": "61",
+        "content": "Dan di dalamnya ada masjid Nabawi,",
+        "createdDate": "2022-07-15T01:43:46.818Z",
+        "updatedDate": "2022-07-15T01:43:46.818Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P2J3",
+      "content": "B5P2J3.mp3",
+      "offline": "B5P2J3",
+      "createdDate": "2022-07-15T01:43:46.1101Z",
+      "updatedDate": "2022-07-15T01:43:46.1101Z"
+    }
+  },
+  {
+    "id": "62",
+    "audiosId": "B5P2J4",
+    "paragraphId": "12",
+    "content": "وَبِهَا قَبْرُ الرَّسُوْلِ صَلَّى ا اللّٰهُ عَلَيْهِ وَسَلَّمَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.819Z",
+    "updatedDate": "2022-07-15T01:43:46.819Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "62",
+        "sentenceId": "62",
+        "content": "Dan di sana ada makam Rasul shalallahu ‘alaihi wasallam,",
+        "createdDate": "2022-07-15T01:43:46.819Z",
+        "updatedDate": "2022-07-15T01:43:46.819Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P2J4",
+      "content": "B5P2J4.mp3",
+      "offline": "B5P2J4",
+      "createdDate": "2022-07-15T01:43:46.1102Z",
+      "updatedDate": "2022-07-15T01:43:46.1102Z"
+    }
+  },
+  {
+    "id": "63",
+    "audiosId": "B5P2J5",
+    "paragraphId": "12",
+    "content": "وَقَبْرَ صَاحِبَيْهِ أبِيْ بَكْرٍ وَعُمَرَ رِضْوَانُ اللّٰهِ عَلَيْهِمَا.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.820Z",
+    "updatedDate": "2022-07-15T01:43:46.820Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "63",
+        "sentenceId": "63",
+        "content": "Dan kedua makam sahabatnya Abu Bakar dan Umar, ridhwanullahi ‘alaihima (semoga Allah meridhoi keduanya).",
+        "createdDate": "2022-07-15T01:43:46.820Z",
+        "updatedDate": "2022-07-15T01:43:46.820Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P2J5",
+      "content": "B5P2J5.mp3",
+      "offline": "B5P2J5",
+      "createdDate": "2022-07-15T01:43:46.1103Z",
+      "updatedDate": "2022-07-15T01:43:46.1103Z"
+    }
+  },
+  {
+    "id": "64",
+    "audiosId": "B5P3J1",
+    "paragraphId": "13",
+    "content": "وَيَذْهَبُ الْمُسْلِمُوْنَ إِلَى الْمَدِيْنَةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.821Z",
+    "updatedDate": "2022-07-15T01:43:46.821Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "64",
+        "sentenceId": "64",
+        "content": "Dan para muslim pergi ke kota Madinah,",
+        "createdDate": "2022-07-15T01:43:46.821Z",
+        "updatedDate": "2022-07-15T01:43:46.821Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P3J1",
+      "content": "B5P3J1.mp3",
+      "offline": "B5P3J1",
+      "createdDate": "2022-07-15T01:43:46.1104Z",
+      "updatedDate": "2022-07-15T01:43:46.1104Z"
+    }
+  },
+  {
+    "id": "65",
+    "audiosId": "B5P3J2",
+    "paragraphId": "13",
+    "content": "لِلصَّلَاةِ فِيْ الْمَسْجِدِ النَّبَوِيِّ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.822Z",
+    "updatedDate": "2022-07-15T01:43:46.822Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "65",
+        "sentenceId": "65",
+        "content": "untuk shalat di masjid Nabawi,",
+        "createdDate": "2022-07-15T01:43:46.822Z",
+        "updatedDate": "2022-07-15T01:43:46.822Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P3J2",
+      "content": "B5P3J2.mp3",
+      "offline": "B5P3J2",
+      "createdDate": "2022-07-15T01:43:46.1105Z",
+      "updatedDate": "2022-07-15T01:43:46.1105Z"
+    }
+  },
+  {
+    "id": "66",
+    "audiosId": "B5P3J3",
+    "paragraphId": "13",
+    "content": "فَيُسَلِّمُوْنَ عَلَى رَسُوْلِ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.823Z",
+    "updatedDate": "2022-07-15T01:43:46.823Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "66",
+        "sentenceId": "66",
+        "content": "agar mereka bisa menyalami Rasulullah shalallahu ‘alaihi wasallam,",
+        "createdDate": "2022-07-15T01:43:46.823Z",
+        "updatedDate": "2022-07-15T01:43:46.823Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P3J3",
+      "content": "B5P3J3.mp3",
+      "offline": "B5P3J3",
+      "createdDate": "2022-07-15T01:43:46.1106Z",
+      "updatedDate": "2022-07-15T01:43:46.1106Z"
+    }
+  },
+  {
+    "id": "67",
+    "audiosId": "B5P3J4",
+    "paragraphId": "13",
+    "content": "وَعَلَى صَاحِبَيْهِ أَبِيْ بَكْرٍ وَعُمَرَ رَضِيَ اللّٰهُ عَنْهُمَا.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.824Z",
+    "updatedDate": "2022-07-15T01:43:46.824Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "67",
+        "sentenceId": "67",
+        "content": "dan menyalami kedua sahabatnya Abu Bakar dan Umar radhiyallu ‘anhuma (semoga Allah meridhoi keduanya).",
+        "createdDate": "2022-07-15T01:43:46.824Z",
+        "updatedDate": "2022-07-15T01:43:46.824Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P3J4",
+      "content": "B5P3J4.mp3",
+      "offline": "B5P3J4",
+      "createdDate": "2022-07-15T01:43:46.1107Z",
+      "updatedDate": "2022-07-15T01:43:46.1107Z"
+    }
+  },
+  {
+    "id": "68",
+    "audiosId": "B5P4J1",
+    "paragraphId": "14",
+    "content": "وَفِيْ الْمَمْلَكَةِ مَدَارِسُ كَثِيْرَةٌ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.825Z",
+    "updatedDate": "2022-07-15T01:43:46.825Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "68",
+        "sentenceId": "68",
+        "content": "dan di kerajaan Saudi terdapat banyak sekolah,",
+        "createdDate": "2022-07-15T01:43:46.825Z",
+        "updatedDate": "2022-07-15T01:43:46.825Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P4J1",
+      "content": "B5P4J1.mp3",
+      "offline": "B5P4J1",
+      "createdDate": "2022-07-15T01:43:46.1108Z",
+      "updatedDate": "2022-07-15T01:43:46.1108Z"
+    }
+  },
+  {
+    "id": "69",
+    "audiosId": "B5P4J2",
+    "paragraphId": "14",
+    "content": "وَبِهَا سَبْعُ جَامِعَاتٍ وَمَعَاهِدُ ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.826Z",
+    "updatedDate": "2022-07-15T01:43:46.826Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "69",
+        "sentenceId": "69",
+        "content": "dan di sana ada tujuh universitas dan institut (ma’had) ",
+        "createdDate": "2022-07-15T01:43:46.826Z",
+        "updatedDate": "2022-07-15T01:43:46.826Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P4J2",
+      "content": "B5P4J2.mp3",
+      "offline": "B5P4J2",
+      "createdDate": "2022-07-15T01:43:46.1109Z",
+      "updatedDate": "2022-07-15T01:43:46.1109Z"
+    }
+  },
+  {
+    "id": "70",
+    "audiosId": "B5P4J3",
+    "paragraphId": "14",
+    "content": "لِتَعْلِيْمِ اللُّغَةِ الْعَرَبِيَّةِ لِغَيْرِ النَّاطِقِيْنَ بِهَا",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.827Z",
+    "updatedDate": "2022-07-15T01:43:46.827Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "70",
+        "sentenceId": "70",
+        "content": " untuk pengajaran bahasa Arab untuk penutur asing",
+        "createdDate": "2022-07-15T01:43:46.827Z",
+        "updatedDate": "2022-07-15T01:43:46.827Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P4J3",
+      "content": "B5P4J3.mp3",
+      "offline": "B5P4J3",
+      "createdDate": "2022-07-15T01:43:46.1110Z",
+      "updatedDate": "2022-07-15T01:43:46.1110Z"
+    }
+  },
+  {
+    "id": "71",
+    "audiosId": "B5P4J4",
+    "paragraphId": "14",
+    "content": "مِنْ أَبْنَاءِ الدُّوَلِ الْإِسْلَامِيَّةِ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.828Z",
+    "updatedDate": "2022-07-15T01:43:46.828Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "71",
+        "sentenceId": "71",
+        "content": "dari anak-anak negara-negara islam.",
+        "createdDate": "2022-07-15T01:43:46.828Z",
+        "updatedDate": "2022-07-15T01:43:46.828Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P4J4",
+      "content": "B5P4J4.mp3",
+      "offline": "B5P4J4",
+      "createdDate": "2022-07-15T01:43:46.1111Z",
+      "updatedDate": "2022-07-15T01:43:46.1111Z"
+    }
+  },
+  {
+    "id": "72",
+    "audiosId": "B5P5J1",
+    "paragraphId": "15",
+    "content": "وَأَهَمُّ صَادِرَاتِ الْمَمْلَكَةِ:",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.829Z",
+    "updatedDate": "2022-07-15T01:43:46.829Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "72",
+        "sentenceId": "72",
+        "content": "Dan komoditas (terpenting) ekspor kerajaan Saudi adalah:",
+        "createdDate": "2022-07-15T01:43:46.829Z",
+        "updatedDate": "2022-07-15T01:43:46.829Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P5J1",
+      "content": "B5P5J1.mp3",
+      "offline": "B5P5J1",
+      "createdDate": "2022-07-15T01:43:46.1112Z",
+      "updatedDate": "2022-07-15T01:43:46.1112Z"
+    }
+  },
+  {
+    "id": "73",
+    "audiosId": "B5P5J2",
+    "paragraphId": "15",
+    "content": "النِّفْطُ (البِتْرُوْلُ) وَيُسَمَّى الذَّهَبَ الْأَسْوَدَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.830Z",
+    "updatedDate": "2022-07-15T01:43:46.830Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "73",
+        "sentenceId": "73",
+        "content": "Minyak bumi (Petroleum) yang dijuluki dengan emas hitam,",
+        "createdDate": "2022-07-15T01:43:46.830Z",
+        "updatedDate": "2022-07-15T01:43:46.830Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P5J2",
+      "content": "B5P5J2.mp3",
+      "offline": "B5P5J2",
+      "createdDate": "2022-07-15T01:43:46.1113Z",
+      "updatedDate": "2022-07-15T01:43:46.1113Z"
+    }
+  },
+  {
+    "id": "74",
+    "audiosId": "B5P5J3",
+    "paragraphId": "15",
+    "content": "وَتُصَدِّرُهُ إِلَى بِلَادٍ كَثِيْرَةٍ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.831Z",
+    "updatedDate": "2022-07-15T01:43:46.831Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "74",
+        "sentenceId": "74",
+        "content": "Dan mengekspornya ke banyak negara,",
+        "createdDate": "2022-07-15T01:43:46.831Z",
+        "updatedDate": "2022-07-15T01:43:46.831Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P5J3",
+      "content": "B5P5J3.mp3",
+      "offline": "B5P5J3",
+      "createdDate": "2022-07-15T01:43:46.1114Z",
+      "updatedDate": "2022-07-15T01:43:46.1114Z"
+    }
+  },
+  {
+    "id": "75",
+    "audiosId": "B5P5J4",
+    "paragraphId": "15",
+    "content": "وَتَسْتَوْرِدُ السُّكَّرَ، وَالشَّايَ، وَالبُنَّ، وَالرُّزَّ، وَالْمَلَابِسَ، وَالسَّيَّارَاتِ وَغَيْرَهَا.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.832Z",
+    "updatedDate": "2022-07-15T01:43:46.832Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "75",
+        "sentenceId": "75",
+        "content": "Dan mengimpor gula, teh, kopi, beras, pakaian, mobil, dan lain sebagainya.",
+        "createdDate": "2022-07-15T01:43:46.832Z",
+        "updatedDate": "2022-07-15T01:43:46.832Z"
+      }
+    ],
+    "audios": {
+      "id": "B5P5J4",
+      "content": "B5P5J4.mp3",
+      "offline": "B5P5J4",
+      "createdDate": "2022-07-15T01:43:46.1115Z",
+      "updatedDate": "2022-07-15T01:43:46.1115Z"
+    }
+  },
+  {
+    "id": "76",
+    "audiosId": "B6P1J1",
+    "paragraphId": "16",
+    "content": "رِحْلَةٌ قَصِيْرَةٌ",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.833Z",
+    "updatedDate": "2022-07-15T01:43:46.833Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "76",
+        "sentenceId": "76",
+        "content": "Perjalanan dekat",
+        "createdDate": "2022-07-15T01:43:46.833Z",
+        "updatedDate": "2022-07-15T01:43:46.833Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P1J1",
+      "content": "B6P1J1.mp3",
+      "offline": "B6P1J1",
+      "createdDate": "2022-07-15T01:43:46.1216Z",
+      "updatedDate": "2022-07-15T01:43:46.1216Z"
+    }
+  },
+  {
+    "id": "77",
+    "audiosId": "B6P1J2",
+    "paragraphId": "16",
+    "content": "قَالَ سَالِمٌ لِفَهْدٍ: لَقَدْ كَانَ الْعَمَلُ فِيْ هٰذَا الأُسْبُوْعِ مُتْعِبًا",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.834Z",
+    "updatedDate": "2022-07-15T01:43:46.834Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "77",
+        "sentenceId": "77",
+        "content": "Salim berkata kepada Fahd: pekeerjaan di minggu ini sungguh melelahkan",
+        "createdDate": "2022-07-15T01:43:46.834Z",
+        "updatedDate": "2022-07-15T01:43:46.834Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P1J2",
+      "content": "B6P1J2.mp3",
+      "offline": "B6P1J2",
+      "createdDate": "2022-07-15T01:43:46.1217Z",
+      "updatedDate": "2022-07-15T01:43:46.1217Z"
+    }
+  },
+  {
+    "id": "78",
+    "audiosId": "B6P1J3",
+    "paragraphId": "16",
+    "content": "فَهَيَّا نَذْهَبْ إِلَى إِحْدَى الْحَدَائِقِ خَارِجَ الْمَدِيْنَةِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.835Z",
+    "updatedDate": "2022-07-15T01:43:46.835Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "78",
+        "sentenceId": "78",
+        "content": "Maka marilah kita pergi ke salah satu taman di luar kota.",
+        "createdDate": "2022-07-15T01:43:46.835Z",
+        "updatedDate": "2022-07-15T01:43:46.835Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P1J3",
+      "content": "B6P1J3.mp3",
+      "offline": "B6P1J3",
+      "createdDate": "2022-07-15T01:43:46.1218Z",
+      "updatedDate": "2022-07-15T01:43:46.1218Z"
+    }
+  },
+  {
+    "id": "79",
+    "audiosId": "B6P2J1",
+    "paragraphId": "17",
+    "content": "    قَالَ فَهْدٌ: هٰذِهِ فِكْرَةٌ جَمِيْلَةٌ يَا سَالِمٌ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.836Z",
+    "updatedDate": "2022-07-15T01:43:46.836Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "79",
+        "sentenceId": "79",
+        "content": "Fahd berkata: itu ide yang bagus, Salim",
+        "createdDate": "2022-07-15T01:43:46.836Z",
+        "updatedDate": "2022-07-15T01:43:46.836Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P2J1",
+      "content": "B6P2J1.mp3",
+      "offline": "B6P2J1",
+      "createdDate": "2022-07-15T01:43:46.1219Z",
+      "updatedDate": "2022-07-15T01:43:46.1219Z"
+    }
+  },
+  {
+    "id": "80",
+    "audiosId": "B6P2J2",
+    "paragraphId": "17",
+    "content": "نَذْهَبُ إِنْ شَاءَ اللّٰهُ يَوْمَ الْعُطْلَةِ الْأُسْبُوْعِيَّةِ مَعًا.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.837Z",
+    "updatedDate": "2022-07-15T01:43:46.837Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "80",
+        "sentenceId": "80",
+        "content": "kita pergi bersama pada libur pekanan, in sya Allah",
+        "createdDate": "2022-07-15T01:43:46.837Z",
+        "updatedDate": "2022-07-15T01:43:46.837Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P2J2",
+      "content": "B6P2J2.mp3",
+      "offline": "B6P2J2",
+      "createdDate": "2022-07-15T01:43:46.1220Z",
+      "updatedDate": "2022-07-15T01:43:46.1220Z"
+    }
+  },
+  {
+    "id": "81",
+    "audiosId": "B6P3J1",
+    "paragraphId": "18",
+    "content": "قَالَ سَالِمٌ: سَنَأْخُذُ مَعَنَا بَعْضَ الْطَّعَامِ، وَالْمَاءِ، وَالشَّايِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.838Z",
+    "updatedDate": "2022-07-15T01:43:46.838Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "81",
+        "sentenceId": "81",
+        "content": "Salim berkata: kita akan membawa beberapa makanan, air, dan teh",
+        "createdDate": "2022-07-15T01:43:46.838Z",
+        "updatedDate": "2022-07-15T01:43:46.838Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P3J1",
+      "content": "B6P3J1.mp3",
+      "offline": "B6P3J1",
+      "createdDate": "2022-07-15T01:43:46.1221Z",
+      "updatedDate": "2022-07-15T01:43:46.1221Z"
+    }
+  },
+  {
+    "id": "82",
+    "audiosId": "B6P3J2",
+    "paragraphId": "18",
+    "content": "قَالَ فَهْدٌ: نَعَمْ، وَعَلَيْنَا أَنْ نُعِدَّ السَّيَّارَةَ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.839Z",
+    "updatedDate": "2022-07-15T01:43:46.839Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "82",
+        "sentenceId": "82",
+        "content": "Fahd berkata: ya, dan kita akan menyiapkan mobil.",
+        "createdDate": "2022-07-15T01:43:46.839Z",
+        "updatedDate": "2022-07-15T01:43:46.839Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P3J2",
+      "content": "B6P3J2.mp3",
+      "offline": "B6P3J2",
+      "createdDate": "2022-07-15T01:43:46.1222Z",
+      "updatedDate": "2022-07-15T01:43:46.1222Z"
+    }
+  },
+  {
+    "id": "83",
+    "audiosId": "B6P4J1",
+    "paragraphId": "19",
+    "content": "    وَفِيْ يَوْمِ الْعُطْلَةِ خَرَجَ فَهْدٌ وَزَمِيْلُهُ سَالِمٌ مُبَكِّرَيْنِ بَعْدَ صَلَاةِ الْفَجْرِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.840Z",
+    "updatedDate": "2022-07-15T01:43:46.840Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "83",
+        "sentenceId": "83",
+        "content": "Dan pada hari libur Fahd, dan temannya Salim keluar lebih awal setelah shalat Shubuh",
+        "createdDate": "2022-07-15T01:43:46.840Z",
+        "updatedDate": "2022-07-15T01:43:46.840Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P4J1",
+      "content": "B6P4J1.mp3",
+      "offline": "B6P4J1",
+      "createdDate": "2022-07-15T01:43:46.1223Z",
+      "updatedDate": "2022-07-15T01:43:46.1223Z"
+    }
+  },
+  {
+    "id": "84",
+    "audiosId": "B6P4J2",
+    "paragraphId": "19",
+    "content": "وَقَبْلَ طُلُوْعِ الشَّمْسِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.841Z",
+    "updatedDate": "2022-07-15T01:43:46.841Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "84",
+        "sentenceId": "84",
+        "content": "dan sebelum matahari terbit,",
+        "createdDate": "2022-07-15T01:43:46.841Z",
+        "updatedDate": "2022-07-15T01:43:46.841Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P4J2",
+      "content": "B6P4J2.mp3",
+      "offline": "B6P4J2",
+      "createdDate": "2022-07-15T01:43:46.1224Z",
+      "updatedDate": "2022-07-15T01:43:46.1224Z"
+    }
+  },
+  {
+    "id": "85",
+    "audiosId": "B6P4J3",
+    "paragraphId": "19",
+    "content": "    فَرَكِبَا السَّيَّارَةَ وَخَرَجَا مِنَ الْمَدِيْنَةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.842Z",
+    "updatedDate": "2022-07-15T01:43:46.842Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "85",
+        "sentenceId": "85",
+        "content": "Maka mereka berdua mengendarai mobil dan keluar dari kota",
+        "createdDate": "2022-07-15T01:43:46.842Z",
+        "updatedDate": "2022-07-15T01:43:46.842Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P4J3",
+      "content": "B6P4J3.mp3",
+      "offline": "B6P4J3",
+      "createdDate": "2022-07-15T01:43:46.1225Z",
+      "updatedDate": "2022-07-15T01:43:46.1225Z"
+    }
+  },
+  {
+    "id": "86",
+    "audiosId": "B6P4J4",
+    "paragraphId": "19",
+    "content": "وَفِيْ الطَّرِيْقِ شَاهَدَا الأَشْجَارَ كَثِيْرَةَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.843Z",
+    "updatedDate": "2022-07-15T01:43:46.843Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "86",
+        "sentenceId": "86",
+        "content": "dan di perjalanan mereka berdua melihat banyak pohon",
+        "createdDate": "2022-07-15T01:43:46.843Z",
+        "updatedDate": "2022-07-15T01:43:46.843Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P4J4",
+      "content": "B6P4J4.mp3",
+      "offline": "B6P4J4",
+      "createdDate": "2022-07-15T01:43:46.1226Z",
+      "updatedDate": "2022-07-15T01:43:46.1226Z"
+    }
+  },
+  {
+    "id": "87",
+    "audiosId": "B6P4J4",
+    "paragraphId": "19",
+    "content": "والأَزْهَارَ الْجَمِيْلَةَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.844Z",
+    "updatedDate": "2022-07-15T01:43:46.844Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "87",
+        "sentenceId": "87",
+        "content": "dan bunga-bunga yang indah",
+        "createdDate": "2022-07-15T01:43:46.844Z",
+        "updatedDate": "2022-07-15T01:43:46.844Z"
+      }
+    ],
+    "audios": {
+      "id": "B6P4J4",
+      "content": "B6P4J4.mp3",
+      "offline": "B6P4J4",
+      "createdDate": "2022-07-15T01:43:46.1226Z",
+      "updatedDate": "2022-07-15T01:43:46.1226Z"
+    }
+  },
+  {
+    "id": "88",
+    "audiosId": "B6P3J6",
+    "paragraphId": "19",
+    "content": "ذَاتَ الرَّوَائِحِ الطَّيِّبَةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.845Z",
+    "updatedDate": "2022-07-15T01:43:46.845Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "88",
+        "sentenceId": "88",
+        "content": "memiliki aroma yang harum",
+        "createdDate": "2022-07-15T01:43:46.845Z",
+        "updatedDate": "2022-07-15T01:43:46.845Z"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "audiosId": "B6P3J7",
+    "paragraphId": "19",
+    "content": "كَمَا شَاهَدَا الطُّيُوْرَ الْمُغَرِّدَةَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.846Z",
+    "updatedDate": "2022-07-15T01:43:46.846Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "89",
+        "sentenceId": "89",
+        "content": "mereka juga melihat burung yang berkicau",
+        "createdDate": "2022-07-15T01:43:46.846Z",
+        "updatedDate": "2022-07-15T01:43:46.846Z"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "audiosId": "B6P3J8",
+    "paragraphId": "19",
+    "content": "وَالْأَرَاضِيَ الْخَالِيَةَ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.847Z",
+    "updatedDate": "2022-07-15T01:43:46.847Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "90",
+        "sentenceId": "90",
+        "content": "dan lahan kosong,",
+        "createdDate": "2022-07-15T01:43:46.847Z",
+        "updatedDate": "2022-07-15T01:43:46.847Z"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "audiosId": "B6P3J9",
+    "paragraphId": "19",
+    "content": "    وَسَارَا حَتَّى وَصَلَا إِلَى حَدِيْقَةٍ كَبِيْرَةٍ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.848Z",
+    "updatedDate": "2022-07-15T01:43:46.848Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "91",
+        "sentenceId": "91",
+        "content": "Mereka berdua berjalan sampai mereka sampai ke taman yang besar",
+        "createdDate": "2022-07-15T01:43:46.848Z",
+        "updatedDate": "2022-07-15T01:43:46.848Z"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "audiosId": "B6P3J10",
+    "paragraphId": "19",
+    "content": "وَجَلَسَا فِيْهَا يَوْمًا كَامِلًا سَعِيْدَيْنِ بِالْجَوِّ الْجَمِيْلِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.849Z",
+    "updatedDate": "2022-07-15T01:43:46.849Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "92",
+        "sentenceId": "92",
+        "content": "dan mereka berdua bahagia duduk di sana sepanjang hari dengan cuaca yang indah",
+        "createdDate": "2022-07-15T01:43:46.849Z",
+        "updatedDate": "2022-07-15T01:43:46.849Z"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "audiosId": "B6P3J11",
+    "paragraphId": "19",
+    "content": "وَالْأَرْضِ الخَضْرَاءِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.850Z",
+    "updatedDate": "2022-07-15T01:43:46.850Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "93",
+        "sentenceId": "93",
+        "content": "dan bumi yang hijau",
+        "createdDate": "2022-07-15T01:43:46.850Z",
+        "updatedDate": "2022-07-15T01:43:46.850Z"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "audiosId": "B6P3J12",
+    "paragraphId": "19",
+    "content": "وَمَا فِيْهَا مِنْ أَشْجَارٍ وَأَزْهَارٍ وَطُيُوْرٍ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.851Z",
+    "updatedDate": "2022-07-15T01:43:46.851Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "94",
+        "sentenceId": "94",
+        "content": "dan apa yang ada di dalamnya meliputi pohon, bunga, dan burung,",
+        "createdDate": "2022-07-15T01:43:46.851Z",
+        "updatedDate": "2022-07-15T01:43:46.851Z"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "audiosId": "B6P3J13",
+    "paragraphId": "19",
+    "content": "    وَعِنْدَ غُرُوْبِ الشَّمْسِ عَادَا مَسْرُوْرَيْنِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.852Z",
+    "updatedDate": "2022-07-15T01:43:46.852Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "95",
+        "sentenceId": "95",
+        "content": "dan saat matahari terbenam, mereka berdua Kembali dengan bahagia",
+        "createdDate": "2022-07-15T01:43:46.852Z",
+        "updatedDate": "2022-07-15T01:43:46.852Z"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "audiosId": "B6P3J14",
+    "paragraphId": "19",
+    "content": "وَاتَّفَقَا عَلَى أَنْ يَقْضِيَا يَوْمَ الْعُطْلَةِ خَارِجَ الْمَدِيْنَةِ دَائِمًا؛",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.853Z",
+    "updatedDate": "2022-07-15T01:43:46.853Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "96",
+        "sentenceId": "96",
+        "content": "dan mereka berdua bersepakat untuk selalu menghabiskan waktu liburannya keluar kota",
+        "createdDate": "2022-07-15T01:43:46.853Z",
+        "updatedDate": "2022-07-15T01:43:46.853Z"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "audiosId": "B6P3J15",
+    "paragraphId": "19",
+    "content": "لِكَيْ يَبْتَعِدَا عَنْ ضَجِيْجِ الْمَدِيْنَةِ،",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.854Z",
+    "updatedDate": "2022-07-15T01:43:46.854Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "97",
+        "sentenceId": "97",
+        "content": "sehingga menjauhkan mereka berdua dari kebisingan kota,",
+        "createdDate": "2022-07-15T01:43:46.854Z",
+        "updatedDate": "2022-07-15T01:43:46.854Z"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "audiosId": "B6P3J16",
+    "paragraphId": "19",
+    "content": "    وَيَحْصُلَا عَلَى الْهُدُوْءِ وَالسَّكِيْنَةِ.",
+    "read": "",
+    "createdDate": "2022-07-15T01:43:46.855Z",
+    "updatedDate": "2022-07-15T01:43:46.855Z",
+    "words": [],
+    "indonesiaSentences": [
+      {
+        "id": "98",
+        "sentenceId": "98",
+        "content": "Dan mereka berdua mendapatkan kedamaian dan ketenangan.",
+        "createdDate": "2022-07-15T01:43:46.855Z",
+        "updatedDate": "2022-07-15T01:43:46.855Z"
+      }
+    ]
+  }
+]
